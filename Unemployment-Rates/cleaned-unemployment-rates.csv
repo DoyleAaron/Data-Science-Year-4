@@ -1,0 +1,7598 @@
+Area,Year,Unemployment Rate
+Albany City,1990,4.2
+Albany City,1991,6.6
+Albany City,1992,7.1
+Albany City,1993,6.0
+Albany City,1994,5.7
+Albany City,1995,5.8
+Albany City,1996,5.2
+Albany City,1997,4.7
+Albany City,1998,4.2
+Albany City,1999,4.0
+Albany City,2000,3.7
+Albany City,2001,3.8
+Albany City,2002,4.6
+Albany City,2003,5.0
+Albany City,2004,5.0
+Albany City,2005,4.6
+Albany City,2006,4.6
+Albany City,2007,4.5
+Albany City,2008,5.6
+Albany City,2009,8.1
+Albany City,2010,8.4
+Albany City,2011,8.2
+Albany City,2012,8.5
+Albany City,2013,7.3
+Albany City,2014,5.8
+Albany City,2015,5.2
+Albany City,2016,4.9
+Albany City,2017,5.0
+Albany City,2018,4.4
+Albany City,2019,4.2
+Albany City,2020,9.0
+Albany City,2021,5.8
+Albany City,2022,3.9
+Albany City,2023,4.1
+Albany City,2024,4.4
+Albany County,1990,3.0
+Albany County,1991,4.7
+Albany County,1992,5.1
+Albany County,1993,4.3
+Albany County,1994,4.1
+Albany County,1995,4.1
+Albany County,1996,3.8
+Albany County,1997,3.4
+Albany County,1998,3.0
+Albany County,1999,2.8
+Albany County,2000,3.3
+Albany County,2001,3.4
+Albany County,2002,4.0
+Albany County,2003,4.3
+Albany County,2004,4.2
+Albany County,2005,3.9
+Albany County,2006,3.8
+Albany County,2007,3.8
+Albany County,2008,4.8
+Albany County,2009,6.9
+Albany County,2010,7.1
+Albany County,2011,7.0
+Albany County,2012,7.2
+Albany County,2013,6.2
+Albany County,2014,4.9
+Albany County,2015,4.4
+Albany County,2016,4.1
+Albany County,2017,4.2
+Albany County,2018,3.7
+Albany County,2019,3.5
+Albany County,2020,6.9
+Albany County,2021,4.4
+Albany County,2022,3.1
+Albany County,2023,3.3
+Albany County,2024,3.6
+Albany-Rensselaer-Schenectady Counties,1990,3.5
+Albany-Rensselaer-Schenectady Counties,1991,5.4
+Albany-Rensselaer-Schenectady Counties,1992,5.8
+Albany-Rensselaer-Schenectady Counties,1993,4.8
+Albany-Rensselaer-Schenectady Counties,1994,4.6
+Albany-Rensselaer-Schenectady Counties,1995,4.7
+Albany-Rensselaer-Schenectady Counties,1996,4.3
+Albany-Rensselaer-Schenectady Counties,1997,3.9
+Albany-Rensselaer-Schenectady Counties,1998,3.5
+Albany-Rensselaer-Schenectady Counties,1999,3.2
+Albany-Rensselaer-Schenectady Counties,2000,3.4
+Albany-Rensselaer-Schenectady Counties,2001,3.5
+Albany-Rensselaer-Schenectady Counties,2002,4.2
+Albany-Rensselaer-Schenectady Counties,2003,4.5
+Albany-Rensselaer-Schenectady Counties,2004,4.4
+Albany-Rensselaer-Schenectady Counties,2005,4.1
+Albany-Rensselaer-Schenectady Counties,2006,4.0
+Albany-Rensselaer-Schenectady Counties,2007,4.0
+Albany-Rensselaer-Schenectady Counties,2008,4.9
+Albany-Rensselaer-Schenectady Counties,2009,7.2
+Albany-Rensselaer-Schenectady Counties,2010,7.5
+Albany-Rensselaer-Schenectady Counties,2011,7.3
+Albany-Rensselaer-Schenectady Counties,2012,7.5
+Albany-Rensselaer-Schenectady Counties,2013,6.5
+Albany-Rensselaer-Schenectady Counties,2014,5.2
+Albany-Rensselaer-Schenectady Counties,2015,4.6
+Albany-Rensselaer-Schenectady Counties,2016,4.2
+Albany-Rensselaer-Schenectady Counties,2017,4.3
+Albany-Rensselaer-Schenectady Counties,2018,3.8
+Albany-Rensselaer-Schenectady Counties,2019,3.6
+Albany-Rensselaer-Schenectady Counties,2020,7.1
+Albany-Rensselaer-Schenectady Counties,2021,4.6
+Albany-Rensselaer-Schenectady Counties,2022,3.2
+Albany-Rensselaer-Schenectady Counties,2023,3.4
+Albany-Rensselaer-Schenectady Counties,2024,3.7
+Albany-Schenectady-Troy Metro Area,1990,3.5
+Albany-Schenectady-Troy Metro Area,1991,5.5
+Albany-Schenectady-Troy Metro Area,1992,5.9
+Albany-Schenectady-Troy Metro Area,1993,4.9
+Albany-Schenectady-Troy Metro Area,1994,4.7
+Albany-Schenectady-Troy Metro Area,1995,4.8
+Albany-Schenectady-Troy Metro Area,1996,4.3
+Albany-Schenectady-Troy Metro Area,1997,4.0
+Albany-Schenectady-Troy Metro Area,1998,3.5
+Albany-Schenectady-Troy Metro Area,1999,3.3
+Albany-Schenectady-Troy Metro Area,2000,3.4
+Albany-Schenectady-Troy Metro Area,2001,3.5
+Albany-Schenectady-Troy Metro Area,2002,4.2
+Albany-Schenectady-Troy Metro Area,2003,4.4
+Albany-Schenectady-Troy Metro Area,2004,4.4
+Albany-Schenectady-Troy Metro Area,2005,4.0
+Albany-Schenectady-Troy Metro Area,2006,3.9
+Albany-Schenectady-Troy Metro Area,2007,3.9
+Albany-Schenectady-Troy Metro Area,2008,4.9
+Albany-Schenectady-Troy Metro Area,2009,7.0
+Albany-Schenectady-Troy Metro Area,2010,7.4
+Albany-Schenectady-Troy Metro Area,2011,7.2
+Albany-Schenectady-Troy Metro Area,2012,7.4
+Albany-Schenectady-Troy Metro Area,2013,6.4
+Albany-Schenectady-Troy Metro Area,2014,5.1
+Albany-Schenectady-Troy Metro Area,2015,4.5
+Albany-Schenectady-Troy Metro Area,2016,4.2
+Albany-Schenectady-Troy Metro Area,2017,4.3
+Albany-Schenectady-Troy Metro Area,2018,3.7
+Albany-Schenectady-Troy Metro Area,2019,3.5
+Albany-Schenectady-Troy Metro Area,2020,6.9
+Albany-Schenectady-Troy Metro Area,2021,4.4
+Albany-Schenectady-Troy Metro Area,2022,3.1
+Albany-Schenectady-Troy Metro Area,2023,3.2
+Albany-Schenectady-Troy Metro Area,2024,3.6
+Allegany County,1990,6.6
+Allegany County,1991,8.1
+Allegany County,1992,9.7
+Allegany County,1993,8.7
+Allegany County,1994,8.3
+Allegany County,1995,7.7
+Allegany County,1996,7.6
+Allegany County,1997,8.2
+Allegany County,1998,7.5
+Allegany County,1999,7.5
+Allegany County,2000,4.8
+Allegany County,2001,4.7
+Allegany County,2002,5.5
+Allegany County,2003,6.6
+Allegany County,2004,6.5
+Allegany County,2005,5.9
+Allegany County,2006,5.2
+Allegany County,2007,5.4
+Allegany County,2008,6.3
+Allegany County,2009,8.9
+Allegany County,2010,9.3
+Allegany County,2011,9.0
+Allegany County,2012,8.5
+Allegany County,2013,7.7
+Allegany County,2014,6.3
+Allegany County,2015,6.5
+Allegany County,2016,6.4
+Allegany County,2017,6.6
+Allegany County,2018,5.5
+Allegany County,2019,5.2
+Allegany County,2020,7.8
+Allegany County,2021,5.1
+Allegany County,2022,4.1
+Allegany County,2023,4.3
+Allegany County,2024,4.6
+Allegany-Cattaraugus,1990,6.5
+Allegany-Cattaraugus,1991,8.7
+Allegany-Cattaraugus,1992,10.0
+Allegany-Cattaraugus,1993,8.8
+Allegany-Cattaraugus,1994,8.3
+Allegany-Cattaraugus,1995,7.6
+Allegany-Cattaraugus,1996,7.2
+Allegany-Cattaraugus,1997,7.6
+Allegany-Cattaraugus,1998,7.3
+Allegany-Cattaraugus,1999,7.2
+Allegany-Cattaraugus,2000,4.6
+Allegany-Cattaraugus,2001,4.9
+Allegany-Cattaraugus,2002,5.6
+Allegany-Cattaraugus,2003,6.1
+Allegany-Cattaraugus,2004,6.2
+Allegany-Cattaraugus,2005,5.6
+Allegany-Cattaraugus,2006,5.1
+Allegany-Cattaraugus,2007,5.1
+Allegany-Cattaraugus,2008,6.1
+Allegany-Cattaraugus,2009,8.8
+Allegany-Cattaraugus,2010,9.6
+Allegany-Cattaraugus,2011,9.3
+Allegany-Cattaraugus,2012,9.1
+Allegany-Cattaraugus,2013,8.3
+Allegany-Cattaraugus,2014,6.7
+Allegany-Cattaraugus,2015,6.4
+Allegany-Cattaraugus,2016,6.2
+Allegany-Cattaraugus,2017,6.3
+Allegany-Cattaraugus,2018,5.4
+Allegany-Cattaraugus,2019,5.0
+Allegany-Cattaraugus,2020,8.7
+Allegany-Cattaraugus,2021,5.2
+Allegany-Cattaraugus,2022,4.1
+Allegany-Cattaraugus,2023,4.3
+Allegany-Cattaraugus,2024,4.6
+Amherst Town,1990,3.0
+Amherst Town,1991,4.1
+Amherst Town,1992,4.3
+Amherst Town,1993,3.9
+Amherst Town,1994,3.4
+Amherst Town,1995,3.0
+Amherst Town,1996,2.8
+Amherst Town,1997,2.9
+Amherst Town,1998,2.9
+Amherst Town,1999,3.0
+Amherst Town,2000,3.4
+Amherst Town,2001,3.7
+Amherst Town,2002,4.3
+Amherst Town,2003,4.4
+Amherst Town,2004,4.5
+Amherst Town,2005,4.1
+Amherst Town,2006,3.8
+Amherst Town,2007,3.7
+Amherst Town,2008,4.5
+Amherst Town,2009,6.5
+Amherst Town,2010,6.6
+Amherst Town,2011,6.3
+Amherst Town,2012,6.6
+Amherst Town,2013,5.9
+Amherst Town,2014,4.7
+Amherst Town,2015,4.1
+Amherst Town,2016,3.9
+Amherst Town,2017,4.1
+Amherst Town,2018,3.5
+Amherst Town,2019,3.3
+Amherst Town,2020,7.0
+Amherst Town,2021,4.1
+Amherst Town,2022,2.8
+Amherst Town,2023,3.1
+Amherst Town,2024,3.5
+Auburn City,1990,7.6
+Auburn City,1991,10.3
+Auburn City,1992,10.1
+Auburn City,1993,8.8
+Auburn City,1994,7.8
+Auburn City,1995,7.8
+Auburn City,1996,7.2
+Auburn City,1997,7.4
+Auburn City,1998,6.6
+Auburn City,1999,6.4
+Auburn City,2000,4.2
+Auburn City,2001,4.6
+Auburn City,2002,5.1
+Auburn City,2003,5.7
+Auburn City,2004,5.5
+Auburn City,2005,5.1
+Auburn City,2006,5.2
+Auburn City,2007,4.8
+Auburn City,2008,6.3
+Auburn City,2009,9.6
+Auburn City,2010,9.5
+Auburn City,2011,9.0
+Auburn City,2012,9.3
+Auburn City,2013,8.4
+Auburn City,2014,6.7
+Auburn City,2015,6.3
+Auburn City,2016,5.8
+Auburn City,2017,5.6
+Auburn City,2018,5.0
+Auburn City,2019,4.6
+Auburn City,2020,9.4
+Auburn City,2021,5.8
+Auburn City,2022,4.2
+Auburn City,2023,4.2
+Auburn City,2024,4.7
+Babylon Town,1990,5.0
+Babylon Town,1991,7.8
+Babylon Town,1992,9.3
+Babylon Town,1993,8.2
+Babylon Town,1994,7.0
+Babylon Town,1995,6.0
+Babylon Town,1996,5.2
+Babylon Town,1997,4.8
+Babylon Town,1998,4.0
+Babylon Town,1999,4.0
+Babylon Town,2000,3.5
+Babylon Town,2001,4.0
+Babylon Town,2002,5.1
+Babylon Town,2003,5.2
+Babylon Town,2004,5.2
+Babylon Town,2005,4.6
+Babylon Town,2006,4.2
+Babylon Town,2007,4.1
+Babylon Town,2008,5.4
+Babylon Town,2009,8.1
+Babylon Town,2010,8.5
+Babylon Town,2011,8.3
+Babylon Town,2012,8.6
+Babylon Town,2013,7.3
+Babylon Town,2014,5.8
+Babylon Town,2015,5.1
+Babylon Town,2016,4.8
+Babylon Town,2017,4.7
+Babylon Town,2018,4.0
+Babylon Town,2019,3.7
+Babylon Town,2020,9.4
+Babylon Town,2021,5.3
+Babylon Town,2022,3.5
+Babylon Town,2023,3.7
+Babylon Town,2024,4.0
+Balance of State,1976,9.6
+Balance of State,1977,8.5
+Balance of State,1978,6.9
+Balance of State,1979,6.1
+Balance of State,1980,6.8
+Balance of State,1981,6.8
+Balance of State,1982,8.0
+Balance of State,1983,8.3
+Balance of State,1984,6.2
+Balance of State,1985,5.7
+Balance of State,1986,5.5
+Balance of State,1987,4.3
+Balance of State,1988,3.7
+Balance of State,1989,3.9
+Balance of State,1990,4.4
+Balance of State,1991,6.4
+Balance of State,1992,7.2
+Balance of State,1993,6.4
+Balance of State,1994,5.8
+Balance of State,1995,5.2
+Balance of State,1996,4.7
+Balance of State,1997,4.5
+Balance of State,1998,4.1
+Balance of State,1999,4.1
+Balance of State,2000,3.7
+Balance of State,2001,4.1
+Balance of State,2002,5.0
+Balance of State,2003,5.2
+Balance of State,2004,5.0
+Balance of State,2005,4.5
+Balance of State,2006,4.3
+Balance of State,2007,4.2
+Balance of State,2008,5.2
+Balance of State,2009,7.8
+Balance of State,2010,8.1
+Balance of State,2011,7.8
+Balance of State,2012,8.0
+Balance of State,2013,7.1
+Balance of State,2014,5.7
+Balance of State,2015,5.0
+Balance of State,2016,4.7
+Balance of State,2017,4.7
+Balance of State,2018,4.1
+Balance of State,2019,3.8
+Balance of State,2020,8.0
+Balance of State,2021,4.8
+Balance of State,2022,3.3
+Balance of State,2023,3.5
+Balance of State,2024,3.9
+Bethlehem Town,1990,1.9
+Bethlehem Town,1991,3.1
+Bethlehem Town,1992,3.3
+Bethlehem Town,1993,2.8
+Bethlehem Town,1994,2.7
+Bethlehem Town,1995,2.7
+Bethlehem Town,1996,2.4
+Bethlehem Town,1997,2.2
+Bethlehem Town,1998,2.0
+Bethlehem Town,1999,1.8
+Bethlehem Town,2000,2.9
+Bethlehem Town,2001,2.8
+Bethlehem Town,2002,3.2
+Bethlehem Town,2003,3.4
+Bethlehem Town,2004,3.4
+Bethlehem Town,2005,3.1
+Bethlehem Town,2006,3.1
+Bethlehem Town,2007,3.0
+Bethlehem Town,2008,3.8
+Bethlehem Town,2009,5.3
+Bethlehem Town,2010,5.5
+Bethlehem Town,2011,5.4
+Bethlehem Town,2012,5.5
+Bethlehem Town,2013,4.9
+Bethlehem Town,2014,3.8
+Bethlehem Town,2015,3.5
+Bethlehem Town,2016,3.1
+Bethlehem Town,2017,3.3
+Bethlehem Town,2018,2.9
+Bethlehem Town,2019,2.7
+Bethlehem Town,2020,4.7
+Bethlehem Town,2021,3.2
+Bethlehem Town,2022,2.3
+Bethlehem Town,2023,2.5
+Bethlehem Town,2024,2.8
+Binghamton City,1990,6.1
+Binghamton City,1991,8.4
+Binghamton City,1992,9.8
+Binghamton City,1993,10.0
+Binghamton City,1994,9.5
+Binghamton City,1995,7.6
+Binghamton City,1996,6.4
+Binghamton City,1997,6.2
+Binghamton City,1998,5.9
+Binghamton City,1999,5.9
+Binghamton City,2000,3.8
+Binghamton City,2001,4.5
+Binghamton City,2002,6.3
+Binghamton City,2003,6.3
+Binghamton City,2004,5.9
+Binghamton City,2005,5.4
+Binghamton City,2006,5.0
+Binghamton City,2007,4.8
+Binghamton City,2008,6.2
+Binghamton City,2009,9.2
+Binghamton City,2010,9.6
+Binghamton City,2011,9.3
+Binghamton City,2012,9.3
+Binghamton City,2013,8.4
+Binghamton City,2014,7.4
+Binghamton City,2015,6.6
+Binghamton City,2016,5.9
+Binghamton City,2017,5.9
+Binghamton City,2018,5.2
+Binghamton City,2019,5.0
+Binghamton City,2020,10.1
+Binghamton City,2021,6.3
+Binghamton City,2022,4.4
+Binghamton City,2023,4.5
+Binghamton City,2024,5.1
+Binghamton Metro Area,1990,4.2
+Binghamton Metro Area,1991,5.9
+Binghamton Metro Area,1992,6.8
+Binghamton Metro Area,1993,6.9
+Binghamton Metro Area,1994,6.7
+Binghamton Metro Area,1995,5.4
+Binghamton Metro Area,1996,4.4
+Binghamton Metro Area,1997,4.2
+Binghamton Metro Area,1998,4.0
+Binghamton Metro Area,1999,4.0
+Binghamton Metro Area,2000,3.6
+Binghamton Metro Area,2001,4.2
+Binghamton Metro Area,2002,5.8
+Binghamton Metro Area,2003,5.8
+Binghamton Metro Area,2004,5.4
+Binghamton Metro Area,2005,4.9
+Binghamton Metro Area,2006,4.5
+Binghamton Metro Area,2007,4.4
+Binghamton Metro Area,2008,5.4
+Binghamton Metro Area,2009,8.3
+Binghamton Metro Area,2010,8.7
+Binghamton Metro Area,2011,8.5
+Binghamton Metro Area,2012,8.6
+Binghamton Metro Area,2013,7.8
+Binghamton Metro Area,2014,6.6
+Binghamton Metro Area,2015,5.9
+Binghamton Metro Area,2016,5.4
+Binghamton Metro Area,2017,5.4
+Binghamton Metro Area,2018,4.7
+Binghamton Metro Area,2019,4.4
+Binghamton Metro Area,2020,8.2
+Binghamton Metro Area,2021,5.1
+Binghamton Metro Area,2022,3.7
+Binghamton Metro Area,2023,3.8
+Binghamton Metro Area,2024,4.3
+Brighton Town,1990,1.7
+Brighton Town,1991,2.2
+Brighton Town,1992,2.4
+Brighton Town,1993,2.3
+Brighton Town,1994,2.4
+Brighton Town,1995,2.0
+Brighton Town,1996,1.7
+Brighton Town,1997,1.8
+Brighton Town,1998,1.8
+Brighton Town,1999,1.9
+Brighton Town,2000,2.8
+Brighton Town,2001,3.2
+Brighton Town,2002,4.1
+Brighton Town,2003,4.1
+Brighton Town,2004,3.9
+Brighton Town,2005,3.4
+Brighton Town,2006,3.2
+Brighton Town,2007,3.1
+Brighton Town,2008,3.9
+Brighton Town,2009,5.8
+Brighton Town,2010,6.0
+Brighton Town,2011,5.6
+Brighton Town,2012,5.8
+Brighton Town,2013,5.1
+Brighton Town,2014,4.2
+Brighton Town,2015,3.7
+Brighton Town,2016,3.6
+Brighton Town,2017,3.6
+Brighton Town,2018,3.1
+Brighton Town,2019,3.1
+Brighton Town,2020,5.7
+Brighton Town,2021,3.7
+Brighton Town,2022,2.6
+Brighton Town,2023,2.9
+Brighton Town,2024,3.2
+Bronx County,1990,8.4
+Bronx County,1991,10.6
+Bronx County,1992,13.2
+Bronx County,1993,12.1
+Bronx County,1994,10.1
+Bronx County,1995,9.6
+Bronx County,1996,10.5
+Bronx County,1997,11.6
+Bronx County,1998,9.9
+Bronx County,1999,8.2
+Bronx County,2000,7.1
+Bronx County,2001,7.4
+Bronx County,2002,9.8
+Bronx County,2003,10.5
+Bronx County,2004,9.1
+Bronx County,2005,7.4
+Bronx County,2006,6.6
+Bronx County,2007,6.6
+Bronx County,2008,7.5
+Bronx County,2009,12.0
+Bronx County,2010,12.0
+Bronx County,2011,12.0
+Bronx County,2012,12.5
+Bronx County,2013,11.7
+Bronx County,2014,9.5
+Bronx County,2015,7.6
+Bronx County,2016,7.0
+Bronx County,2017,6.2
+Bronx County,2018,5.7
+Bronx County,2019,5.4
+Bronx County,2020,16.1
+Bronx County,2021,13.8
+Bronx County,2022,7.9
+Bronx County,2023,6.8
+Bronx County,2024,6.4
+Brookhaven Town,1990,4.6
+Brookhaven Town,1991,7.2
+Brookhaven Town,1992,8.7
+Brookhaven Town,1993,7.7
+Brookhaven Town,1994,6.5
+Brookhaven Town,1995,5.6
+Brookhaven Town,1996,4.8
+Brookhaven Town,1997,4.4
+Brookhaven Town,1998,3.8
+Brookhaven Town,1999,3.7
+Brookhaven Town,2000,3.4
+Brookhaven Town,2001,3.7
+Brookhaven Town,2002,4.6
+Brookhaven Town,2003,4.8
+Brookhaven Town,2004,4.7
+Brookhaven Town,2005,4.2
+Brookhaven Town,2006,3.9
+Brookhaven Town,2007,3.8
+Brookhaven Town,2008,4.9
+Brookhaven Town,2009,7.3
+Brookhaven Town,2010,8.0
+Brookhaven Town,2011,7.7
+Brookhaven Town,2012,7.9
+Brookhaven Town,2013,6.8
+Brookhaven Town,2014,5.5
+Brookhaven Town,2015,4.8
+Brookhaven Town,2016,4.4
+Brookhaven Town,2017,4.5
+Brookhaven Town,2018,3.8
+Brookhaven Town,2019,3.6
+Brookhaven Town,2020,7.9
+Brookhaven Town,2021,4.5
+Brookhaven Town,2022,3.2
+Brookhaven Town,2023,3.3
+Brookhaven Town,2024,3.7
+Broome County,1990,4.2
+Broome County,1991,5.9
+Broome County,1992,6.8
+Broome County,1993,7.0
+Broome County,1994,6.6
+Broome County,1995,5.3
+Broome County,1996,4.4
+Broome County,1997,4.3
+Broome County,1998,4.0
+Broome County,1999,4.1
+Broome County,2000,3.6
+Broome County,2001,4.3
+Broome County,2002,5.9
+Broome County,2003,5.9
+Broome County,2004,5.5
+Broome County,2005,4.9
+Broome County,2006,4.6
+Broome County,2007,4.4
+Broome County,2008,5.5
+Broome County,2009,8.3
+Broome County,2010,8.9
+Broome County,2011,8.6
+Broome County,2012,8.8
+Broome County,2013,8.0
+Broome County,2014,6.7
+Broome County,2015,6.0
+Broome County,2016,5.5
+Broome County,2017,5.5
+Broome County,2018,4.8
+Broome County,2019,4.5
+Broome County,2020,8.3
+Broome County,2021,5.3
+Broome County,2022,3.9
+Broome County,2023,4.0
+Broome County,2024,4.4
+Broome-Tioga,1990,4.2
+Broome-Tioga,1991,5.9
+Broome-Tioga,1992,6.8
+Broome-Tioga,1993,6.9
+Broome-Tioga,1994,6.7
+Broome-Tioga,1995,5.4
+Broome-Tioga,1996,4.4
+Broome-Tioga,1997,4.2
+Broome-Tioga,1998,4.0
+Broome-Tioga,1999,4.0
+Broome-Tioga,2000,3.6
+Broome-Tioga,2001,4.2
+Broome-Tioga,2002,5.8
+Broome-Tioga,2003,5.8
+Broome-Tioga,2004,5.4
+Broome-Tioga,2005,4.9
+Broome-Tioga,2006,4.5
+Broome-Tioga,2007,4.4
+Broome-Tioga,2008,5.4
+Broome-Tioga,2009,8.3
+Broome-Tioga,2010,8.7
+Broome-Tioga,2011,8.5
+Broome-Tioga,2012,8.6
+Broome-Tioga,2013,7.8
+Broome-Tioga,2014,6.6
+Broome-Tioga,2015,5.9
+Broome-Tioga,2016,5.4
+Broome-Tioga,2017,5.4
+Broome-Tioga,2018,4.7
+Broome-Tioga,2019,4.4
+Broome-Tioga,2020,8.2
+Broome-Tioga,2021,5.1
+Broome-Tioga,2022,3.7
+Broome-Tioga,2023,3.8
+Broome-Tioga,2024,4.3
+Buffalo City,1990,8.8
+Buffalo City,1991,11.5
+Buffalo City,1992,12.2
+Buffalo City,1993,11.1
+Buffalo City,1994,9.8
+Buffalo City,1995,8.7
+Buffalo City,1996,8.2
+Buffalo City,1997,8.5
+Buffalo City,1998,8.6
+Buffalo City,1999,8.6
+Buffalo City,2000,5.1
+Buffalo City,2001,5.8
+Buffalo City,2002,6.8
+Buffalo City,2003,7.3
+Buffalo City,2004,7.3
+Buffalo City,2005,6.5
+Buffalo City,2006,6.2
+Buffalo City,2007,5.8
+Buffalo City,2008,7.0
+Buffalo City,2009,10.1
+Buffalo City,2010,11.0
+Buffalo City,2011,10.6
+Buffalo City,2012,11.0
+Buffalo City,2013,9.9
+Buffalo City,2014,8.0
+Buffalo City,2015,7.0
+Buffalo City,2016,6.5
+Buffalo City,2017,6.6
+Buffalo City,2018,5.6
+Buffalo City,2019,5.2
+Buffalo City,2020,12.6
+Buffalo City,2021,7.7
+Buffalo City,2022,5.0
+Buffalo City,2023,5.1
+Buffalo City,2024,5.6
+Buffalo-Niagara Falls Metro Area,1990,5.3
+Buffalo-Niagara Falls Metro Area,1991,7.1
+Buffalo-Niagara Falls Metro Area,1992,7.6
+Buffalo-Niagara Falls Metro Area,1993,6.8
+Buffalo-Niagara Falls Metro Area,1994,6.0
+Buffalo-Niagara Falls Metro Area,1995,5.4
+Buffalo-Niagara Falls Metro Area,1996,5.1
+Buffalo-Niagara Falls Metro Area,1997,5.3
+Buffalo-Niagara Falls Metro Area,1998,5.4
+Buffalo-Niagara Falls Metro Area,1999,5.3
+Buffalo-Niagara Falls Metro Area,2000,4.3
+Buffalo-Niagara Falls Metro Area,2001,4.8
+Buffalo-Niagara Falls Metro Area,2002,5.6
+Buffalo-Niagara Falls Metro Area,2003,6.0
+Buffalo-Niagara Falls Metro Area,2004,5.9
+Buffalo-Niagara Falls Metro Area,2005,5.2
+Buffalo-Niagara Falls Metro Area,2006,5.0
+Buffalo-Niagara Falls Metro Area,2007,4.7
+Buffalo-Niagara Falls Metro Area,2008,5.8
+Buffalo-Niagara Falls Metro Area,2009,8.5
+Buffalo-Niagara Falls Metro Area,2010,8.7
+Buffalo-Niagara Falls Metro Area,2011,8.3
+Buffalo-Niagara Falls Metro Area,2012,8.6
+Buffalo-Niagara Falls Metro Area,2013,7.8
+Buffalo-Niagara Falls Metro Area,2014,6.3
+Buffalo-Niagara Falls Metro Area,2015,5.5
+Buffalo-Niagara Falls Metro Area,2016,5.2
+Buffalo-Niagara Falls Metro Area,2017,5.3
+Buffalo-Niagara Falls Metro Area,2018,4.5
+Buffalo-Niagara Falls Metro Area,2019,4.2
+Buffalo-Niagara Falls Metro Area,2020,9.3
+Buffalo-Niagara Falls Metro Area,2021,5.5
+Buffalo-Niagara Falls Metro Area,2022,3.7
+Buffalo-Niagara Falls Metro Area,2023,3.9
+Buffalo-Niagara Falls Metro Area,2024,4.3
+Capital Region,1990,3.8
+Capital Region,1991,5.8
+Capital Region,1992,6.3
+Capital Region,1993,5.3
+Capital Region,1994,5.1
+Capital Region,1995,5.0
+Capital Region,1996,4.6
+Capital Region,1997,4.3
+Capital Region,1998,3.8
+Capital Region,1999,3.6
+Capital Region,2000,3.5
+Capital Region,2001,3.6
+Capital Region,2002,4.2
+Capital Region,2003,4.5
+Capital Region,2004,4.4
+Capital Region,2005,4.0
+Capital Region,2006,3.9
+Capital Region,2007,4.0
+Capital Region,2008,4.9
+Capital Region,2009,7.2
+Capital Region,2010,7.6
+Capital Region,2011,7.4
+Capital Region,2012,7.6
+Capital Region,2013,6.6
+Capital Region,2014,5.2
+Capital Region,2015,4.6
+Capital Region,2016,4.3
+Capital Region,2017,4.3
+Capital Region,2018,3.8
+Capital Region,2019,3.5
+Capital Region,2020,7.0
+Capital Region,2021,4.4
+Capital Region,2022,3.1
+Capital Region,2023,3.3
+Capital Region,2024,3.7
+Carmel Town,1990,2.6
+Carmel Town,1991,4.2
+Carmel Town,1992,4.9
+Carmel Town,1993,4.3
+Carmel Town,1994,3.7
+Carmel Town,1995,3.1
+Carmel Town,1996,2.9
+Carmel Town,1997,2.4
+Carmel Town,1998,2.1
+Carmel Town,1999,2.3
+Carmel Town,2000,2.9
+Carmel Town,2001,3.2
+Carmel Town,2002,3.9
+Carmel Town,2003,4.0
+Carmel Town,2004,3.9
+Carmel Town,2005,3.6
+Carmel Town,2006,3.6
+Carmel Town,2007,3.3
+Carmel Town,2008,4.3
+Carmel Town,2009,6.8
+Carmel Town,2010,7.4
+Carmel Town,2011,7.2
+Carmel Town,2012,7.5
+Carmel Town,2013,6.3
+Carmel Town,2014,5.1
+Carmel Town,2015,4.4
+Carmel Town,2016,4.1
+Carmel Town,2017,4.2
+Carmel Town,2018,3.6
+Carmel Town,2019,3.5
+Carmel Town,2020,7.6
+Carmel Town,2021,4.4
+Carmel Town,2022,3.0
+Carmel Town,2023,3.1
+Carmel Town,2024,3.4
+Cattaraugus County,1990,6.4
+Cattaraugus County,1991,9.0
+Cattaraugus County,1992,10.1
+Cattaraugus County,1993,8.9
+Cattaraugus County,1994,8.2
+Cattaraugus County,1995,7.6
+Cattaraugus County,1996,7.0
+Cattaraugus County,1997,7.2
+Cattaraugus County,1998,7.2
+Cattaraugus County,1999,7.0
+Cattaraugus County,2000,4.5
+Cattaraugus County,2001,5.0
+Cattaraugus County,2002,5.6
+Cattaraugus County,2003,5.9
+Cattaraugus County,2004,6.1
+Cattaraugus County,2005,5.4
+Cattaraugus County,2006,5.1
+Cattaraugus County,2007,5.0
+Cattaraugus County,2008,6.0
+Cattaraugus County,2009,8.8
+Cattaraugus County,2010,9.7
+Cattaraugus County,2011,9.4
+Cattaraugus County,2012,9.5
+Cattaraugus County,2013,8.7
+Cattaraugus County,2014,7.0
+Cattaraugus County,2015,6.3
+Cattaraugus County,2016,6.1
+Cattaraugus County,2017,6.2
+Cattaraugus County,2018,5.3
+Cattaraugus County,2019,4.8
+Cattaraugus County,2020,9.2
+Cattaraugus County,2021,5.3
+Cattaraugus County,2022,4.1
+Cattaraugus County,2023,4.3
+Cattaraugus County,2024,4.5
+Cayuga County,1990,6.1
+Cayuga County,1991,8.3
+Cayuga County,1992,8.1
+Cayuga County,1993,7.0
+Cayuga County,1994,6.2
+Cayuga County,1995,6.2
+Cayuga County,1996,5.7
+Cayuga County,1997,5.9
+Cayuga County,1998,5.2
+Cayuga County,1999,5.1
+Cayuga County,2000,3.9
+Cayuga County,2001,4.3
+Cayuga County,2002,4.9
+Cayuga County,2003,5.3
+Cayuga County,2004,5.2
+Cayuga County,2005,4.9
+Cayuga County,2006,4.7
+Cayuga County,2007,4.4
+Cayuga County,2008,5.5
+Cayuga County,2009,8.4
+Cayuga County,2010,8.7
+Cayuga County,2011,8.2
+Cayuga County,2012,8.4
+Cayuga County,2013,7.6
+Cayuga County,2014,6.0
+Cayuga County,2015,5.4
+Cayuga County,2016,5.1
+Cayuga County,2017,5.0
+Cayuga County,2018,4.4
+Cayuga County,2019,4.1
+Cayuga County,2020,7.6
+Cayuga County,2021,4.8
+Cayuga County,2022,3.5
+Cayuga County,2023,3.6
+Cayuga County,2024,4.1
+Cayuga-Cortland,1990,6.2
+Cayuga-Cortland,1991,8.0
+Cayuga-Cortland,1992,8.2
+Cayuga-Cortland,1993,7.4
+Cayuga-Cortland,1994,6.8
+Cayuga-Cortland,1995,6.5
+Cayuga-Cortland,1996,5.9
+Cayuga-Cortland,1997,6.2
+Cayuga-Cortland,1998,6.1
+Cayuga-Cortland,1999,5.7
+Cayuga-Cortland,2000,4.0
+Cayuga-Cortland,2001,4.4
+Cayuga-Cortland,2002,5.3
+Cayuga-Cortland,2003,5.6
+Cayuga-Cortland,2004,5.6
+Cayuga-Cortland,2005,5.1
+Cayuga-Cortland,2006,4.9
+Cayuga-Cortland,2007,4.6
+Cayuga-Cortland,2008,5.8
+Cayuga-Cortland,2009,8.7
+Cayuga-Cortland,2010,8.8
+Cayuga-Cortland,2011,8.3
+Cayuga-Cortland,2012,8.5
+Cayuga-Cortland,2013,7.7
+Cayuga-Cortland,2014,6.2
+Cayuga-Cortland,2015,5.6
+Cayuga-Cortland,2016,5.4
+Cayuga-Cortland,2017,5.3
+Cayuga-Cortland,2018,4.7
+Cayuga-Cortland,2019,4.3
+Cayuga-Cortland,2020,7.6
+Cayuga-Cortland,2021,4.9
+Cayuga-Cortland,2022,3.6
+Cayuga-Cortland,2023,3.8
+Cayuga-Cortland,2024,4.3
+Central New York,1990,4.8
+Central New York,1991,7.0
+Central New York,1992,7.5
+Central New York,1993,6.8
+Central New York,1994,6.0
+Central New York,1995,5.6
+Central New York,1996,4.9
+Central New York,1997,4.8
+Central New York,1998,4.3
+Central New York,1999,4.3
+Central New York,2000,3.8
+Central New York,2001,4.3
+Central New York,2002,5.3
+Central New York,2003,5.6
+Central New York,2004,5.5
+Central New York,2005,4.9
+Central New York,2006,4.6
+Central New York,2007,4.4
+Central New York,2008,5.6
+Central New York,2009,8.3
+Central New York,2010,8.7
+Central New York,2011,8.4
+Central New York,2012,8.6
+Central New York,2013,7.7
+Central New York,2014,6.2
+Central New York,2015,5.5
+Central New York,2016,5.1
+Central New York,2017,5.1
+Central New York,2018,4.4
+Central New York,2019,4.1
+Central New York,2020,8.0
+Central New York,2021,5.0
+Central New York,2022,3.5
+Central New York,2023,3.7
+Central New York,2024,4.1
+Chautauqua,1990,5.8
+Chautauqua,1991,7.7
+Chautauqua,1992,8.4
+Chautauqua,1993,7.0
+Chautauqua,1994,6.6
+Chautauqua,1995,5.9
+Chautauqua,1996,5.1
+Chautauqua,1997,5.7
+Chautauqua,1998,5.3
+Chautauqua,1999,5.0
+Chautauqua,2000,4.0
+Chautauqua,2001,4.7
+Chautauqua,2002,5.6
+Chautauqua,2003,5.8
+Chautauqua,2004,5.5
+Chautauqua,2005,4.8
+Chautauqua,2006,4.5
+Chautauqua,2007,4.4
+Chautauqua,2008,5.5
+Chautauqua,2009,8.4
+Chautauqua,2010,9.0
+Chautauqua,2011,8.2
+Chautauqua,2012,8.6
+Chautauqua,2013,8.2
+Chautauqua,2014,6.9
+Chautauqua,2015,6.1
+Chautauqua,2016,5.9
+Chautauqua,2017,6.0
+Chautauqua,2018,5.0
+Chautauqua,2019,4.5
+Chautauqua,2020,8.6
+Chautauqua,2021,5.6
+Chautauqua,2022,4.0
+Chautauqua,2023,4.3
+Chautauqua,2024,4.6
+Chautauqua County,1990,5.8
+Chautauqua County,1991,7.7
+Chautauqua County,1992,8.4
+Chautauqua County,1993,7.0
+Chautauqua County,1994,6.6
+Chautauqua County,1995,5.9
+Chautauqua County,1996,5.1
+Chautauqua County,1997,5.7
+Chautauqua County,1998,5.3
+Chautauqua County,1999,5.0
+Chautauqua County,2000,4.0
+Chautauqua County,2001,4.7
+Chautauqua County,2002,5.6
+Chautauqua County,2003,5.8
+Chautauqua County,2004,5.5
+Chautauqua County,2005,4.8
+Chautauqua County,2006,4.5
+Chautauqua County,2007,4.4
+Chautauqua County,2008,5.5
+Chautauqua County,2009,8.4
+Chautauqua County,2010,9.0
+Chautauqua County,2011,8.2
+Chautauqua County,2012,8.6
+Chautauqua County,2013,8.2
+Chautauqua County,2014,6.9
+Chautauqua County,2015,6.1
+Chautauqua County,2016,5.9
+Chautauqua County,2017,6.0
+Chautauqua County,2018,5.0
+Chautauqua County,2019,4.5
+Chautauqua County,2020,8.6
+Chautauqua County,2021,5.6
+Chautauqua County,2022,4.0
+Chautauqua County,2023,4.3
+Chautauqua County,2024,4.6
+Cheektowaga Town,1990,3.4
+Cheektowaga Town,1991,4.5
+Cheektowaga Town,1992,4.8
+Cheektowaga Town,1993,4.3
+Cheektowaga Town,1994,3.8
+Cheektowaga Town,1995,3.3
+Cheektowaga Town,1996,3.1
+Cheektowaga Town,1997,3.2
+Cheektowaga Town,1998,3.3
+Cheektowaga Town,1999,3.3
+Cheektowaga Town,2000,4.1
+Cheektowaga Town,2001,4.6
+Cheektowaga Town,2002,5.4
+Cheektowaga Town,2003,5.7
+Cheektowaga Town,2004,5.8
+Cheektowaga Town,2005,5.2
+Cheektowaga Town,2006,5.0
+Cheektowaga Town,2007,4.7
+Cheektowaga Town,2008,5.5
+Cheektowaga Town,2009,8.3
+Cheektowaga Town,2010,8.6
+Cheektowaga Town,2011,8.1
+Cheektowaga Town,2012,8.7
+Cheektowaga Town,2013,7.8
+Cheektowaga Town,2014,6.3
+Cheektowaga Town,2015,5.6
+Cheektowaga Town,2016,5.2
+Cheektowaga Town,2017,5.4
+Cheektowaga Town,2018,4.5
+Cheektowaga Town,2019,4.1
+Cheektowaga Town,2020,9.6
+Cheektowaga Town,2021,5.6
+Cheektowaga Town,2022,3.8
+Cheektowaga Town,2023,3.8
+Cheektowaga Town,2024,4.5
+Chemung County,1990,4.8
+Chemung County,1991,6.6
+Chemung County,1992,6.9
+Chemung County,1993,5.7
+Chemung County,1994,5.3
+Chemung County,1995,4.8
+Chemung County,1996,4.3
+Chemung County,1997,4.4
+Chemung County,1998,4.2
+Chemung County,1999,4.8
+Chemung County,2000,4.3
+Chemung County,2001,5.0
+Chemung County,2002,6.5
+Chemung County,2003,6.5
+Chemung County,2004,6.1
+Chemung County,2005,5.3
+Chemung County,2006,4.9
+Chemung County,2007,4.5
+Chemung County,2008,5.5
+Chemung County,2009,9.1
+Chemung County,2010,8.5
+Chemung County,2011,7.9
+Chemung County,2012,8.5
+Chemung County,2013,8.1
+Chemung County,2014,6.3
+Chemung County,2015,5.9
+Chemung County,2016,5.8
+Chemung County,2017,5.5
+Chemung County,2018,4.6
+Chemung County,2019,4.0
+Chemung County,2020,8.4
+Chemung County,2021,5.3
+Chemung County,2022,3.8
+Chemung County,2023,4.0
+Chemung County,2024,4.2
+Chemung-Schuyler-Steuben,1990,5.1
+Chemung-Schuyler-Steuben,1991,7.1
+Chemung-Schuyler-Steuben,1992,7.7
+Chemung-Schuyler-Steuben,1993,6.4
+Chemung-Schuyler-Steuben,1994,6.0
+Chemung-Schuyler-Steuben,1995,5.8
+Chemung-Schuyler-Steuben,1996,5.2
+Chemung-Schuyler-Steuben,1997,5.6
+Chemung-Schuyler-Steuben,1998,5.2
+Chemung-Schuyler-Steuben,1999,5.2
+Chemung-Schuyler-Steuben,2000,4.2
+Chemung-Schuyler-Steuben,2001,5.0
+Chemung-Schuyler-Steuben,2002,6.9
+Chemung-Schuyler-Steuben,2003,6.9
+Chemung-Schuyler-Steuben,2004,6.2
+Chemung-Schuyler-Steuben,2005,5.5
+Chemung-Schuyler-Steuben,2006,5.1
+Chemung-Schuyler-Steuben,2007,4.9
+Chemung-Schuyler-Steuben,2008,5.8
+Chemung-Schuyler-Steuben,2009,9.3
+Chemung-Schuyler-Steuben,2010,9.2
+Chemung-Schuyler-Steuben,2011,8.6
+Chemung-Schuyler-Steuben,2012,9.1
+Chemung-Schuyler-Steuben,2013,8.5
+Chemung-Schuyler-Steuben,2014,6.7
+Chemung-Schuyler-Steuben,2015,6.2
+Chemung-Schuyler-Steuben,2016,5.9
+Chemung-Schuyler-Steuben,2017,5.6
+Chemung-Schuyler-Steuben,2018,4.8
+Chemung-Schuyler-Steuben,2019,4.2
+Chemung-Schuyler-Steuben,2020,8.2
+Chemung-Schuyler-Steuben,2021,5.1
+Chemung-Schuyler-Steuben,2022,3.7
+Chemung-Schuyler-Steuben,2023,4.0
+Chemung-Schuyler-Steuben,2024,4.4
+Chenango County,1990,5.4
+Chenango County,1991,6.9
+Chenango County,1992,7.9
+Chenango County,1993,8.2
+Chenango County,1994,8.0
+Chenango County,1995,7.3
+Chenango County,1996,6.6
+Chenango County,1997,6.3
+Chenango County,1998,5.7
+Chenango County,1999,5.8
+Chenango County,2000,4.0
+Chenango County,2001,4.5
+Chenango County,2002,5.6
+Chenango County,2003,5.9
+Chenango County,2004,5.6
+Chenango County,2005,5.0
+Chenango County,2006,4.9
+Chenango County,2007,4.9
+Chenango County,2008,6.3
+Chenango County,2009,9.1
+Chenango County,2010,9.4
+Chenango County,2011,8.8
+Chenango County,2012,8.8
+Chenango County,2013,7.5
+Chenango County,2014,6.3
+Chenango County,2015,5.5
+Chenango County,2016,5.1
+Chenango County,2017,5.3
+Chenango County,2018,4.6
+Chenango County,2019,4.3
+Chenango County,2020,6.6
+Chenango County,2021,4.4
+Chenango County,2022,3.4
+Chenango County,2023,3.5
+Chenango County,2024,3.8
+Chenango-Delaware-Otsego,1990,5.2
+Chenango-Delaware-Otsego,1991,6.4
+Chenango-Delaware-Otsego,1992,7.6
+Chenango-Delaware-Otsego,1993,7.0
+Chenango-Delaware-Otsego,1994,6.8
+Chenango-Delaware-Otsego,1995,6.1
+Chenango-Delaware-Otsego,1996,5.6
+Chenango-Delaware-Otsego,1997,5.6
+Chenango-Delaware-Otsego,1998,5.1
+Chenango-Delaware-Otsego,1999,5.3
+Chenango-Delaware-Otsego,2000,4.1
+Chenango-Delaware-Otsego,2001,4.3
+Chenango-Delaware-Otsego,2002,5.0
+Chenango-Delaware-Otsego,2003,5.2
+Chenango-Delaware-Otsego,2004,5.0
+Chenango-Delaware-Otsego,2005,4.6
+Chenango-Delaware-Otsego,2006,4.5
+Chenango-Delaware-Otsego,2007,4.5
+Chenango-Delaware-Otsego,2008,5.9
+Chenango-Delaware-Otsego,2009,8.4
+Chenango-Delaware-Otsego,2010,8.6
+Chenango-Delaware-Otsego,2011,8.4
+Chenango-Delaware-Otsego,2012,8.5
+Chenango-Delaware-Otsego,2013,7.4
+Chenango-Delaware-Otsego,2014,6.2
+Chenango-Delaware-Otsego,2015,5.6
+Chenango-Delaware-Otsego,2016,5.2
+Chenango-Delaware-Otsego,2017,5.2
+Chenango-Delaware-Otsego,2018,4.6
+Chenango-Delaware-Otsego,2019,4.2
+Chenango-Delaware-Otsego,2020,6.9
+Chenango-Delaware-Otsego,2021,4.6
+Chenango-Delaware-Otsego,2022,3.5
+Chenango-Delaware-Otsego,2023,3.8
+Chenango-Delaware-Otsego,2024,4.2
+Chili Town,1990,2.2
+Chili Town,1991,2.9
+Chili Town,1992,3.3
+Chili Town,1993,3.0
+Chili Town,1994,3.2
+Chili Town,1995,2.6
+Chili Town,1996,2.3
+Chili Town,1997,2.3
+Chili Town,1998,2.4
+Chili Town,1999,2.5
+Chili Town,2000,3.3
+Chili Town,2001,3.7
+Chili Town,2002,5.0
+Chili Town,2003,5.2
+Chili Town,2004,4.9
+Chili Town,2005,4.2
+Chili Town,2006,4.0
+Chili Town,2007,4.0
+Chili Town,2008,5.0
+Chili Town,2009,7.2
+Chili Town,2010,7.2
+Chili Town,2011,6.6
+Chili Town,2012,6.8
+Chili Town,2013,6.2
+Chili Town,2014,5.0
+Chili Town,2015,4.4
+Chili Town,2016,4.2
+Chili Town,2017,4.4
+Chili Town,2018,3.8
+Chili Town,2019,3.5
+Chili Town,2020,7.1
+Chili Town,2021,4.5
+Chili Town,2022,3.0
+Chili Town,2023,3.1
+Chili Town,2024,3.5
+Cicero Town,1990,2.7
+Cicero Town,1991,4.3
+Cicero Town,1992,4.7
+Cicero Town,1993,4.2
+Cicero Town,1994,3.6
+Cicero Town,1995,3.3
+Cicero Town,1996,2.9
+Cicero Town,1997,2.7
+Cicero Town,1998,2.5
+Cicero Town,1999,2.5
+Cicero Town,2000,3.2
+Cicero Town,2001,3.8
+Cicero Town,2002,4.9
+Cicero Town,2003,5.1
+Cicero Town,2004,4.9
+Cicero Town,2005,4.2
+Cicero Town,2006,4.1
+Cicero Town,2007,3.8
+Cicero Town,2008,4.9
+Cicero Town,2009,7.5
+Cicero Town,2010,7.4
+Cicero Town,2011,7.2
+Cicero Town,2012,7.4
+Cicero Town,2013,6.5
+Cicero Town,2014,5.0
+Cicero Town,2015,4.4
+Cicero Town,2016,4.1
+Cicero Town,2017,4.3
+Cicero Town,2018,3.6
+Cicero Town,2019,3.5
+Cicero Town,2020,7.4
+Cicero Town,2021,4.3
+Cicero Town,2022,3.0
+Cicero Town,2023,3.2
+Cicero Town,2024,3.5
+Clarence Town,1999,2.8
+Clarence Town,2000,3.4
+Clarence Town,2001,3.8
+Clarence Town,2002,4.4
+Clarence Town,2003,4.7
+Clarence Town,2004,4.7
+Clarence Town,2005,4.3
+Clarence Town,2006,3.9
+Clarence Town,2007,3.7
+Clarence Town,2008,4.6
+Clarence Town,2009,6.7
+Clarence Town,2010,6.2
+Clarence Town,2011,5.7
+Clarence Town,2012,6.1
+Clarence Town,2013,5.7
+Clarence Town,2014,4.6
+Clarence Town,2015,3.9
+Clarence Town,2016,3.8
+Clarence Town,2017,3.7
+Clarence Town,2018,3.3
+Clarence Town,2019,3.1
+Clarence Town,2020,6.3
+Clarence Town,2021,3.9
+Clarence Town,2022,2.7
+Clarence Town,2023,2.9
+Clarence Town,2024,3.3
+Clarkstown Town,1990,2.9
+Clarkstown Town,1991,4.9
+Clarkstown Town,1992,5.7
+Clarkstown Town,1993,5.4
+Clarkstown Town,1994,4.6
+Clarkstown Town,1995,4.2
+Clarkstown Town,1996,3.8
+Clarkstown Town,1997,3.5
+Clarkstown Town,1998,2.9
+Clarkstown Town,1999,3.0
+Clarkstown Town,2000,3.0
+Clarkstown Town,2001,3.4
+Clarkstown Town,2002,4.2
+Clarkstown Town,2003,4.4
+Clarkstown Town,2004,4.3
+Clarkstown Town,2005,3.7
+Clarkstown Town,2006,3.5
+Clarkstown Town,2007,3.5
+Clarkstown Town,2008,4.3
+Clarkstown Town,2009,6.6
+Clarkstown Town,2010,7.4
+Clarkstown Town,2011,6.9
+Clarkstown Town,2012,7.1
+Clarkstown Town,2013,6.1
+Clarkstown Town,2014,4.9
+Clarkstown Town,2015,4.4
+Clarkstown Town,2016,4.2
+Clarkstown Town,2017,4.3
+Clarkstown Town,2018,3.5
+Clarkstown Town,2019,3.3
+Clarkstown Town,2020,7.4
+Clarkstown Town,2021,4.2
+Clarkstown Town,2022,2.8
+Clarkstown Town,2023,3.0
+Clarkstown Town,2024,3.4
+Clay Town,1990,2.3
+Clay Town,1991,3.7
+Clay Town,1992,4.1
+Clay Town,1993,3.7
+Clay Town,1994,3.1
+Clay Town,1995,2.8
+Clay Town,1996,2.5
+Clay Town,1997,2.4
+Clay Town,1998,2.1
+Clay Town,1999,2.1
+Clay Town,2000,3.1
+Clay Town,2001,3.6
+Clay Town,2002,4.6
+Clay Town,2003,4.7
+Clay Town,2004,4.6
+Clay Town,2005,4.0
+Clay Town,2006,3.7
+Clay Town,2007,3.5
+Clay Town,2008,4.6
+Clay Town,2009,6.9
+Clay Town,2010,7.6
+Clay Town,2011,7.0
+Clay Town,2012,7.2
+Clay Town,2013,6.1
+Clay Town,2014,4.8
+Clay Town,2015,4.3
+Clay Town,2016,4.0
+Clay Town,2017,4.1
+Clay Town,2018,3.4
+Clay Town,2019,3.1
+Clay Town,2020,7.2
+Clay Town,2021,4.1
+Clay Town,2022,2.8
+Clay Town,2023,3.0
+Clay Town,2024,3.3
+Clifton Park Town,1990,2.5
+Clifton Park Town,1991,3.8
+Clifton Park Town,1992,4.2
+Clifton Park Town,1993,3.5
+Clifton Park Town,1994,3.4
+Clifton Park Town,1995,3.3
+Clifton Park Town,1996,3.0
+Clifton Park Town,1997,2.7
+Clifton Park Town,1998,2.4
+Clifton Park Town,1999,2.3
+Clifton Park Town,2000,2.7
+Clifton Park Town,2001,2.7
+Clifton Park Town,2002,3.1
+Clifton Park Town,2003,3.1
+Clifton Park Town,2004,3.1
+Clifton Park Town,2005,2.9
+Clifton Park Town,2006,3.0
+Clifton Park Town,2007,3.0
+Clifton Park Town,2008,3.8
+Clifton Park Town,2009,5.5
+Clifton Park Town,2010,5.9
+Clifton Park Town,2011,5.5
+Clifton Park Town,2012,5.8
+Clifton Park Town,2013,5.1
+Clifton Park Town,2014,4.0
+Clifton Park Town,2015,3.5
+Clifton Park Town,2016,3.4
+Clifton Park Town,2017,3.7
+Clifton Park Town,2018,3.1
+Clifton Park Town,2019,3.0
+Clifton Park Town,2020,5.7
+Clifton Park Town,2021,3.4
+Clifton Park Town,2022,2.4
+Clifton Park Town,2023,2.6
+Clifton Park Town,2024,2.8
+Clinton County,1990,6.0
+Clinton County,1991,8.0
+Clinton County,1992,9.0
+Clinton County,1993,7.8
+Clinton County,1994,7.7
+Clinton County,1995,6.8
+Clinton County,1996,6.8
+Clinton County,1997,6.8
+Clinton County,1998,6.1
+Clinton County,1999,6.4
+Clinton County,2000,4.6
+Clinton County,2001,4.5
+Clinton County,2002,5.4
+Clinton County,2003,6.1
+Clinton County,2004,6.1
+Clinton County,2005,5.3
+Clinton County,2006,5.4
+Clinton County,2007,5.5
+Clinton County,2008,6.5
+Clinton County,2009,9.5
+Clinton County,2010,10.0
+Clinton County,2011,9.7
+Clinton County,2012,9.5
+Clinton County,2013,8.5
+Clinton County,2014,6.7
+Clinton County,2015,5.9
+Clinton County,2016,5.4
+Clinton County,2017,5.2
+Clinton County,2018,4.4
+Clinton County,2019,4.2
+Clinton County,2020,7.7
+Clinton County,2021,4.7
+Clinton County,2022,3.4
+Clinton County,2023,3.5
+Clinton County,2024,4.1
+Clinton-Essex-Franklin-Hamilton,1990,7.3
+Clinton-Essex-Franklin-Hamilton,1991,9.7
+Clinton-Essex-Franklin-Hamilton,1992,10.3
+Clinton-Essex-Franklin-Hamilton,1993,8.8
+Clinton-Essex-Franklin-Hamilton,1994,8.6
+Clinton-Essex-Franklin-Hamilton,1995,7.8
+Clinton-Essex-Franklin-Hamilton,1996,7.8
+Clinton-Essex-Franklin-Hamilton,1997,7.8
+Clinton-Essex-Franklin-Hamilton,1998,7.2
+Clinton-Essex-Franklin-Hamilton,1999,7.3
+Clinton-Essex-Franklin-Hamilton,2000,5.0
+Clinton-Essex-Franklin-Hamilton,2001,4.9
+Clinton-Essex-Franklin-Hamilton,2002,5.6
+Clinton-Essex-Franklin-Hamilton,2003,6.1
+Clinton-Essex-Franklin-Hamilton,2004,6.1
+Clinton-Essex-Franklin-Hamilton,2005,5.5
+Clinton-Essex-Franklin-Hamilton,2006,5.4
+Clinton-Essex-Franklin-Hamilton,2007,5.5
+Clinton-Essex-Franklin-Hamilton,2008,6.6
+Clinton-Essex-Franklin-Hamilton,2009,9.1
+Clinton-Essex-Franklin-Hamilton,2010,9.6
+Clinton-Essex-Franklin-Hamilton,2011,9.4
+Clinton-Essex-Franklin-Hamilton,2012,9.7
+Clinton-Essex-Franklin-Hamilton,2013,8.7
+Clinton-Essex-Franklin-Hamilton,2014,6.9
+Clinton-Essex-Franklin-Hamilton,2015,6.1
+Clinton-Essex-Franklin-Hamilton,2016,5.6
+Clinton-Essex-Franklin-Hamilton,2017,5.6
+Clinton-Essex-Franklin-Hamilton,2018,4.7
+Clinton-Essex-Franklin-Hamilton,2019,4.4
+Clinton-Essex-Franklin-Hamilton,2020,7.8
+Clinton-Essex-Franklin-Hamilton,2021,4.7
+Clinton-Essex-Franklin-Hamilton,2022,3.6
+Clinton-Essex-Franklin-Hamilton,2023,3.7
+Clinton-Essex-Franklin-Hamilton,2024,4.2
+Colonie Town,1990,1.9
+Colonie Town,1991,3.1
+Colonie Town,1992,3.3
+Colonie Town,1993,2.7
+Colonie Town,1994,2.6
+Colonie Town,1995,2.7
+Colonie Town,1996,2.4
+Colonie Town,1997,2.1
+Colonie Town,1998,1.9
+Colonie Town,1999,1.8
+Colonie Town,2000,3.2
+Colonie Town,2001,3.2
+Colonie Town,2002,3.8
+Colonie Town,2003,3.9
+Colonie Town,2004,3.9
+Colonie Town,2005,3.6
+Colonie Town,2006,3.5
+Colonie Town,2007,3.5
+Colonie Town,2008,4.4
+Colonie Town,2009,6.3
+Colonie Town,2010,6.3
+Colonie Town,2011,6.2
+Colonie Town,2012,6.4
+Colonie Town,2013,5.6
+Colonie Town,2014,4.4
+Colonie Town,2015,3.9
+Colonie Town,2016,3.7
+Colonie Town,2017,3.8
+Colonie Town,2018,3.3
+Colonie Town,2019,3.1
+Colonie Town,2020,6.1
+Colonie Town,2021,3.8
+Colonie Town,2022,2.7
+Colonie Town,2023,2.8
+Colonie Town,2024,3.2
+Columbia County,1990,3.2
+Columbia County,1991,5.5
+Columbia County,1992,5.9
+Columbia County,1993,5.2
+Columbia County,1994,4.6
+Columbia County,1995,4.2
+Columbia County,1996,4.1
+Columbia County,1997,3.6
+Columbia County,1998,3.3
+Columbia County,1999,3.1
+Columbia County,2000,3.4
+Columbia County,2001,3.5
+Columbia County,2002,4.3
+Columbia County,2003,4.4
+Columbia County,2004,4.4
+Columbia County,2005,3.9
+Columbia County,2006,3.7
+Columbia County,2007,3.8
+Columbia County,2008,4.8
+Columbia County,2009,7.5
+Columbia County,2010,7.5
+Columbia County,2011,7.2
+Columbia County,2012,7.2
+Columbia County,2013,6.2
+Columbia County,2014,4.8
+Columbia County,2015,4.0
+Columbia County,2016,3.8
+Columbia County,2017,3.8
+Columbia County,2018,3.3
+Columbia County,2019,3.1
+Columbia County,2020,6.0
+Columbia County,2021,3.9
+Columbia County,2022,2.8
+Columbia County,2023,3.0
+Columbia County,2024,3.3
+Columbia-Greene,1990,3.9
+Columbia-Greene,1991,6.4
+Columbia-Greene,1992,7.1
+Columbia-Greene,1993,6.5
+Columbia-Greene,1994,6.0
+Columbia-Greene,1995,5.5
+Columbia-Greene,1996,5.1
+Columbia-Greene,1997,4.6
+Columbia-Greene,1998,4.2
+Columbia-Greene,1999,3.9
+Columbia-Greene,2000,3.9
+Columbia-Greene,2001,3.9
+Columbia-Greene,2002,4.6
+Columbia-Greene,2003,4.7
+Columbia-Greene,2004,4.8
+Columbia-Greene,2005,4.3
+Columbia-Greene,2006,4.1
+Columbia-Greene,2007,4.2
+Columbia-Greene,2008,5.2
+Columbia-Greene,2009,7.9
+Columbia-Greene,2010,8.2
+Columbia-Greene,2011,8.1
+Columbia-Greene,2012,8.3
+Columbia-Greene,2013,7.3
+Columbia-Greene,2014,5.6
+Columbia-Greene,2015,4.7
+Columbia-Greene,2016,4.3
+Columbia-Greene,2017,4.3
+Columbia-Greene,2018,3.8
+Columbia-Greene,2019,3.6
+Columbia-Greene,2020,6.8
+Columbia-Greene,2021,4.3
+Columbia-Greene,2022,3.1
+Columbia-Greene,2023,3.3
+Columbia-Greene,2024,3.7
+Cortland County,1990,6.4
+Cortland County,1991,7.5
+Cortland County,1992,8.3
+Cortland County,1993,8.0
+Cortland County,1994,7.7
+Cortland County,1995,6.9
+Cortland County,1996,6.2
+Cortland County,1997,6.7
+Cortland County,1998,7.6
+Cortland County,1999,6.7
+Cortland County,2000,4.3
+Cortland County,2001,4.7
+Cortland County,2002,6.0
+Cortland County,2003,5.9
+Cortland County,2004,6.3
+Cortland County,2005,5.4
+Cortland County,2006,5.3
+Cortland County,2007,5.1
+Cortland County,2008,6.3
+Cortland County,2009,9.3
+Cortland County,2010,9.0
+Cortland County,2011,8.5
+Cortland County,2012,8.7
+Cortland County,2013,7.9
+Cortland County,2014,6.6
+Cortland County,2015,5.9
+Cortland County,2016,5.8
+Cortland County,2017,5.7
+Cortland County,2018,5.0
+Cortland County,2019,4.7
+Cortland County,2020,7.7
+Cortland County,2021,5.1
+Cortland County,2022,3.9
+Cortland County,2023,4.2
+Cortland County,2024,4.6
+Cortlandt Town,1990,2.7
+Cortlandt Town,1991,4.2
+Cortlandt Town,1992,4.9
+Cortlandt Town,1993,4.3
+Cortlandt Town,1994,3.8
+Cortlandt Town,1995,3.4
+Cortlandt Town,1996,3.1
+Cortlandt Town,1997,2.9
+Cortlandt Town,1998,2.6
+Cortlandt Town,1999,2.6
+Cortlandt Town,2000,3.0
+Cortlandt Town,2001,3.4
+Cortlandt Town,2002,4.2
+Cortlandt Town,2003,4.2
+Cortlandt Town,2004,4.1
+Cortlandt Town,2005,3.7
+Cortlandt Town,2006,3.5
+Cortlandt Town,2007,3.3
+Cortlandt Town,2008,4.4
+Cortlandt Town,2009,6.9
+Cortlandt Town,2010,7.1
+Cortlandt Town,2011,6.6
+Cortlandt Town,2012,6.9
+Cortlandt Town,2013,6.1
+Cortlandt Town,2014,4.8
+Cortlandt Town,2015,4.2
+Cortlandt Town,2016,3.9
+Cortlandt Town,2017,4.1
+Cortlandt Town,2018,3.5
+Cortlandt Town,2019,3.4
+Cortlandt Town,2020,7.1
+Cortlandt Town,2021,4.2
+Cortlandt Town,2022,2.9
+Cortlandt Town,2023,3.1
+Cortlandt Town,2024,3.4
+De Witt Town,1990,3.0
+De Witt Town,1991,4.7
+De Witt Town,1992,5.2
+De Witt Town,1993,4.7
+De Witt Town,1994,4.0
+De Witt Town,1995,3.6
+De Witt Town,1996,3.2
+De Witt Town,1997,3.1
+De Witt Town,1998,2.7
+De Witt Town,1999,2.7
+De Witt Town,2000,3.2
+De Witt Town,2001,3.7
+De Witt Town,2002,4.4
+De Witt Town,2003,4.5
+De Witt Town,2004,4.7
+De Witt Town,2005,3.9
+De Witt Town,2006,3.8
+De Witt Town,2007,3.6
+De Witt Town,2008,4.7
+De Witt Town,2009,7.1
+De Witt Town,2010,7.6
+De Witt Town,2011,7.3
+De Witt Town,2012,7.4
+De Witt Town,2013,6.8
+De Witt Town,2014,5.5
+De Witt Town,2015,4.8
+De Witt Town,2016,4.5
+De Witt Town,2017,4.6
+De Witt Town,2018,3.8
+De Witt Town,2019,3.7
+De Witt Town,2020,7.4
+De Witt Town,2021,4.9
+De Witt Town,2022,3.2
+De Witt Town,2023,3.4
+De Witt Town,2024,3.8
+Delaware County,1990,5.1
+Delaware County,1991,6.7
+Delaware County,1992,7.9
+Delaware County,1993,6.9
+Delaware County,1994,6.4
+Delaware County,1995,5.5
+Delaware County,1996,5.3
+Delaware County,1997,5.3
+Delaware County,1998,4.5
+Delaware County,1999,5.1
+Delaware County,2000,4.1
+Delaware County,2001,4.1
+Delaware County,2002,4.8
+Delaware County,2003,4.9
+Delaware County,2004,4.6
+Delaware County,2005,4.4
+Delaware County,2006,4.3
+Delaware County,2007,4.3
+Delaware County,2008,5.9
+Delaware County,2009,8.7
+Delaware County,2010,8.9
+Delaware County,2011,8.7
+Delaware County,2012,8.9
+Delaware County,2013,8.1
+Delaware County,2014,6.6
+Delaware County,2015,6.0
+Delaware County,2016,5.6
+Delaware County,2017,5.5
+Delaware County,2018,4.8
+Delaware County,2019,4.5
+Delaware County,2020,7.0
+Delaware County,2021,4.8
+Delaware County,2022,3.8
+Delaware County,2023,4.0
+Delaware County,2024,4.5
+Dutchess,1990,3.0
+Dutchess,1991,5.2
+Dutchess,1992,6.8
+Dutchess,1993,8.6
+Dutchess,1994,6.9
+Dutchess,1995,5.0
+Dutchess,1996,4.2
+Dutchess,1997,4.0
+Dutchess,1998,3.4
+Dutchess,1999,3.4
+Dutchess,2000,3.2
+Dutchess,2001,3.4
+Dutchess,2002,4.2
+Dutchess,2003,4.2
+Dutchess,2004,4.3
+Dutchess,2005,3.9
+Dutchess,2006,3.8
+Dutchess,2007,3.8
+Dutchess,2008,5.1
+Dutchess,2009,7.8
+Dutchess,2010,7.9
+Dutchess,2011,7.6
+Dutchess,2012,7.9
+Dutchess,2013,6.8
+Dutchess,2014,5.4
+Dutchess,2015,4.5
+Dutchess,2016,4.2
+Dutchess,2017,4.2
+Dutchess,2018,3.7
+Dutchess,2019,3.4
+Dutchess,2020,7.4
+Dutchess,2021,4.5
+Dutchess,2022,3.1
+Dutchess,2023,3.3
+Dutchess,2024,3.6
+Dutchess County,1990,3.0
+Dutchess County,1991,5.2
+Dutchess County,1992,6.8
+Dutchess County,1993,8.6
+Dutchess County,1994,6.9
+Dutchess County,1995,5.0
+Dutchess County,1996,4.2
+Dutchess County,1997,4.0
+Dutchess County,1998,3.4
+Dutchess County,1999,3.4
+Dutchess County,2000,3.2
+Dutchess County,2001,3.4
+Dutchess County,2002,4.2
+Dutchess County,2003,4.2
+Dutchess County,2004,4.3
+Dutchess County,2005,3.9
+Dutchess County,2006,3.8
+Dutchess County,2007,3.8
+Dutchess County,2008,5.1
+Dutchess County,2009,7.8
+Dutchess County,2010,7.9
+Dutchess County,2011,7.6
+Dutchess County,2012,7.9
+Dutchess County,2013,6.8
+Dutchess County,2014,5.4
+Dutchess County,2015,4.5
+Dutchess County,2016,4.2
+Dutchess County,2017,4.2
+Dutchess County,2018,3.7
+Dutchess County,2019,3.4
+Dutchess County,2020,7.4
+Dutchess County,2021,4.5
+Dutchess County,2022,3.1
+Dutchess County,2023,3.3
+Dutchess County,2024,3.6
+Dutchess-Putnam Metropolitan Division,1990,3.1
+Dutchess-Putnam Metropolitan Division,1991,5.2
+Dutchess-Putnam Metropolitan Division,1992,6.6
+Dutchess-Putnam Metropolitan Division,1993,7.7
+Dutchess-Putnam Metropolitan Division,1994,6.3
+Dutchess-Putnam Metropolitan Division,1995,4.7
+Dutchess-Putnam Metropolitan Division,1996,4.0
+Dutchess-Putnam Metropolitan Division,1997,3.7
+Dutchess-Putnam Metropolitan Division,1998,3.2
+Dutchess-Putnam Metropolitan Division,1999,3.2
+Dutchess-Putnam Metropolitan Division,2000,3.1
+Dutchess-Putnam Metropolitan Division,2001,3.4
+Dutchess-Putnam Metropolitan Division,2002,4.2
+Dutchess-Putnam Metropolitan Division,2003,4.1
+Dutchess-Putnam Metropolitan Division,2004,4.2
+Dutchess-Putnam Metropolitan Division,2005,3.9
+Dutchess-Putnam Metropolitan Division,2006,3.7
+Dutchess-Putnam Metropolitan Division,2007,3.7
+Dutchess-Putnam Metropolitan Division,2008,4.9
+Dutchess-Putnam Metropolitan Division,2009,7.5
+Dutchess-Putnam Metropolitan Division,2010,7.7
+Dutchess-Putnam Metropolitan Division,2011,7.4
+Dutchess-Putnam Metropolitan Division,2012,7.7
+Dutchess-Putnam Metropolitan Division,2013,6.7
+Dutchess-Putnam Metropolitan Division,2014,5.2
+Dutchess-Putnam Metropolitan Division,2015,4.5
+Dutchess-Putnam Metropolitan Division,2016,4.2
+Dutchess-Putnam Metropolitan Division,2017,4.2
+Dutchess-Putnam Metropolitan Division,2018,3.6
+Dutchess-Putnam Metropolitan Division,2019,3.5
+Dutchess-Putnam Metropolitan Division,2020,7.3
+Dutchess-Putnam Metropolitan Division,2021,4.4
+Dutchess-Putnam Metropolitan Division,2022,3.1
+Dutchess-Putnam Metropolitan Division,2023,3.2
+Dutchess-Putnam Metropolitan Division,2024,3.6
+East Fishkill Town Ny,1998,3.4
+East Fishkill Town Ny,1999,3.4
+East Fishkill Town Ny,2000,2.8
+East Fishkill Town Ny,2001,3.2
+East Fishkill Town Ny,2002,4.0
+East Fishkill Town Ny,2003,3.9
+East Fishkill Town Ny,2004,3.9
+East Fishkill Town Ny,2005,3.7
+East Fishkill Town Ny,2006,3.6
+East Fishkill Town Ny,2007,3.4
+East Fishkill Town Ny,2008,4.6
+East Fishkill Town Ny,2009,7.1
+East Fishkill Town Ny,2010,7.8
+East Fishkill Town Ny,2011,7.1
+East Fishkill Town Ny,2012,7.8
+East Fishkill Town Ny,2013,6.8
+East Fishkill Town Ny,2014,5.2
+East Fishkill Town Ny,2015,4.4
+East Fishkill Town Ny,2016,4.1
+East Fishkill Town Ny,2017,4.2
+East Fishkill Town Ny,2018,3.7
+East Fishkill Town Ny,2019,3.4
+East Fishkill Town Ny,2020,7.2
+East Fishkill Town Ny,2021,4.2
+East Fishkill Town Ny,2022,3.0
+East Fishkill Town Ny,2023,3.2
+East Fishkill Town Ny,2024,3.5
+Eastchester Town,1990,2.4
+Eastchester Town,1991,3.8
+Eastchester Town,1992,4.4
+Eastchester Town,1993,3.9
+Eastchester Town,1994,3.4
+Eastchester Town,1995,3.0
+Eastchester Town,1996,2.8
+Eastchester Town,1997,2.6
+Eastchester Town,1998,2.3
+Eastchester Town,1999,2.3
+Eastchester Town,2000,3.2
+Eastchester Town,2001,3.6
+Eastchester Town,2002,4.4
+Eastchester Town,2003,4.4
+Eastchester Town,2004,4.1
+Eastchester Town,2005,3.6
+Eastchester Town,2006,3.5
+Eastchester Town,2007,3.3
+Eastchester Town,2008,4.4
+Eastchester Town,2009,6.8
+Eastchester Town,2010,7.0
+Eastchester Town,2011,6.5
+Eastchester Town,2012,6.6
+Eastchester Town,2013,5.8
+Eastchester Town,2014,4.6
+Eastchester Town,2015,4.1
+Eastchester Town,2016,3.8
+Eastchester Town,2017,4.1
+Eastchester Town,2018,3.5
+Eastchester Town,2019,3.2
+Eastchester Town,2020,7.0
+Eastchester Town,2021,4.2
+Eastchester Town,2022,2.8
+Eastchester Town,2023,3.0
+Eastchester Town,2024,3.4
+Elmira City,1990,7.4
+Elmira City,1991,10.0
+Elmira City,1992,10.4
+Elmira City,1993,8.7
+Elmira City,1994,8.0
+Elmira City,1995,7.3
+Elmira City,1996,6.5
+Elmira City,1997,6.7
+Elmira City,1998,6.4
+Elmira City,1999,7.2
+Elmira City,2000,5.2
+Elmira City,2001,5.8
+Elmira City,2002,7.1
+Elmira City,2003,7.4
+Elmira City,2004,7.0
+Elmira City,2005,6.0
+Elmira City,2006,5.7
+Elmira City,2007,5.3
+Elmira City,2008,6.8
+Elmira City,2009,10.8
+Elmira City,2010,11.0
+Elmira City,2011,10.2
+Elmira City,2012,11.1
+Elmira City,2013,10.2
+Elmira City,2014,8.0
+Elmira City,2015,7.6
+Elmira City,2016,7.6
+Elmira City,2017,6.9
+Elmira City,2018,6.0
+Elmira City,2019,5.1
+Elmira City,2020,11.0
+Elmira City,2021,7.1
+Elmira City,2022,5.0
+Elmira City,2023,5.3
+Elmira City,2024,5.6
+Elmira Metro Area,1990,4.8
+Elmira Metro Area,1991,6.6
+Elmira Metro Area,1992,6.9
+Elmira Metro Area,1993,5.7
+Elmira Metro Area,1994,5.3
+Elmira Metro Area,1995,4.8
+Elmira Metro Area,1996,4.3
+Elmira Metro Area,1997,4.4
+Elmira Metro Area,1998,4.2
+Elmira Metro Area,1999,4.8
+Elmira Metro Area,2000,4.3
+Elmira Metro Area,2001,5.0
+Elmira Metro Area,2002,6.5
+Elmira Metro Area,2003,6.5
+Elmira Metro Area,2004,6.1
+Elmira Metro Area,2005,5.3
+Elmira Metro Area,2006,4.9
+Elmira Metro Area,2007,4.5
+Elmira Metro Area,2008,5.5
+Elmira Metro Area,2009,9.1
+Elmira Metro Area,2010,8.5
+Elmira Metro Area,2011,7.9
+Elmira Metro Area,2012,8.5
+Elmira Metro Area,2013,8.1
+Elmira Metro Area,2014,6.3
+Elmira Metro Area,2015,5.9
+Elmira Metro Area,2016,5.8
+Elmira Metro Area,2017,5.5
+Elmira Metro Area,2018,4.6
+Elmira Metro Area,2019,4.0
+Elmira Metro Area,2020,8.4
+Elmira Metro Area,2021,5.3
+Elmira Metro Area,2022,3.8
+Elmira Metro Area,2023,4.0
+Elmira Metro Area,2024,4.2
+Erie,1990,5.2
+Erie,1991,7.0
+Erie,1992,7.4
+Erie,1993,6.6
+Erie,1994,5.9
+Erie,1995,5.2
+Erie,1996,4.9
+Erie,1997,5.0
+Erie,1998,5.1
+Erie,1999,5.1
+Erie,2000,4.2
+Erie,2001,4.7
+Erie,2002,5.4
+Erie,2003,5.8
+Erie,2004,5.8
+Erie,2005,5.2
+Erie,2006,4.9
+Erie,2007,4.6
+Erie,2008,5.6
+Erie,2009,8.2
+Erie,2010,8.5
+Erie,2011,8.0
+Erie,2012,8.4
+Erie,2013,7.6
+Erie,2014,6.1
+Erie,2015,5.4
+Erie,2016,5.0
+Erie,2017,5.1
+Erie,2018,4.4
+Erie,2019,4.1
+Erie,2020,9.2
+Erie,2021,5.4
+Erie,2022,3.7
+Erie,2023,3.8
+Erie,2024,4.3
+Erie County,1990,5.2
+Erie County,1991,7.0
+Erie County,1992,7.4
+Erie County,1993,6.6
+Erie County,1994,5.9
+Erie County,1995,5.2
+Erie County,1996,4.9
+Erie County,1997,5.0
+Erie County,1998,5.1
+Erie County,1999,5.1
+Erie County,2000,4.2
+Erie County,2001,4.7
+Erie County,2002,5.4
+Erie County,2003,5.8
+Erie County,2004,5.8
+Erie County,2005,5.2
+Erie County,2006,4.9
+Erie County,2007,4.6
+Erie County,2008,5.6
+Erie County,2009,8.2
+Erie County,2010,8.5
+Erie County,2011,8.0
+Erie County,2012,8.4
+Erie County,2013,7.6
+Erie County,2014,6.1
+Erie County,2015,5.4
+Erie County,2016,5.0
+Erie County,2017,5.1
+Erie County,2018,4.4
+Erie County,2019,4.1
+Erie County,2020,9.2
+Erie County,2021,5.4
+Erie County,2022,3.7
+Erie County,2023,3.8
+Erie County,2024,4.3
+Essex County,1990,8.2
+Essex County,1991,11.3
+Essex County,1992,12.6
+Essex County,1993,10.8
+Essex County,1994,10.3
+Essex County,1995,9.1
+Essex County,1996,8.6
+Essex County,1997,8.7
+Essex County,1998,8.2
+Essex County,1999,8.4
+Essex County,2000,4.8
+Essex County,2001,4.6
+Essex County,2002,5.2
+Essex County,2003,5.3
+Essex County,2004,5.6
+Essex County,2005,5.4
+Essex County,2006,5.6
+Essex County,2007,5.6
+Essex County,2008,6.6
+Essex County,2009,9.3
+Essex County,2010,9.3
+Essex County,2011,9.2
+Essex County,2012,9.7
+Essex County,2013,8.5
+Essex County,2014,6.9
+Essex County,2015,6.1
+Essex County,2016,5.4
+Essex County,2017,5.5
+Essex County,2018,4.8
+Essex County,2019,4.5
+Essex County,2020,7.9
+Essex County,2021,4.8
+Essex County,2022,3.7
+Essex County,2023,3.8
+Essex County,2024,4.2
+Finger Lakes,1990,4.0
+Finger Lakes,1991,5.3
+Finger Lakes,1992,5.9
+Finger Lakes,1993,5.2
+Finger Lakes,1994,5.4
+Finger Lakes,1995,4.6
+Finger Lakes,1996,4.1
+Finger Lakes,1997,4.2
+Finger Lakes,1998,4.1
+Finger Lakes,1999,4.3
+Finger Lakes,2000,3.7
+Finger Lakes,2001,4.2
+Finger Lakes,2002,5.5
+Finger Lakes,2003,5.6
+Finger Lakes,2004,5.4
+Finger Lakes,2005,4.7
+Finger Lakes,2006,4.5
+Finger Lakes,2007,4.4
+Finger Lakes,2008,5.5
+Finger Lakes,2009,8.0
+Finger Lakes,2010,8.3
+Finger Lakes,2011,7.8
+Finger Lakes,2012,8.1
+Finger Lakes,2013,7.2
+Finger Lakes,2014,5.9
+Finger Lakes,2015,5.2
+Finger Lakes,2016,4.8
+Finger Lakes,2017,4.9
+Finger Lakes,2018,4.2
+Finger Lakes,2019,4.0
+Finger Lakes,2020,7.8
+Finger Lakes,2021,5.0
+Finger Lakes,2022,3.4
+Finger Lakes,2023,3.6
+Finger Lakes,2024,4.0
+Franklin County,1990,8.7
+Franklin County,1991,11.5
+Franklin County,1992,10.6
+Franklin County,1993,8.7
+Franklin County,1994,8.7
+Franklin County,1995,8.3
+Franklin County,1996,8.4
+Franklin County,1997,8.8
+Franklin County,1998,7.9
+Franklin County,1999,7.7
+Franklin County,2000,5.7
+Franklin County,2001,6.0
+Franklin County,2002,6.2
+Franklin County,2003,6.7
+Franklin County,2004,6.6
+Franklin County,2005,5.9
+Franklin County,2006,5.5
+Franklin County,2007,5.5
+Franklin County,2008,6.8
+Franklin County,2009,8.6
+Franklin County,2010,9.1
+Franklin County,2011,9.2
+Franklin County,2012,9.7
+Franklin County,2013,9.0
+Franklin County,2014,7.3
+Franklin County,2015,6.6
+Franklin County,2016,5.8
+Franklin County,2017,6.0
+Franklin County,2018,5.1
+Franklin County,2019,4.7
+Franklin County,2020,8.0
+Franklin County,2021,4.8
+Franklin County,2022,3.7
+Franklin County,2023,3.8
+Franklin County,2024,4.2
+Freeport Village,1990,4.3
+Freeport Village,1991,6.6
+Freeport Village,1992,8.2
+Freeport Village,1993,6.9
+Freeport Village,1994,5.8
+Freeport Village,1995,5.2
+Freeport Village,1996,4.3
+Freeport Village,1997,4.1
+Freeport Village,1998,3.4
+Freeport Village,1999,3.4
+Freeport Village,2000,4.0
+Freeport Village,2001,4.6
+Freeport Village,2002,6.0
+Freeport Village,2003,5.9
+Freeport Village,2004,5.7
+Freeport Village,2005,4.9
+Freeport Village,2006,4.6
+Freeport Village,2007,4.4
+Freeport Village,2008,5.6
+Freeport Village,2009,8.6
+Freeport Village,2010,9.0
+Freeport Village,2011,8.6
+Freeport Village,2012,9.0
+Freeport Village,2013,7.5
+Freeport Village,2014,6.0
+Freeport Village,2015,5.4
+Freeport Village,2016,5.1
+Freeport Village,2017,5.2
+Freeport Village,2018,4.4
+Freeport Village,2019,4.0
+Freeport Village,2020,10.6
+Freeport Village,2021,6.2
+Freeport Village,2022,3.8
+Freeport Village,2023,3.9
+Freeport Village,2024,4.3
+Fulton County,1990,8.6
+Fulton County,1991,10.5
+Fulton County,1992,10.1
+Fulton County,1993,8.0
+Fulton County,1994,7.6
+Fulton County,1995,8.0
+Fulton County,1996,8.4
+Fulton County,1997,7.5
+Fulton County,1998,6.2
+Fulton County,1999,6.0
+Fulton County,2000,4.6
+Fulton County,2001,4.5
+Fulton County,2002,5.0
+Fulton County,2003,5.8
+Fulton County,2004,5.7
+Fulton County,2005,5.6
+Fulton County,2006,5.2
+Fulton County,2007,5.3
+Fulton County,2008,6.6
+Fulton County,2009,9.8
+Fulton County,2010,10.8
+Fulton County,2011,10.7
+Fulton County,2012,11.2
+Fulton County,2013,9.7
+Fulton County,2014,7.7
+Fulton County,2015,6.5
+Fulton County,2016,5.8
+Fulton County,2017,5.7
+Fulton County,2018,5.1
+Fulton County,2019,4.8
+Fulton County,2020,8.3
+Fulton County,2021,5.6
+Fulton County,2022,4.0
+Fulton County,2023,4.4
+Fulton County,2024,4.9
+Fulton-Montgomery-Schoharie,1990,7.2
+Fulton-Montgomery-Schoharie,1991,9.5
+Fulton-Montgomery-Schoharie,1992,9.7
+Fulton-Montgomery-Schoharie,1993,7.6
+Fulton-Montgomery-Schoharie,1994,7.3
+Fulton-Montgomery-Schoharie,1995,7.6
+Fulton-Montgomery-Schoharie,1996,7.7
+Fulton-Montgomery-Schoharie,1997,7.1
+Fulton-Montgomery-Schoharie,1998,5.8
+Fulton-Montgomery-Schoharie,1999,5.9
+Fulton-Montgomery-Schoharie,2000,4.6
+Fulton-Montgomery-Schoharie,2001,4.6
+Fulton-Montgomery-Schoharie,2002,5.4
+Fulton-Montgomery-Schoharie,2003,5.9
+Fulton-Montgomery-Schoharie,2004,5.8
+Fulton-Montgomery-Schoharie,2005,5.4
+Fulton-Montgomery-Schoharie,2006,5.4
+Fulton-Montgomery-Schoharie,2007,5.5
+Fulton-Montgomery-Schoharie,2008,6.8
+Fulton-Montgomery-Schoharie,2009,9.5
+Fulton-Montgomery-Schoharie,2010,10.2
+Fulton-Montgomery-Schoharie,2011,10.1
+Fulton-Montgomery-Schoharie,2012,10.5
+Fulton-Montgomery-Schoharie,2013,9.3
+Fulton-Montgomery-Schoharie,2014,7.4
+Fulton-Montgomery-Schoharie,2015,6.4
+Fulton-Montgomery-Schoharie,2016,5.7
+Fulton-Montgomery-Schoharie,2017,5.6
+Fulton-Montgomery-Schoharie,2018,5.0
+Fulton-Montgomery-Schoharie,2019,4.7
+Fulton-Montgomery-Schoharie,2020,8.0
+Fulton-Montgomery-Schoharie,2021,5.4
+Fulton-Montgomery-Schoharie,2022,4.0
+Fulton-Montgomery-Schoharie,2023,4.4
+Fulton-Montgomery-Schoharie,2024,4.8
+Gates Town,1990,2.4
+Gates Town,1991,3.2
+Gates Town,1992,3.6
+Gates Town,1993,3.4
+Gates Town,1994,3.5
+Gates Town,1995,2.8
+Gates Town,1996,2.5
+Gates Town,1997,2.6
+Gates Town,1998,2.6
+Gates Town,1999,2.8
+Gates Town,2000,3.8
+Gates Town,2001,4.2
+Gates Town,2002,6.0
+Gates Town,2003,6.2
+Gates Town,2004,5.8
+Gates Town,2005,5.0
+Gates Town,2006,4.5
+Gates Town,2007,4.9
+Gates Town,2008,5.8
+Gates Town,2009,8.9
+Gates Town,2010,8.5
+Gates Town,2011,7.9
+Gates Town,2012,8.3
+Gates Town,2013,7.8
+Gates Town,2014,6.1
+Gates Town,2015,5.4
+Gates Town,2016,5.0
+Gates Town,2017,5.1
+Gates Town,2018,4.2
+Gates Town,2019,3.9
+Gates Town,2020,8.8
+Gates Town,2021,5.2
+Gates Town,2022,3.4
+Gates Town,2023,3.9
+Gates Town,2024,4.2
+Genesee County,1990,5.2
+Genesee County,1991,7.9
+Genesee County,1992,8.1
+Genesee County,1993,6.6
+Genesee County,1994,6.4
+Genesee County,1995,5.8
+Genesee County,1996,5.1
+Genesee County,1997,5.6
+Genesee County,1998,5.3
+Genesee County,1999,5.2
+Genesee County,2000,4.0
+Genesee County,2001,4.3
+Genesee County,2002,5.4
+Genesee County,2003,5.6
+Genesee County,2004,5.6
+Genesee County,2005,4.9
+Genesee County,2006,4.6
+Genesee County,2007,4.5
+Genesee County,2008,5.6
+Genesee County,2009,7.8
+Genesee County,2010,8.2
+Genesee County,2011,7.9
+Genesee County,2012,8.0
+Genesee County,2013,7.0
+Genesee County,2014,5.6
+Genesee County,2015,5.0
+Genesee County,2016,4.7
+Genesee County,2017,4.8
+Genesee County,2018,4.1
+Genesee County,2019,3.8
+Genesee County,2020,7.1
+Genesee County,2021,4.3
+Genesee County,2022,3.2
+Genesee County,2023,3.3
+Genesee County,2024,3.8
+Genesee-Livingston-Orleans-Wyoming,1990,5.3
+Genesee-Livingston-Orleans-Wyoming,1991,7.4
+Genesee-Livingston-Orleans-Wyoming,1992,8.0
+Genesee-Livingston-Orleans-Wyoming,1993,6.8
+Genesee-Livingston-Orleans-Wyoming,1994,6.6
+Genesee-Livingston-Orleans-Wyoming,1995,6.2
+Genesee-Livingston-Orleans-Wyoming,1996,5.5
+Genesee-Livingston-Orleans-Wyoming,1997,5.8
+Genesee-Livingston-Orleans-Wyoming,1998,5.7
+Genesee-Livingston-Orleans-Wyoming,1999,5.4
+Genesee-Livingston-Orleans-Wyoming,2000,4.2
+Genesee-Livingston-Orleans-Wyoming,2001,4.6
+Genesee-Livingston-Orleans-Wyoming,2002,5.8
+Genesee-Livingston-Orleans-Wyoming,2003,6.1
+Genesee-Livingston-Orleans-Wyoming,2004,6.0
+Genesee-Livingston-Orleans-Wyoming,2005,5.1
+Genesee-Livingston-Orleans-Wyoming,2006,4.9
+Genesee-Livingston-Orleans-Wyoming,2007,4.9
+Genesee-Livingston-Orleans-Wyoming,2008,6.0
+Genesee-Livingston-Orleans-Wyoming,2009,8.6
+Genesee-Livingston-Orleans-Wyoming,2010,8.8
+Genesee-Livingston-Orleans-Wyoming,2011,8.3
+Genesee-Livingston-Orleans-Wyoming,2012,8.5
+Genesee-Livingston-Orleans-Wyoming,2013,7.7
+Genesee-Livingston-Orleans-Wyoming,2014,6.2
+Genesee-Livingston-Orleans-Wyoming,2015,5.5
+Genesee-Livingston-Orleans-Wyoming,2016,5.1
+Genesee-Livingston-Orleans-Wyoming,2017,5.2
+Genesee-Livingston-Orleans-Wyoming,2018,4.4
+Genesee-Livingston-Orleans-Wyoming,2019,4.1
+Genesee-Livingston-Orleans-Wyoming,2020,7.2
+Genesee-Livingston-Orleans-Wyoming,2021,4.6
+Genesee-Livingston-Orleans-Wyoming,2022,3.4
+Genesee-Livingston-Orleans-Wyoming,2023,3.6
+Genesee-Livingston-Orleans-Wyoming,2024,4.1
+Glen Cove City,1998,3.3
+Glen Cove City,1999,3.3
+Glen Cove City,2000,3.5
+Glen Cove City,2001,3.8
+Glen Cove City,2002,4.7
+Glen Cove City,2003,4.6
+Glen Cove City,2004,4.8
+Glen Cove City,2005,4.4
+Glen Cove City,2006,4.0
+Glen Cove City,2007,4.3
+Glen Cove City,2008,5.1
+Glen Cove City,2009,7.4
+Glen Cove City,2010,7.4
+Glen Cove City,2011,7.0
+Glen Cove City,2012,7.2
+Glen Cove City,2013,6.2
+Glen Cove City,2014,5.0
+Glen Cove City,2015,4.5
+Glen Cove City,2016,4.0
+Glen Cove City,2017,4.1
+Glen Cove City,2018,3.7
+Glen Cove City,2019,3.4
+Glen Cove City,2020,7.8
+Glen Cove City,2021,4.5
+Glen Cove City,2022,3.2
+Glen Cove City,2023,3.3
+Glen Cove City,2024,3.7
+Glens Falls Metro Area,1990,5.6
+Glens Falls Metro Area,1991,8.1
+Glens Falls Metro Area,1992,9.0
+Glens Falls Metro Area,1993,7.7
+Glens Falls Metro Area,1994,7.1
+Glens Falls Metro Area,1995,6.6
+Glens Falls Metro Area,1996,6.3
+Glens Falls Metro Area,1997,6.4
+Glens Falls Metro Area,1998,5.6
+Glens Falls Metro Area,1999,5.2
+Glens Falls Metro Area,2000,3.9
+Glens Falls Metro Area,2001,4.3
+Glens Falls Metro Area,2002,4.9
+Glens Falls Metro Area,2003,4.9
+Glens Falls Metro Area,2004,4.9
+Glens Falls Metro Area,2005,4.6
+Glens Falls Metro Area,2006,4.3
+Glens Falls Metro Area,2007,4.3
+Glens Falls Metro Area,2008,5.4
+Glens Falls Metro Area,2009,7.8
+Glens Falls Metro Area,2010,8.8
+Glens Falls Metro Area,2011,8.6
+Glens Falls Metro Area,2012,8.9
+Glens Falls Metro Area,2013,8.1
+Glens Falls Metro Area,2014,6.4
+Glens Falls Metro Area,2015,5.4
+Glens Falls Metro Area,2016,5.1
+Glens Falls Metro Area,2017,5.0
+Glens Falls Metro Area,2018,4.4
+Glens Falls Metro Area,2019,4.2
+Glens Falls Metro Area,2020,7.6
+Glens Falls Metro Area,2021,4.8
+Glens Falls Metro Area,2022,3.4
+Glens Falls Metro Area,2023,3.6
+Glens Falls Metro Area,2024,4.1
+Glenville Town,1990,3.0
+Glenville Town,1991,4.6
+Glenville Town,1992,5.0
+Glenville Town,1993,4.1
+Glenville Town,1994,3.8
+Glenville Town,1995,4.1
+Glenville Town,1996,3.7
+Glenville Town,1997,3.5
+Glenville Town,1998,3.2
+Glenville Town,1999,2.7
+Glenville Town,2000,3.1
+Glenville Town,2001,2.9
+Glenville Town,2002,3.7
+Glenville Town,2003,4.0
+Glenville Town,2004,3.8
+Glenville Town,2005,3.5
+Glenville Town,2006,3.4
+Glenville Town,2007,3.4
+Glenville Town,2008,4.2
+Glenville Town,2009,6.2
+Glenville Town,2010,6.7
+Glenville Town,2011,6.4
+Glenville Town,2012,6.5
+Glenville Town,2013,5.9
+Glenville Town,2014,4.5
+Glenville Town,2015,4.0
+Glenville Town,2016,3.9
+Glenville Town,2017,3.8
+Glenville Town,2018,3.5
+Glenville Town,2019,3.2
+Glenville Town,2020,6.0
+Glenville Town,2021,3.8
+Glenville Town,2022,2.7
+Glenville Town,2023,2.8
+Glenville Town,2024,3.3
+Greece Town,1990,2.5
+Greece Town,1991,3.2
+Greece Town,1992,3.6
+Greece Town,1993,3.4
+Greece Town,1994,3.6
+Greece Town,1995,2.9
+Greece Town,1996,2.6
+Greece Town,1997,2.6
+Greece Town,1998,2.6
+Greece Town,1999,2.8
+Greece Town,2000,3.2
+Greece Town,2001,3.8
+Greece Town,2002,5.0
+Greece Town,2003,5.3
+Greece Town,2004,5.1
+Greece Town,2005,4.5
+Greece Town,2006,4.4
+Greece Town,2007,4.5
+Greece Town,2008,5.4
+Greece Town,2009,8.2
+Greece Town,2010,8.0
+Greece Town,2011,7.5
+Greece Town,2012,7.7
+Greece Town,2013,6.9
+Greece Town,2014,5.6
+Greece Town,2015,4.9
+Greece Town,2016,4.5
+Greece Town,2017,4.7
+Greece Town,2018,4.1
+Greece Town,2019,3.8
+Greece Town,2020,8.2
+Greece Town,2021,5.1
+Greece Town,2022,3.5
+Greece Town,2023,3.5
+Greece Town,2024,3.9
+Greenburgh Town,1990,3.2
+Greenburgh Town,1991,4.9
+Greenburgh Town,1992,5.7
+Greenburgh Town,1993,5.1
+Greenburgh Town,1994,4.5
+Greenburgh Town,1995,4.0
+Greenburgh Town,1996,3.7
+Greenburgh Town,1997,3.4
+Greenburgh Town,1998,3.0
+Greenburgh Town,1999,3.1
+Greenburgh Town,2000,3.1
+Greenburgh Town,2001,3.4
+Greenburgh Town,2002,4.1
+Greenburgh Town,2003,4.1
+Greenburgh Town,2004,3.9
+Greenburgh Town,2005,3.4
+Greenburgh Town,2006,3.3
+Greenburgh Town,2007,3.2
+Greenburgh Town,2008,4.2
+Greenburgh Town,2009,6.4
+Greenburgh Town,2010,6.8
+Greenburgh Town,2011,6.5
+Greenburgh Town,2012,6.6
+Greenburgh Town,2013,5.7
+Greenburgh Town,2014,4.5
+Greenburgh Town,2015,4.0
+Greenburgh Town,2016,3.9
+Greenburgh Town,2017,4.0
+Greenburgh Town,2018,3.4
+Greenburgh Town,2019,3.2
+Greenburgh Town,2020,6.9
+Greenburgh Town,2021,4.0
+Greenburgh Town,2022,2.8
+Greenburgh Town,2023,3.1
+Greenburgh Town,2024,3.4
+Greene County,1990,4.9
+Greene County,1991,7.7
+Greene County,1992,9.0
+Greene County,1993,8.5
+Greene County,1994,8.2
+Greene County,1995,7.4
+Greene County,1996,6.7
+Greene County,1997,6.2
+Greene County,1998,5.5
+Greene County,1999,5.3
+Greene County,2000,4.5
+Greene County,2001,4.5
+Greene County,2002,4.9
+Greene County,2003,5.2
+Greene County,2004,5.4
+Greene County,2005,4.9
+Greene County,2006,4.7
+Greene County,2007,4.7
+Greene County,2008,5.8
+Greene County,2009,8.5
+Greene County,2010,9.3
+Greene County,2011,9.5
+Greene County,2012,10.1
+Greene County,2013,9.0
+Greene County,2014,6.8
+Greene County,2015,5.7
+Greene County,2016,5.1
+Greene County,2017,5.2
+Greene County,2018,4.5
+Greene County,2019,4.3
+Greene County,2020,8.0
+Greene County,2021,5.0
+Greene County,2022,3.6
+Greene County,2023,3.8
+Greene County,2024,4.3
+Guilderland Town,1990,1.9
+Guilderland Town,1991,3.0
+Guilderland Town,1992,3.2
+Guilderland Town,1993,2.7
+Guilderland Town,1994,2.6
+Guilderland Town,1995,2.6
+Guilderland Town,1996,2.4
+Guilderland Town,1997,2.1
+Guilderland Town,1998,1.9
+Guilderland Town,1999,1.8
+Guilderland Town,2000,2.7
+Guilderland Town,2001,2.7
+Guilderland Town,2002,3.0
+Guilderland Town,2003,3.3
+Guilderland Town,2004,3.2
+Guilderland Town,2005,2.9
+Guilderland Town,2006,2.9
+Guilderland Town,2007,2.8
+Guilderland Town,2008,3.7
+Guilderland Town,2009,5.2
+Guilderland Town,2010,6.0
+Guilderland Town,2011,5.8
+Guilderland Town,2012,5.9
+Guilderland Town,2013,5.1
+Guilderland Town,2014,4.1
+Guilderland Town,2015,3.7
+Guilderland Town,2016,3.6
+Guilderland Town,2017,3.5
+Guilderland Town,2018,3.0
+Guilderland Town,2019,2.8
+Guilderland Town,2020,4.9
+Guilderland Town,2021,3.4
+Guilderland Town,2022,2.4
+Guilderland Town,2023,2.8
+Guilderland Town,2024,3.0
+Hamburg Town,1990,3.5
+Hamburg Town,1991,4.7
+Hamburg Town,1992,5.0
+Hamburg Town,1993,4.5
+Hamburg Town,1994,3.9
+Hamburg Town,1995,3.5
+Hamburg Town,1996,3.2
+Hamburg Town,1997,3.4
+Hamburg Town,1998,3.4
+Hamburg Town,1999,3.4
+Hamburg Town,2000,3.9
+Hamburg Town,2001,4.2
+Hamburg Town,2002,5.0
+Hamburg Town,2003,5.4
+Hamburg Town,2004,5.2
+Hamburg Town,2005,4.8
+Hamburg Town,2006,4.5
+Hamburg Town,2007,4.2
+Hamburg Town,2008,5.2
+Hamburg Town,2009,7.6
+Hamburg Town,2010,7.6
+Hamburg Town,2011,7.2
+Hamburg Town,2012,7.4
+Hamburg Town,2013,6.8
+Hamburg Town,2014,5.5
+Hamburg Town,2015,4.7
+Hamburg Town,2016,4.5
+Hamburg Town,2017,4.6
+Hamburg Town,2018,3.9
+Hamburg Town,2019,3.6
+Hamburg Town,2020,8.0
+Hamburg Town,2021,4.7
+Hamburg Town,2022,3.2
+Hamburg Town,2023,3.2
+Hamburg Town,2024,3.6
+Hamilton County,1990,9.1
+Hamilton County,1991,10.7
+Hamilton County,1992,12.1
+Hamilton County,1993,11.4
+Hamilton County,1994,11.2
+Hamilton County,1995,11.5
+Hamilton County,1996,11.2
+Hamilton County,1997,11.4
+Hamilton County,1998,11.2
+Hamilton County,1999,10.4
+Hamilton County,2000,5.8
+Hamilton County,2001,5.2
+Hamilton County,2002,5.4
+Hamilton County,2003,5.8
+Hamilton County,2004,5.9
+Hamilton County,2005,5.7
+Hamilton County,2006,5.2
+Hamilton County,2007,4.8
+Hamilton County,2008,6.3
+Hamilton County,2009,7.8
+Hamilton County,2010,10.2
+Hamilton County,2011,10.2
+Hamilton County,2012,11.1
+Hamilton County,2013,10.0
+Hamilton County,2014,7.6
+Hamilton County,2015,7.0
+Hamilton County,2016,6.7
+Hamilton County,2017,7.6
+Hamilton County,2018,7.0
+Hamilton County,2019,5.8
+Hamilton County,2020,7.8
+Hamilton County,2021,4.6
+Hamilton County,2022,4.4
+Hamilton County,2023,5.1
+Hamilton County,2024,5.8
+Harrison Village,2000,3.2
+Harrison Village,2001,3.5
+Harrison Village,2002,4.3
+Harrison Village,2003,4.0
+Harrison Village,2004,4.1
+Harrison Village,2005,3.8
+Harrison Village,2006,3.5
+Harrison Village,2007,3.3
+Harrison Village,2008,4.4
+Harrison Village,2009,6.5
+Harrison Village,2010,7.5
+Harrison Village,2011,7.0
+Harrison Village,2012,7.7
+Harrison Village,2013,6.4
+Harrison Village,2014,5.3
+Harrison Village,2015,4.8
+Harrison Village,2016,4.6
+Harrison Village,2017,4.6
+Harrison Village,2018,4.0
+Harrison Village,2019,3.6
+Harrison Village,2020,6.4
+Harrison Village,2021,4.3
+Harrison Village,2022,3.1
+Harrison Village,2023,3.4
+Harrison Village,2024,3.8
+Haverstraw Town,1990,3.4
+Haverstraw Town,1991,5.7
+Haverstraw Town,1992,6.6
+Haverstraw Town,1993,6.4
+Haverstraw Town,1994,5.4
+Haverstraw Town,1995,5.0
+Haverstraw Town,1996,4.4
+Haverstraw Town,1997,4.1
+Haverstraw Town,1998,3.4
+Haverstraw Town,1999,3.5
+Haverstraw Town,2000,4.1
+Haverstraw Town,2001,4.3
+Haverstraw Town,2002,5.7
+Haverstraw Town,2003,6.2
+Haverstraw Town,2004,5.8
+Haverstraw Town,2005,5.3
+Haverstraw Town,2006,5.0
+Haverstraw Town,2007,4.8
+Haverstraw Town,2008,6.2
+Haverstraw Town,2009,9.5
+Haverstraw Town,2010,9.2
+Haverstraw Town,2011,8.8
+Haverstraw Town,2012,9.0
+Haverstraw Town,2013,8.0
+Haverstraw Town,2014,6.8
+Haverstraw Town,2015,5.7
+Haverstraw Town,2016,5.3
+Haverstraw Town,2017,5.3
+Haverstraw Town,2018,4.9
+Haverstraw Town,2019,4.3
+Haverstraw Town,2020,10.3
+Haverstraw Town,2021,5.9
+Haverstraw Town,2022,3.7
+Haverstraw Town,2023,3.9
+Haverstraw Town,2024,4.5
+Hempstead Town,1990,3.9
+Hempstead Town,1991,5.9
+Hempstead Town,1992,7.4
+Hempstead Town,1993,6.2
+Hempstead Town,1994,5.2
+Hempstead Town,1995,4.7
+Hempstead Town,1996,3.9
+Hempstead Town,1997,3.6
+Hempstead Town,1998,3.1
+Hempstead Town,1999,3.1
+Hempstead Town,2000,3.4
+Hempstead Town,2001,3.8
+Hempstead Town,2002,4.9
+Hempstead Town,2003,4.9
+Hempstead Town,2004,4.8
+Hempstead Town,2005,4.2
+Hempstead Town,2006,3.9
+Hempstead Town,2007,3.8
+Hempstead Town,2008,4.9
+Hempstead Town,2009,7.4
+Hempstead Town,2010,7.6
+Hempstead Town,2011,7.2
+Hempstead Town,2012,7.5
+Hempstead Town,2013,6.4
+Hempstead Town,2014,5.1
+Hempstead Town,2015,4.5
+Hempstead Town,2016,4.2
+Hempstead Town,2017,4.3
+Hempstead Town,2018,3.6
+Hempstead Town,2019,3.4
+Hempstead Town,2020,8.5
+Hempstead Town,2021,4.8
+Hempstead Town,2022,3.1
+Hempstead Town,2023,3.3
+Hempstead Town,2024,3.5
+Hempstead Village,1990,6.1
+Hempstead Village,1991,9.3
+Hempstead Village,1992,11.5
+Hempstead Village,1993,9.7
+Hempstead Village,1994,8.2
+Hempstead Village,1995,7.4
+Hempstead Village,1996,6.2
+Hempstead Village,1997,5.8
+Hempstead Village,1998,4.9
+Hempstead Village,1999,4.9
+Hempstead Village,2000,4.4
+Hempstead Village,2001,4.9
+Hempstead Village,2002,6.4
+Hempstead Village,2003,6.9
+Hempstead Village,2004,6.9
+Hempstead Village,2005,5.9
+Hempstead Village,2006,5.4
+Hempstead Village,2007,5.2
+Hempstead Village,2008,6.4
+Hempstead Village,2009,9.7
+Hempstead Village,2010,9.3
+Hempstead Village,2011,8.9
+Hempstead Village,2012,9.2
+Hempstead Village,2013,7.9
+Hempstead Village,2014,6.5
+Hempstead Village,2015,5.6
+Hempstead Village,2016,5.3
+Hempstead Village,2017,5.4
+Hempstead Village,2018,4.6
+Hempstead Village,2019,4.3
+Hempstead Village,2020,10.9
+Hempstead Village,2021,6.5
+Hempstead Village,2022,4.1
+Hempstead Village,2023,4.1
+Hempstead Village,2024,4.5
+Hempstead-Long Beach,1990,3.9
+Hempstead-Long Beach,1991,6.0
+Hempstead-Long Beach,1992,7.5
+Hempstead-Long Beach,1993,6.3
+Hempstead-Long Beach,1994,5.3
+Hempstead-Long Beach,1995,4.7
+Hempstead-Long Beach,1996,4.0
+Hempstead-Long Beach,1997,3.7
+Hempstead-Long Beach,1998,3.1
+Hempstead-Long Beach,1999,3.1
+Hempstead-Long Beach,2000,3.4
+Hempstead-Long Beach,2001,3.9
+Hempstead-Long Beach,2002,4.9
+Hempstead-Long Beach,2003,4.9
+Hempstead-Long Beach,2004,4.8
+Hempstead-Long Beach,2005,4.2
+Hempstead-Long Beach,2006,3.9
+Hempstead-Long Beach,2007,3.8
+Hempstead-Long Beach,2008,4.9
+Hempstead-Long Beach,2009,7.4
+Hempstead-Long Beach,2010,7.6
+Hempstead-Long Beach,2011,7.2
+Hempstead-Long Beach,2012,7.5
+Hempstead-Long Beach,2013,6.4
+Hempstead-Long Beach,2014,5.0
+Hempstead-Long Beach,2015,4.4
+Hempstead-Long Beach,2016,4.1
+Hempstead-Long Beach,2017,4.2
+Hempstead-Long Beach,2018,3.6
+Hempstead-Long Beach,2019,3.4
+Hempstead-Long Beach,2020,8.5
+Hempstead-Long Beach,2021,4.8
+Hempstead-Long Beach,2022,3.1
+Hempstead-Long Beach,2023,3.2
+Hempstead-Long Beach,2024,3.5
+Henrietta Town,1990,2.1
+Henrietta Town,1991,2.7
+Henrietta Town,1992,3.0
+Henrietta Town,1993,2.8
+Henrietta Town,1994,3.0
+Henrietta Town,1995,2.4
+Henrietta Town,1996,2.1
+Henrietta Town,1997,2.2
+Henrietta Town,1998,2.2
+Henrietta Town,1999,2.4
+Henrietta Town,2000,3.3
+Henrietta Town,2001,3.8
+Henrietta Town,2002,4.7
+Henrietta Town,2003,5.0
+Henrietta Town,2004,4.6
+Henrietta Town,2005,4.1
+Henrietta Town,2006,3.8
+Henrietta Town,2007,3.7
+Henrietta Town,2008,4.7
+Henrietta Town,2009,7.1
+Henrietta Town,2010,7.4
+Henrietta Town,2011,7.0
+Henrietta Town,2012,7.4
+Henrietta Town,2013,6.5
+Henrietta Town,2014,5.3
+Henrietta Town,2015,4.6
+Henrietta Town,2016,4.4
+Henrietta Town,2017,4.5
+Henrietta Town,2018,3.8
+Henrietta Town,2019,3.5
+Henrietta Town,2020,6.7
+Henrietta Town,2021,4.2
+Henrietta Town,2022,3.1
+Henrietta Town,2023,3.2
+Henrietta Town,2024,3.5
+Herkimer County,1990,6.2
+Herkimer County,1991,8.8
+Herkimer County,1992,8.9
+Herkimer County,1993,7.8
+Herkimer County,1994,6.7
+Herkimer County,1995,7.0
+Herkimer County,1996,6.6
+Herkimer County,1997,6.6
+Herkimer County,1998,5.8
+Herkimer County,1999,5.2
+Herkimer County,2000,4.2
+Herkimer County,2001,4.5
+Herkimer County,2002,5.4
+Herkimer County,2003,5.8
+Herkimer County,2004,5.7
+Herkimer County,2005,5.3
+Herkimer County,2006,5.0
+Herkimer County,2007,4.8
+Herkimer County,2008,6.0
+Herkimer County,2009,8.1
+Herkimer County,2010,8.8
+Herkimer County,2011,8.8
+Herkimer County,2012,8.9
+Herkimer County,2013,8.0
+Herkimer County,2014,6.8
+Herkimer County,2015,6.3
+Herkimer County,2016,5.6
+Herkimer County,2017,5.6
+Herkimer County,2018,4.9
+Herkimer County,2019,4.7
+Herkimer County,2020,7.9
+Herkimer County,2021,5.9
+Herkimer County,2022,4.0
+Herkimer County,2023,4.1
+Herkimer County,2024,4.9
+Herkimer-Madison-Oneida,1990,4.9
+Herkimer-Madison-Oneida,1991,7.1
+Herkimer-Madison-Oneida,1992,7.5
+Herkimer-Madison-Oneida,1993,6.6
+Herkimer-Madison-Oneida,1994,5.6
+Herkimer-Madison-Oneida,1995,5.6
+Herkimer-Madison-Oneida,1996,5.3
+Herkimer-Madison-Oneida,1997,5.2
+Herkimer-Madison-Oneida,1998,4.6
+Herkimer-Madison-Oneida,1999,4.3
+Herkimer-Madison-Oneida,2000,3.9
+Herkimer-Madison-Oneida,2001,4.6
+Herkimer-Madison-Oneida,2002,5.4
+Herkimer-Madison-Oneida,2003,5.6
+Herkimer-Madison-Oneida,2004,5.4
+Herkimer-Madison-Oneida,2005,5.0
+Herkimer-Madison-Oneida,2006,4.5
+Herkimer-Madison-Oneida,2007,4.4
+Herkimer-Madison-Oneida,2008,5.5
+Herkimer-Madison-Oneida,2009,7.8
+Herkimer-Madison-Oneida,2010,8.1
+Herkimer-Madison-Oneida,2011,8.2
+Herkimer-Madison-Oneida,2012,8.5
+Herkimer-Madison-Oneida,2013,7.7
+Herkimer-Madison-Oneida,2014,6.3
+Herkimer-Madison-Oneida,2015,5.6
+Herkimer-Madison-Oneida,2016,5.1
+Herkimer-Madison-Oneida,2017,5.2
+Herkimer-Madison-Oneida,2018,4.5
+Herkimer-Madison-Oneida,2019,4.2
+Herkimer-Madison-Oneida,2020,7.8
+Herkimer-Madison-Oneida,2021,5.2
+Herkimer-Madison-Oneida,2022,3.7
+Herkimer-Madison-Oneida,2023,3.8
+Herkimer-Madison-Oneida,2024,4.3
+Hudson Valley,1990,3.6
+Hudson Valley,1991,5.6
+Hudson Valley,1992,6.6
+Hudson Valley,1993,6.3
+Hudson Valley,1994,5.5
+Hudson Valley,1995,4.7
+Hudson Valley,1996,4.2
+Hudson Valley,1997,4.0
+Hudson Valley,1998,3.4
+Hudson Valley,1999,3.5
+Hudson Valley,2000,3.3
+Hudson Valley,2001,3.7
+Hudson Valley,2002,4.5
+Hudson Valley,2003,4.6
+Hudson Valley,2004,4.6
+Hudson Valley,2005,4.1
+Hudson Valley,2006,3.9
+Hudson Valley,2007,3.9
+Hudson Valley,2008,5.0
+Hudson Valley,2009,7.4
+Hudson Valley,2010,7.8
+Hudson Valley,2011,7.4
+Hudson Valley,2012,7.7
+Hudson Valley,2013,6.7
+Hudson Valley,2014,5.3
+Hudson Valley,2015,4.6
+Hudson Valley,2016,4.4
+Hudson Valley,2017,4.4
+Hudson Valley,2018,3.8
+Hudson Valley,2019,3.6
+Hudson Valley,2020,7.9
+Hudson Valley,2021,4.7
+Hudson Valley,2022,3.2
+Hudson Valley,2023,3.3
+Hudson Valley,2024,3.7
+Huntington Town,1990,3.8
+Huntington Town,1991,6.0
+Huntington Town,1992,7.2
+Huntington Town,1993,6.3
+Huntington Town,1994,5.3
+Huntington Town,1995,4.6
+Huntington Town,1996,4.0
+Huntington Town,1997,3.6
+Huntington Town,1998,3.1
+Huntington Town,1999,3.0
+Huntington Town,2000,3.1
+Huntington Town,2001,3.4
+Huntington Town,2002,4.4
+Huntington Town,2003,4.4
+Huntington Town,2004,4.2
+Huntington Town,2005,3.8
+Huntington Town,2006,3.5
+Huntington Town,2007,3.4
+Huntington Town,2008,4.4
+Huntington Town,2009,6.6
+Huntington Town,2010,7.0
+Huntington Town,2011,6.6
+Huntington Town,2012,6.8
+Huntington Town,2013,5.9
+Huntington Town,2014,4.7
+Huntington Town,2015,4.1
+Huntington Town,2016,3.8
+Huntington Town,2017,4.0
+Huntington Town,2018,3.4
+Huntington Town,2019,3.2
+Huntington Town,2020,7.6
+Huntington Town,2021,4.2
+Huntington Town,2022,2.8
+Huntington Town,2023,3.1
+Huntington Town,2024,3.4
+Irondequoit Town,1990,2.5
+Irondequoit Town,1991,3.2
+Irondequoit Town,1992,3.7
+Irondequoit Town,1993,3.4
+Irondequoit Town,1994,3.6
+Irondequoit Town,1995,2.9
+Irondequoit Town,1996,2.6
+Irondequoit Town,1997,2.6
+Irondequoit Town,1998,2.7
+Irondequoit Town,1999,2.8
+Irondequoit Town,2000,3.5
+Irondequoit Town,2001,4.2
+Irondequoit Town,2002,5.4
+Irondequoit Town,2003,5.8
+Irondequoit Town,2004,5.4
+Irondequoit Town,2005,4.7
+Irondequoit Town,2006,4.4
+Irondequoit Town,2007,4.4
+Irondequoit Town,2008,5.5
+Irondequoit Town,2009,8.3
+Irondequoit Town,2010,7.8
+Irondequoit Town,2011,7.3
+Irondequoit Town,2012,7.6
+Irondequoit Town,2013,6.9
+Irondequoit Town,2014,5.8
+Irondequoit Town,2015,4.9
+Irondequoit Town,2016,4.5
+Irondequoit Town,2017,4.9
+Irondequoit Town,2018,4.0
+Irondequoit Town,2019,3.8
+Irondequoit Town,2020,7.9
+Irondequoit Town,2021,4.8
+Irondequoit Town,2022,3.2
+Irondequoit Town,2023,3.4
+Irondequoit Town,2024,3.8
+Islip Town,1990,4.6
+Islip Town,1991,7.2
+Islip Town,1992,8.7
+Islip Town,1993,7.7
+Islip Town,1994,6.5
+Islip Town,1995,5.6
+Islip Town,1996,4.8
+Islip Town,1997,4.4
+Islip Town,1998,3.7
+Islip Town,1999,3.7
+Islip Town,2000,3.4
+Islip Town,2001,4.0
+Islip Town,2002,5.0
+Islip Town,2003,5.1
+Islip Town,2004,4.9
+Islip Town,2005,4.3
+Islip Town,2006,4.0
+Islip Town,2007,3.9
+Islip Town,2008,5.2
+Islip Town,2009,7.8
+Islip Town,2010,8.0
+Islip Town,2011,7.8
+Islip Town,2012,8.1
+Islip Town,2013,6.9
+Islip Town,2014,5.5
+Islip Town,2015,4.8
+Islip Town,2016,4.4
+Islip Town,2017,4.4
+Islip Town,2018,3.7
+Islip Town,2019,3.5
+Islip Town,2020,8.4
+Islip Town,2021,4.7
+Islip Town,2022,3.2
+Islip Town,2023,3.4
+Islip Town,2024,3.7
+Ithaca City,1990,4.2
+Ithaca City,1991,4.9
+Ithaca City,1992,5.4
+Ithaca City,1993,4.7
+Ithaca City,1994,4.3
+Ithaca City,1995,4.0
+Ithaca City,1996,3.4
+Ithaca City,1997,3.6
+Ithaca City,1998,3.3
+Ithaca City,1999,3.1
+Ithaca City,2000,3.7
+Ithaca City,2001,3.6
+Ithaca City,2002,4.2
+Ithaca City,2003,4.2
+Ithaca City,2004,4.3
+Ithaca City,2005,4.0
+Ithaca City,2006,3.8
+Ithaca City,2007,3.8
+Ithaca City,2008,4.6
+Ithaca City,2009,6.5
+Ithaca City,2010,7.0
+Ithaca City,2011,6.7
+Ithaca City,2012,6.8
+Ithaca City,2013,5.9
+Ithaca City,2014,5.0
+Ithaca City,2015,5.0
+Ithaca City,2016,4.8
+Ithaca City,2017,5.0
+Ithaca City,2018,4.0
+Ithaca City,2019,4.0
+Ithaca City,2020,6.0
+Ithaca City,2021,4.0
+Ithaca City,2022,3.3
+Ithaca City,2023,3.6
+Ithaca City,2024,4.1
+Ithaca Metro Area,1990,3.7
+Ithaca Metro Area,1991,4.3
+Ithaca Metro Area,1992,4.8
+Ithaca Metro Area,1993,4.1
+Ithaca Metro Area,1994,3.8
+Ithaca Metro Area,1995,3.5
+Ithaca Metro Area,1996,3.0
+Ithaca Metro Area,1997,3.1
+Ithaca Metro Area,1998,2.9
+Ithaca Metro Area,1999,2.8
+Ithaca Metro Area,2000,3.3
+Ithaca Metro Area,2001,3.4
+Ithaca Metro Area,2002,4.1
+Ithaca Metro Area,2003,4.0
+Ithaca Metro Area,2004,4.1
+Ithaca Metro Area,2005,3.6
+Ithaca Metro Area,2006,3.4
+Ithaca Metro Area,2007,3.3
+Ithaca Metro Area,2008,4.1
+Ithaca Metro Area,2009,6.0
+Ithaca Metro Area,2010,6.3
+Ithaca Metro Area,2011,6.1
+Ithaca Metro Area,2012,6.2
+Ithaca Metro Area,2013,5.4
+Ithaca Metro Area,2014,4.4
+Ithaca Metro Area,2015,4.4
+Ithaca Metro Area,2016,4.2
+Ithaca Metro Area,2017,4.3
+Ithaca Metro Area,2018,3.6
+Ithaca Metro Area,2019,3.5
+Ithaca Metro Area,2020,5.9
+Ithaca Metro Area,2021,3.8
+Ithaca Metro Area,2022,2.9
+Ithaca Metro Area,2023,3.1
+Ithaca Metro Area,2024,3.5
+Jamestown City,1990,6.4
+Jamestown City,1991,8.5
+Jamestown City,1992,9.2
+Jamestown City,1993,7.7
+Jamestown City,1994,7.3
+Jamestown City,1995,6.5
+Jamestown City,1996,5.7
+Jamestown City,1997,6.3
+Jamestown City,1998,5.9
+Jamestown City,1999,5.6
+Jamestown City,2000,4.1
+Jamestown City,2001,5.0
+Jamestown City,2002,6.1
+Jamestown City,2003,6.3
+Jamestown City,2004,5.9
+Jamestown City,2005,5.2
+Jamestown City,2006,4.7
+Jamestown City,2007,4.7
+Jamestown City,2008,6.0
+Jamestown City,2009,9.8
+Jamestown City,2010,10.3
+Jamestown City,2011,9.2
+Jamestown City,2012,10.2
+Jamestown City,2013,9.3
+Jamestown City,2014,8.1
+Jamestown City,2015,6.2
+Jamestown City,2016,6.6
+Jamestown City,2017,6.6
+Jamestown City,2018,5.6
+Jamestown City,2019,5.0
+Jamestown City,2020,10.1
+Jamestown City,2021,5.9
+Jamestown City,2022,4.4
+Jamestown City,2023,4.4
+Jamestown City,2024,5.0
+Jefferson County,1990,8.8
+Jefferson County,1991,11.0
+Jefferson County,1992,12.3
+Jefferson County,1993,11.3
+Jefferson County,1994,10.2
+Jefferson County,1995,9.0
+Jefferson County,1996,8.5
+Jefferson County,1997,8.9
+Jefferson County,1998,9.4
+Jefferson County,1999,9.1
+Jefferson County,2000,5.9
+Jefferson County,2001,6.3
+Jefferson County,2002,6.8
+Jefferson County,2003,6.9
+Jefferson County,2004,7.0
+Jefferson County,2005,6.2
+Jefferson County,2006,5.5
+Jefferson County,2007,5.4
+Jefferson County,2008,6.8
+Jefferson County,2009,9.0
+Jefferson County,2010,9.4
+Jefferson County,2011,9.8
+Jefferson County,2012,10.0
+Jefferson County,2013,9.5
+Jefferson County,2014,7.7
+Jefferson County,2015,6.6
+Jefferson County,2016,6.4
+Jefferson County,2017,6.5
+Jefferson County,2018,5.5
+Jefferson County,2019,5.3
+Jefferson County,2020,8.4
+Jefferson County,2021,5.1
+Jefferson County,2022,4.1
+Jefferson County,2023,4.4
+Jefferson County,2024,5.0
+Jefferson-Lewis,1990,8.4
+Jefferson-Lewis,1991,10.7
+Jefferson-Lewis,1992,12.0
+Jefferson-Lewis,1993,11.0
+Jefferson-Lewis,1994,10.0
+Jefferson-Lewis,1995,8.9
+Jefferson-Lewis,1996,8.4
+Jefferson-Lewis,1997,8.7
+Jefferson-Lewis,1998,9.2
+Jefferson-Lewis,1999,9.0
+Jefferson-Lewis,2000,5.7
+Jefferson-Lewis,2001,6.3
+Jefferson-Lewis,2002,6.7
+Jefferson-Lewis,2003,6.8
+Jefferson-Lewis,2004,7.0
+Jefferson-Lewis,2005,6.1
+Jefferson-Lewis,2006,5.5
+Jefferson-Lewis,2007,5.4
+Jefferson-Lewis,2008,6.7
+Jefferson-Lewis,2009,9.0
+Jefferson-Lewis,2010,9.4
+Jefferson-Lewis,2011,9.8
+Jefferson-Lewis,2012,10.0
+Jefferson-Lewis,2013,9.5
+Jefferson-Lewis,2014,7.7
+Jefferson-Lewis,2015,6.7
+Jefferson-Lewis,2016,6.5
+Jefferson-Lewis,2017,6.5
+Jefferson-Lewis,2018,5.5
+Jefferson-Lewis,2019,5.3
+Jefferson-Lewis,2020,8.2
+Jefferson-Lewis,2021,5.1
+Jefferson-Lewis,2022,4.1
+Jefferson-Lewis,2023,4.4
+Jefferson-Lewis,2024,5.0
+Kings County,1990,7.8
+Kings County,1991,9.7
+Kings County,1992,12.2
+Kings County,1993,11.5
+Kings County,1994,9.8
+Kings County,1995,9.2
+Kings County,1996,10.0
+Kings County,1997,10.6
+Kings County,1998,9.3
+Kings County,1999,8.0
+Kings County,2000,6.3
+Kings County,2001,6.6
+Kings County,2002,8.7
+Kings County,2003,9.0
+Kings County,2004,7.5
+Kings County,2005,6.1
+Kings County,2006,5.3
+Kings County,2007,5.2
+Kings County,2008,6.0
+Kings County,2009,9.9
+Kings County,2010,10.0
+Kings County,2011,9.6
+Kings County,2012,9.9
+Kings County,2013,9.3
+Kings County,2014,7.4
+Kings County,2015,5.8
+Kings County,2016,5.3
+Kings County,2017,4.6
+Kings County,2018,4.2
+Kings County,2019,4.1
+Kings County,2020,12.6
+Kings County,2021,10.4
+Kings County,2022,5.9
+Kings County,2023,5.5
+Kings County,2024,5.3
+Kingston Metro Area,1990,3.7
+Kingston Metro Area,1991,6.0
+Kingston Metro Area,1992,6.8
+Kingston Metro Area,1993,7.4
+Kingston Metro Area,1994,6.6
+Kingston Metro Area,1995,5.4
+Kingston Metro Area,1996,4.5
+Kingston Metro Area,1997,4.1
+Kingston Metro Area,1998,3.5
+Kingston Metro Area,1999,3.5
+Kingston Metro Area,2000,3.6
+Kingston Metro Area,2001,3.8
+Kingston Metro Area,2002,4.4
+Kingston Metro Area,2003,4.6
+Kingston Metro Area,2004,4.9
+Kingston Metro Area,2005,4.4
+Kingston Metro Area,2006,4.1
+Kingston Metro Area,2007,4.3
+Kingston Metro Area,2008,5.4
+Kingston Metro Area,2009,7.8
+Kingston Metro Area,2010,8.0
+Kingston Metro Area,2011,7.9
+Kingston Metro Area,2012,8.4
+Kingston Metro Area,2013,7.3
+Kingston Metro Area,2014,5.8
+Kingston Metro Area,2015,4.9
+Kingston Metro Area,2016,4.5
+Kingston Metro Area,2017,4.5
+Kingston Metro Area,2018,3.9
+Kingston Metro Area,2019,3.6
+Kingston Metro Area,2020,7.7
+Kingston Metro Area,2021,4.7
+Kingston Metro Area,2022,3.2
+Kingston Metro Area,2023,3.4
+Kingston Metro Area,2024,3.8
+Lancaster Town,1990,4.2
+Lancaster Town,1991,5.6
+Lancaster Town,1992,5.9
+Lancaster Town,1993,5.3
+Lancaster Town,1994,4.7
+Lancaster Town,1995,4.1
+Lancaster Town,1996,3.8
+Lancaster Town,1997,4.0
+Lancaster Town,1998,4.1
+Lancaster Town,1999,4.1
+Lancaster Town,2000,3.7
+Lancaster Town,2001,4.0
+Lancaster Town,2002,4.7
+Lancaster Town,2003,5.0
+Lancaster Town,2004,4.9
+Lancaster Town,2005,4.4
+Lancaster Town,2006,4.3
+Lancaster Town,2007,4.1
+Lancaster Town,2008,4.9
+Lancaster Town,2009,7.2
+Lancaster Town,2010,7.2
+Lancaster Town,2011,6.6
+Lancaster Town,2012,7.1
+Lancaster Town,2013,6.4
+Lancaster Town,2014,5.2
+Lancaster Town,2015,4.6
+Lancaster Town,2016,4.3
+Lancaster Town,2017,4.3
+Lancaster Town,2018,3.6
+Lancaster Town,2019,3.3
+Lancaster Town,2020,7.6
+Lancaster Town,2021,4.4
+Lancaster Town,2022,3.0
+Lancaster Town,2023,3.1
+Lancaster Town,2024,3.6
+Lewis County,1990,7.1
+Lewis County,1991,9.3
+Lewis County,1992,11.2
+Lewis County,1993,10.2
+Lewis County,1994,9.2
+Lewis County,1995,8.3
+Lewis County,1996,7.9
+Lewis County,1997,7.9
+Lewis County,1998,8.6
+Lewis County,1999,8.8
+Lewis County,2000,5.1
+Lewis County,2001,6.1
+Lewis County,2002,6.3
+Lewis County,2003,6.5
+Lewis County,2004,6.7
+Lewis County,2005,6.0
+Lewis County,2006,5.4
+Lewis County,2007,5.3
+Lewis County,2008,6.6
+Lewis County,2009,8.9
+Lewis County,2010,9.3
+Lewis County,2011,9.7
+Lewis County,2012,10.1
+Lewis County,2013,9.7
+Lewis County,2014,7.9
+Lewis County,2015,7.0
+Lewis County,2016,6.8
+Lewis County,2017,6.6
+Lewis County,2018,5.5
+Lewis County,2019,5.3
+Lewis County,2020,7.5
+Lewis County,2021,5.1
+Lewis County,2022,4.1
+Lewis County,2023,4.4
+Lewis County,2024,5.1
+Lindenhurst,1990,4.9
+Lindenhurst,1991,7.7
+Lindenhurst,1992,9.2
+Lindenhurst,1993,8.1
+Lindenhurst,1994,6.9
+Lindenhurst,1995,6.0
+Lindenhurst,1996,5.1
+Lindenhurst,1997,4.7
+Lindenhurst,1998,4.0
+Lindenhurst,1999,4.0
+Lindenhurst,2000,3.3
+Lindenhurst,2001,3.8
+Lindenhurst,2002,5.0
+Lindenhurst,2003,5.0
+Lindenhurst,2004,5.2
+Lindenhurst,2005,4.8
+Lindenhurst,2006,4.2
+Lindenhurst,2007,4.0
+Lindenhurst,2008,5.0
+Lindenhurst,2009,8.1
+Lindenhurst,2010,8.3
+Lindenhurst,2011,7.8
+Lindenhurst,2012,8.3
+Lindenhurst,2013,7.1
+Lindenhurst,2014,5.5
+Lindenhurst,2015,4.7
+Lindenhurst,2016,4.4
+Lindenhurst,2017,4.5
+Lindenhurst,2018,3.5
+Lindenhurst,2019,3.4
+Lindenhurst,2020,8.5
+Lindenhurst,2021,4.6
+Lindenhurst,2022,3.1
+Lindenhurst,2023,3.4
+Lindenhurst,2024,3.5
+Livingston County,1990,4.4
+Livingston County,1991,6.4
+Livingston County,1992,6.8
+Livingston County,1993,5.7
+Livingston County,1994,5.8
+Livingston County,1995,5.4
+Livingston County,1996,5.2
+Livingston County,1997,5.2
+Livingston County,1998,5.0
+Livingston County,1999,4.9
+Livingston County,2000,4.0
+Livingston County,2001,4.4
+Livingston County,2002,5.8
+Livingston County,2003,6.1
+Livingston County,2004,5.9
+Livingston County,2005,5.0
+Livingston County,2006,4.8
+Livingston County,2007,4.8
+Livingston County,2008,5.9
+Livingston County,2009,8.5
+Livingston County,2010,8.3
+Livingston County,2011,7.7
+Livingston County,2012,7.9
+Livingston County,2013,7.2
+Livingston County,2014,5.8
+Livingston County,2015,5.3
+Livingston County,2016,5.0
+Livingston County,2017,5.0
+Livingston County,2018,4.3
+Livingston County,2019,4.1
+Livingston County,2020,6.8
+Livingston County,2021,4.4
+Livingston County,2022,3.4
+Livingston County,2023,3.5
+Livingston County,2024,4.1
+Lockport City,1990,6.1
+Lockport City,1991,8.2
+Lockport City,1992,9.1
+Lockport City,1993,8.1
+Lockport City,1994,7.3
+Lockport City,1995,6.4
+Lockport City,1996,6.5
+Lockport City,1997,7.0
+Lockport City,1998,7.0
+Lockport City,1999,6.5
+Lockport City,2000,4.6
+Lockport City,2001,5.4
+Lockport City,2002,6.0
+Lockport City,2003,6.6
+Lockport City,2004,6.1
+Lockport City,2005,5.8
+Lockport City,2006,5.3
+Lockport City,2007,5.2
+Lockport City,2008,6.9
+Lockport City,2009,10.2
+Lockport City,2010,10.2
+Lockport City,2011,10.0
+Lockport City,2012,10.2
+Lockport City,2013,9.6
+Lockport City,2014,8.0
+Lockport City,2015,6.6
+Lockport City,2016,6.4
+Lockport City,2017,6.9
+Lockport City,2018,5.9
+Lockport City,2019,5.5
+Lockport City,2020,11.4
+Lockport City,2021,6.6
+Lockport City,2022,4.4
+Lockport City,2023,4.7
+Lockport City,2024,5.5
+Long Beach City,1990,5.0
+Long Beach City,1991,7.6
+Long Beach City,1992,9.5
+Long Beach City,1993,7.9
+Long Beach City,1994,6.7
+Long Beach City,1995,6.0
+Long Beach City,1996,5.0
+Long Beach City,1997,4.7
+Long Beach City,1998,4.0
+Long Beach City,1999,4.0
+Long Beach City,2000,3.3
+Long Beach City,2001,3.9
+Long Beach City,2002,4.8
+Long Beach City,2003,4.9
+Long Beach City,2004,4.6
+Long Beach City,2005,4.0
+Long Beach City,2006,3.8
+Long Beach City,2007,3.5
+Long Beach City,2008,4.6
+Long Beach City,2009,7.1
+Long Beach City,2010,7.2
+Long Beach City,2011,6.6
+Long Beach City,2012,7.4
+Long Beach City,2013,6.8
+Long Beach City,2014,4.7
+Long Beach City,2015,4.1
+Long Beach City,2016,3.6
+Long Beach City,2017,3.7
+Long Beach City,2018,3.2
+Long Beach City,2019,3.0
+Long Beach City,2020,7.4
+Long Beach City,2021,4.3
+Long Beach City,2022,2.8
+Long Beach City,2023,2.9
+Long Beach City,2024,3.3
+Long Island,1990,4.1
+Long Island,1991,6.3
+Long Island,1992,7.7
+Long Island,1993,6.6
+Long Island,1994,5.6
+Long Island,1995,5.0
+Long Island,1996,4.2
+Long Island,1997,3.9
+Long Island,1998,3.3
+Long Island,1999,3.2
+Long Island,2000,3.4
+Long Island,2001,3.8
+Long Island,2002,4.7
+Long Island,2003,4.8
+Long Island,2004,4.6
+Long Island,2005,4.1
+Long Island,2006,3.8
+Long Island,2007,3.7
+Long Island,2008,4.8
+Long Island,2009,7.2
+Long Island,2010,7.6
+Long Island,2011,7.3
+Long Island,2012,7.5
+Long Island,2013,6.4
+Long Island,2014,5.1
+Long Island,2015,4.5
+Long Island,2016,4.2
+Long Island,2017,4.2
+Long Island,2018,3.7
+Long Island,2019,3.4
+Long Island,2020,8.1
+Long Island,2021,4.6
+Long Island,2022,3.1
+Long Island,2023,3.3
+Long Island,2024,3.6
+Madison County,1990,5.1
+Madison County,1991,7.4
+Madison County,1992,7.8
+Madison County,1993,6.9
+Madison County,1994,6.0
+Madison County,1995,5.8
+Madison County,1996,5.2
+Madison County,1997,5.1
+Madison County,1998,4.5
+Madison County,1999,4.6
+Madison County,2000,3.8
+Madison County,2001,4.5
+Madison County,2002,5.3
+Madison County,2003,5.6
+Madison County,2004,5.6
+Madison County,2005,5.2
+Madison County,2006,4.6
+Madison County,2007,4.6
+Madison County,2008,5.7
+Madison County,2009,8.2
+Madison County,2010,8.4
+Madison County,2011,8.2
+Madison County,2012,8.6
+Madison County,2013,7.8
+Madison County,2014,6.5
+Madison County,2015,5.7
+Madison County,2016,5.4
+Madison County,2017,5.5
+Madison County,2018,4.8
+Madison County,2019,4.3
+Madison County,2020,7.6
+Madison County,2021,4.6
+Madison County,2022,3.4
+Madison County,2023,3.7
+Madison County,2024,4.3
+Mamaroneck Town,1990,2.1
+Mamaroneck Town,1991,3.3
+Mamaroneck Town,1992,3.8
+Mamaroneck Town,1993,3.4
+Mamaroneck Town,1994,3.0
+Mamaroneck Town,1995,2.6
+Mamaroneck Town,1996,2.4
+Mamaroneck Town,1997,2.2
+Mamaroneck Town,1998,2.0
+Mamaroneck Town,1999,2.0
+Mamaroneck Town,2000,2.9
+Mamaroneck Town,2001,3.3
+Mamaroneck Town,2002,4.0
+Mamaroneck Town,2003,3.7
+Mamaroneck Town,2004,3.7
+Mamaroneck Town,2005,3.1
+Mamaroneck Town,2006,2.9
+Mamaroneck Town,2007,2.9
+Mamaroneck Town,2008,3.8
+Mamaroneck Town,2009,6.1
+Mamaroneck Town,2010,6.3
+Mamaroneck Town,2011,5.7
+Mamaroneck Town,2012,6.1
+Mamaroneck Town,2013,5.3
+Mamaroneck Town,2014,4.2
+Mamaroneck Town,2015,3.8
+Mamaroneck Town,2016,3.7
+Mamaroneck Town,2017,3.9
+Mamaroneck Town,2018,3.4
+Mamaroneck Town,2019,3.0
+Mamaroneck Town,2020,6.0
+Mamaroneck Town,2021,3.8
+Mamaroneck Town,2022,2.6
+Mamaroneck Town,2023,3.1
+Mamaroneck Town,2024,3.3
+Manlius Town,1990,2.0
+Manlius Town,1991,3.1
+Manlius Town,1992,3.5
+Manlius Town,1993,3.1
+Manlius Town,1994,2.6
+Manlius Town,1995,2.4
+Manlius Town,1996,2.1
+Manlius Town,1997,2.0
+Manlius Town,1998,1.8
+Manlius Town,1999,1.8
+Manlius Town,2000,2.9
+Manlius Town,2001,3.4
+Manlius Town,2002,4.0
+Manlius Town,2003,4.2
+Manlius Town,2004,4.4
+Manlius Town,2005,3.6
+Manlius Town,2006,3.5
+Manlius Town,2007,3.3
+Manlius Town,2008,4.0
+Manlius Town,2009,6.1
+Manlius Town,2010,6.3
+Manlius Town,2011,5.8
+Manlius Town,2012,6.2
+Manlius Town,2013,5.5
+Manlius Town,2014,4.5
+Manlius Town,2015,3.9
+Manlius Town,2016,3.6
+Manlius Town,2017,3.6
+Manlius Town,2018,3.1
+Manlius Town,2019,2.9
+Manlius Town,2020,5.9
+Manlius Town,2021,3.8
+Manlius Town,2022,2.6
+Manlius Town,2023,2.6
+Manlius Town,2024,2.9
+Middletown City,1998,4.0
+Middletown City,1999,4.2
+Middletown City,2000,3.6
+Middletown City,2001,3.9
+Middletown City,2002,4.8
+Middletown City,2003,5.2
+Middletown City,2004,5.3
+Middletown City,2005,4.7
+Middletown City,2006,4.8
+Middletown City,2007,5.0
+Middletown City,2008,6.3
+Middletown City,2009,9.5
+Middletown City,2010,8.8
+Middletown City,2011,8.5
+Middletown City,2012,8.6
+Middletown City,2013,7.6
+Middletown City,2014,6.0
+Middletown City,2015,5.2
+Middletown City,2016,4.8
+Middletown City,2017,5.0
+Middletown City,2018,4.3
+Middletown City,2019,4.0
+Middletown City,2020,9.6
+Middletown City,2021,5.8
+Middletown City,2022,3.7
+Middletown City,2023,4.0
+Middletown City,2024,4.2
+Mohawk Valley,1990,5.5
+Mohawk Valley,1991,7.6
+Mohawk Valley,1992,8.0
+Mohawk Valley,1993,6.8
+Mohawk Valley,1994,6.1
+Mohawk Valley,1995,6.1
+Mohawk Valley,1996,6.0
+Mohawk Valley,1997,5.8
+Mohawk Valley,1998,5.0
+Mohawk Valley,1999,4.8
+Mohawk Valley,2000,4.2
+Mohawk Valley,2001,4.5
+Mohawk Valley,2002,5.3
+Mohawk Valley,2003,5.6
+Mohawk Valley,2004,5.4
+Mohawk Valley,2005,5.0
+Mohawk Valley,2006,4.7
+Mohawk Valley,2007,4.7
+Mohawk Valley,2008,5.9
+Mohawk Valley,2009,8.2
+Mohawk Valley,2010,8.6
+Mohawk Valley,2011,8.7
+Mohawk Valley,2012,9.0
+Mohawk Valley,2013,8.0
+Mohawk Valley,2014,6.5
+Mohawk Valley,2015,5.8
+Mohawk Valley,2016,5.2
+Mohawk Valley,2017,5.2
+Mohawk Valley,2018,4.6
+Mohawk Valley,2019,4.3
+Mohawk Valley,2020,7.8
+Mohawk Valley,2021,5.2
+Mohawk Valley,2022,3.8
+Mohawk Valley,2023,4.0
+Mohawk Valley,2024,4.4
+Monroe,1990,3.4
+Monroe,1991,4.4
+Monroe,1992,5.0
+Monroe,1993,4.6
+Monroe,1994,4.8
+Monroe,1995,3.9
+Monroe,1996,3.5
+Monroe,1997,3.6
+Monroe,1998,3.6
+Monroe,1999,3.8
+Monroe,2000,3.5
+Monroe,2001,4.1
+Monroe,2002,5.4
+Monroe,2003,5.6
+Monroe,2004,5.3
+Monroe,2005,4.6
+Monroe,2006,4.4
+Monroe,2007,4.4
+Monroe,2008,5.4
+Monroe,2009,8.0
+Monroe,2010,8.2
+Monroe,2011,7.7
+Monroe,2012,8.0
+Monroe,2013,7.2
+Monroe,2014,5.8
+Monroe,2015,5.1
+Monroe,2016,4.8
+Monroe,2017,4.9
+Monroe,2018,4.2
+Monroe,2019,4.0
+Monroe,2020,8.2
+Monroe,2021,5.2
+Monroe,2022,3.5
+Monroe,2023,3.7
+Monroe,2024,4.0
+Monroe County,1990,3.4
+Monroe County,1991,4.4
+Monroe County,1992,5.0
+Monroe County,1993,4.6
+Monroe County,1994,4.8
+Monroe County,1995,3.9
+Monroe County,1996,3.5
+Monroe County,1997,3.6
+Monroe County,1998,3.6
+Monroe County,1999,3.8
+Monroe County,2000,3.5
+Monroe County,2001,4.1
+Monroe County,2002,5.4
+Monroe County,2003,5.6
+Monroe County,2004,5.3
+Monroe County,2005,4.6
+Monroe County,2006,4.4
+Monroe County,2007,4.4
+Monroe County,2008,5.4
+Monroe County,2009,8.0
+Monroe County,2010,8.2
+Monroe County,2011,7.7
+Monroe County,2012,8.0
+Monroe County,2013,7.2
+Monroe County,2014,5.8
+Monroe County,2015,5.1
+Monroe County,2016,4.8
+Monroe County,2017,4.9
+Monroe County,2018,4.2
+Monroe County,2019,4.0
+Monroe County,2020,8.2
+Monroe County,2021,5.2
+Monroe County,2022,3.5
+Monroe County,2023,3.7
+Monroe County,2024,4.0
+Monroe Town,1990,3.9
+Monroe Town,1991,5.4
+Monroe Town,1992,5.9
+Monroe Town,1993,5.4
+Monroe Town,1994,4.8
+Monroe Town,1995,4.4
+Monroe Town,1996,3.8
+Monroe Town,1997,3.7
+Monroe Town,1998,3.1
+Monroe Town,1999,3.2
+Monroe Town,2000,3.5
+Monroe Town,2001,3.7
+Monroe Town,2002,4.3
+Monroe Town,2003,4.6
+Monroe Town,2004,4.4
+Monroe Town,2005,4.0
+Monroe Town,2006,3.9
+Monroe Town,2007,4.0
+Monroe Town,2008,5.0
+Monroe Town,2009,7.0
+Monroe Town,2010,6.6
+Monroe Town,2011,6.5
+Monroe Town,2012,6.4
+Monroe Town,2013,5.6
+Monroe Town,2014,4.6
+Monroe Town,2015,4.0
+Monroe Town,2016,3.7
+Monroe Town,2017,3.8
+Monroe Town,2018,4.5
+Monroe Town,2019,4.2
+Monroe Town,2020,12.9
+Monroe Town,2021,7.0
+Monroe Town,2022,3.9
+Monroe Town,2023,3.9
+Monroe Town,2024,4.3
+Montgomery County,1990,7.0
+Montgomery County,1991,9.7
+Montgomery County,1992,10.0
+Montgomery County,1993,7.6
+Montgomery County,1994,7.6
+Montgomery County,1995,8.1
+Montgomery County,1996,8.1
+Montgomery County,1997,7.3
+Montgomery County,1998,6.0
+Montgomery County,1999,6.3
+Montgomery County,2000,4.8
+Montgomery County,2001,5.0
+Montgomery County,2002,5.8
+Montgomery County,2003,6.5
+Montgomery County,2004,6.0
+Montgomery County,2005,5.4
+Montgomery County,2006,5.7
+Montgomery County,2007,5.8
+Montgomery County,2008,7.0
+Montgomery County,2009,9.6
+Montgomery County,2010,10.3
+Montgomery County,2011,10.3
+Montgomery County,2012,10.5
+Montgomery County,2013,9.4
+Montgomery County,2014,7.5
+Montgomery County,2015,6.6
+Montgomery County,2016,5.8
+Montgomery County,2017,5.7
+Montgomery County,2018,5.1
+Montgomery County,2019,4.9
+Montgomery County,2020,8.5
+Montgomery County,2021,5.7
+Montgomery County,2022,4.1
+Montgomery County,2023,4.6
+Montgomery County,2024,4.9
+Mount Pleasant Town,1990,2.8
+Mount Pleasant Town,1991,4.3
+Mount Pleasant Town,1992,5.1
+Mount Pleasant Town,1993,4.5
+Mount Pleasant Town,1994,3.9
+Mount Pleasant Town,1995,3.5
+Mount Pleasant Town,1996,3.3
+Mount Pleasant Town,1997,3.0
+Mount Pleasant Town,1998,2.7
+Mount Pleasant Town,1999,2.7
+Mount Pleasant Town,2000,3.2
+Mount Pleasant Town,2001,3.5
+Mount Pleasant Town,2002,4.2
+Mount Pleasant Town,2003,4.1
+Mount Pleasant Town,2004,4.3
+Mount Pleasant Town,2005,3.8
+Mount Pleasant Town,2006,3.7
+Mount Pleasant Town,2007,3.5
+Mount Pleasant Town,2008,4.5
+Mount Pleasant Town,2009,6.9
+Mount Pleasant Town,2010,6.8
+Mount Pleasant Town,2011,6.3
+Mount Pleasant Town,2012,6.7
+Mount Pleasant Town,2013,6.0
+Mount Pleasant Town,2014,4.8
+Mount Pleasant Town,2015,4.2
+Mount Pleasant Town,2016,4.1
+Mount Pleasant Town,2017,4.3
+Mount Pleasant Town,2018,3.4
+Mount Pleasant Town,2019,3.3
+Mount Pleasant Town,2020,6.8
+Mount Pleasant Town,2021,4.2
+Mount Pleasant Town,2022,2.8
+Mount Pleasant Town,2023,3.0
+Mount Pleasant Town,2024,3.5
+Mount Vernon City,1990,5.5
+Mount Vernon City,1991,8.3
+Mount Vernon City,1992,9.6
+Mount Vernon City,1993,8.6
+Mount Vernon City,1994,7.6
+Mount Vernon City,1995,6.8
+Mount Vernon City,1996,6.3
+Mount Vernon City,1997,5.8
+Mount Vernon City,1998,5.2
+Mount Vernon City,1999,5.2
+Mount Vernon City,2000,4.1
+Mount Vernon City,2001,4.7
+Mount Vernon City,2002,5.9
+Mount Vernon City,2003,5.9
+Mount Vernon City,2004,5.9
+Mount Vernon City,2005,5.2
+Mount Vernon City,2006,5.1
+Mount Vernon City,2007,4.9
+Mount Vernon City,2008,6.4
+Mount Vernon City,2009,9.1
+Mount Vernon City,2010,10.0
+Mount Vernon City,2011,9.7
+Mount Vernon City,2012,9.8
+Mount Vernon City,2013,8.6
+Mount Vernon City,2014,7.3
+Mount Vernon City,2015,6.2
+Mount Vernon City,2016,5.7
+Mount Vernon City,2017,6.0
+Mount Vernon City,2018,5.2
+Mount Vernon City,2019,4.9
+Mount Vernon City,2020,11.7
+Mount Vernon City,2021,7.5
+Mount Vernon City,2022,4.6
+Mount Vernon City,2023,4.7
+Mount Vernon City,2024,4.9
+Nassau County,1990,3.7
+Nassau County,1991,5.7
+Nassau County,1992,7.2
+Nassau County,1993,5.9
+Nassau County,1994,5.0
+Nassau County,1995,4.5
+Nassau County,1996,3.7
+Nassau County,1997,3.5
+Nassau County,1998,3.0
+Nassau County,1999,2.9
+Nassau County,2000,3.3
+Nassau County,2001,3.7
+Nassau County,2002,4.7
+Nassau County,2003,4.7
+Nassau County,2004,4.6
+Nassau County,2005,4.0
+Nassau County,2006,3.8
+Nassau County,2007,3.6
+Nassau County,2008,4.7
+Nassau County,2009,7.0
+Nassau County,2010,7.3
+Nassau County,2011,6.9
+Nassau County,2012,7.1
+Nassau County,2013,6.1
+Nassau County,2014,4.8
+Nassau County,2015,4.3
+Nassau County,2016,4.0
+Nassau County,2017,4.1
+Nassau County,2018,3.5
+Nassau County,2019,3.3
+Nassau County,2020,8.1
+Nassau County,2021,4.5
+Nassau County,2022,2.9
+Nassau County,2023,3.1
+Nassau County,2024,3.4
+Nassau-Suffolk Metropolitan Division,1990,4.1
+Nassau-Suffolk Metropolitan Division,1991,6.3
+Nassau-Suffolk Metropolitan Division,1992,7.7
+Nassau-Suffolk Metropolitan Division,1993,6.6
+Nassau-Suffolk Metropolitan Division,1994,5.6
+Nassau-Suffolk Metropolitan Division,1995,5.0
+Nassau-Suffolk Metropolitan Division,1996,4.2
+Nassau-Suffolk Metropolitan Division,1997,3.9
+Nassau-Suffolk Metropolitan Division,1998,3.3
+Nassau-Suffolk Metropolitan Division,1999,3.2
+Nassau-Suffolk Metropolitan Division,2000,3.4
+Nassau-Suffolk Metropolitan Division,2001,3.8
+Nassau-Suffolk Metropolitan Division,2002,4.7
+Nassau-Suffolk Metropolitan Division,2003,4.8
+Nassau-Suffolk Metropolitan Division,2004,4.6
+Nassau-Suffolk Metropolitan Division,2005,4.1
+Nassau-Suffolk Metropolitan Division,2006,3.8
+Nassau-Suffolk Metropolitan Division,2007,3.7
+Nassau-Suffolk Metropolitan Division,2008,4.8
+Nassau-Suffolk Metropolitan Division,2009,7.2
+Nassau-Suffolk Metropolitan Division,2010,7.6
+Nassau-Suffolk Metropolitan Division,2011,7.3
+Nassau-Suffolk Metropolitan Division,2012,7.5
+Nassau-Suffolk Metropolitan Division,2013,6.4
+Nassau-Suffolk Metropolitan Division,2014,5.1
+Nassau-Suffolk Metropolitan Division,2015,4.5
+Nassau-Suffolk Metropolitan Division,2016,4.2
+Nassau-Suffolk Metropolitan Division,2017,4.2
+Nassau-Suffolk Metropolitan Division,2018,3.7
+Nassau-Suffolk Metropolitan Division,2019,3.4
+Nassau-Suffolk Metropolitan Division,2020,8.1
+Nassau-Suffolk Metropolitan Division,2021,4.6
+Nassau-Suffolk Metropolitan Division,2022,3.1
+Nassau-Suffolk Metropolitan Division,2023,3.3
+Nassau-Suffolk Metropolitan Division,2024,3.6
+New Rochelle City,1990,3.8
+New Rochelle City,1991,5.8
+New Rochelle City,1992,6.8
+New Rochelle City,1993,6.0
+New Rochelle City,1994,5.3
+New Rochelle City,1995,4.8
+New Rochelle City,1996,4.4
+New Rochelle City,1997,4.0
+New Rochelle City,1998,3.6
+New Rochelle City,1999,3.6
+New Rochelle City,2000,3.8
+New Rochelle City,2001,4.4
+New Rochelle City,2002,5.1
+New Rochelle City,2003,5.2
+New Rochelle City,2004,5.1
+New Rochelle City,2005,4.6
+New Rochelle City,2006,4.3
+New Rochelle City,2007,4.2
+New Rochelle City,2008,5.3
+New Rochelle City,2009,8.1
+New Rochelle City,2010,8.4
+New Rochelle City,2011,8.1
+New Rochelle City,2012,8.4
+New Rochelle City,2013,7.1
+New Rochelle City,2014,5.8
+New Rochelle City,2015,5.2
+New Rochelle City,2016,4.9
+New Rochelle City,2017,5.0
+New Rochelle City,2018,4.3
+New Rochelle City,2019,4.0
+New Rochelle City,2020,8.5
+New Rochelle City,2021,5.2
+New Rochelle City,2022,3.6
+New Rochelle City,2023,3.7
+New Rochelle City,2024,4.2
+New Windsor Town,1990,5.2
+New Windsor Town,1991,7.2
+New Windsor Town,1992,7.8
+New Windsor Town,1993,7.2
+New Windsor Town,1994,6.4
+New Windsor Town,1995,5.8
+New Windsor Town,1996,5.1
+New Windsor Town,1997,5.0
+New Windsor Town,1998,4.1
+New Windsor Town,1999,4.3
+New Windsor Town,2000,3.5
+New Windsor Town,2001,3.7
+New Windsor Town,2002,4.5
+New Windsor Town,2003,4.8
+New Windsor Town,2004,4.8
+New Windsor Town,2005,4.3
+New Windsor Town,2006,4.4
+New Windsor Town,2007,4.3
+New Windsor Town,2008,5.5
+New Windsor Town,2009,8.3
+New Windsor Town,2010,8.3
+New Windsor Town,2011,8.0
+New Windsor Town,2012,8.2
+New Windsor Town,2013,7.2
+New Windsor Town,2014,5.7
+New Windsor Town,2015,4.7
+New Windsor Town,2016,4.4
+New Windsor Town,2017,4.5
+New Windsor Town,2018,3.9
+New Windsor Town,2019,3.5
+New Windsor Town,2020,8.0
+New Windsor Town,2021,4.8
+New Windsor Town,2022,3.2
+New Windsor Town,2023,3.3
+New Windsor Town,2024,3.5
+New York City,1976,11.1
+New York City,1977,10.2
+New York City,1978,9.0
+New York City,1979,8.6
+New York City,1980,8.5
+New York City,1981,8.9
+New York City,1982,9.7
+New York City,1983,9.8
+New York City,1984,8.9
+New York City,1985,8.1
+New York City,1986,7.3
+New York City,1987,5.6
+New York City,1988,5.1
+New York City,1989,6.4
+New York City,1990,6.8
+New York City,1991,8.8
+New York City,1992,11.1
+New York City,1993,10.4
+New York City,1994,8.8
+New York City,1995,8.2
+New York City,1996,8.8
+New York City,1997,9.3
+New York City,1998,7.9
+New York City,1999,6.8
+New York City,2000,5.8
+New York City,2001,6.1
+New York City,2002,8.0
+New York City,2003,8.3
+New York City,2004,7.0
+New York City,2005,5.6
+New York City,2006,4.9
+New York City,2007,4.9
+New York City,2008,5.6
+New York City,2009,9.3
+New York City,2010,9.6
+New York City,2011,9.1
+New York City,2012,9.4
+New York City,2013,8.8
+New York City,2014,7.1
+New York City,2015,5.6
+New York City,2016,5.1
+New York City,2017,4.5
+New York City,2018,4.1
+New York City,2019,4.0
+New York City,2020,12.4
+New York City,2021,10.1
+New York City,2022,5.7
+New York City,2023,5.2
+New York City,2024,5.0
+New York County,1990,6.0
+New York County,1991,7.8
+New York County,1992,9.4
+New York County,1993,9.0
+New York County,1994,7.6
+New York County,1995,7.0
+New York County,1996,7.4
+New York County,1997,7.8
+New York County,1998,6.7
+New York County,1999,5.9
+New York County,2000,5.0
+New York County,2001,5.8
+New York County,2002,7.6
+New York County,2003,7.4
+New York County,2004,6.1
+New York County,2005,4.9
+New York County,2006,4.2
+New York County,2007,4.2
+New York County,2008,4.9
+New York County,2009,8.4
+New York County,2010,8.6
+New York County,2011,7.9
+New York County,2012,8.1
+New York County,2013,7.5
+New York County,2014,6.0
+New York County,2015,4.8
+New York County,2016,4.5
+New York County,2017,4.0
+New York County,2018,3.7
+New York County,2019,3.5
+New York County,2020,9.7
+New York County,2021,7.8
+New York County,2022,4.6
+New York County,2023,4.6
+New York County,2024,4.4
+New York State,1976,10.2
+New York State,1977,9.2
+New York State,1978,7.7
+New York State,1979,7.1
+New York State,1980,7.4
+New York State,1981,7.6
+New York State,1982,8.7
+New York State,1983,8.9
+New York State,1984,7.2
+New York State,1985,6.6
+New York State,1986,6.2
+New York State,1987,4.8
+New York State,1988,4.2
+New York State,1989,4.9
+New York State,1990,5.3
+New York State,1991,7.3
+New York State,1992,8.7
+New York State,1993,7.9
+New York State,1994,6.9
+New York State,1995,6.4
+New York State,1996,6.2
+New York State,1997,6.4
+New York State,1998,5.6
+New York State,1999,5.2
+New York State,2000,4.5
+New York State,2001,4.9
+New York State,2002,6.2
+New York State,2003,6.4
+New York State,2004,5.8
+New York State,2005,5.0
+New York State,2006,4.5
+New York State,2007,4.4
+New York State,2008,5.4
+New York State,2009,8.4
+New York State,2010,8.7
+New York State,2011,8.4
+New York State,2012,8.6
+New York State,2013,7.8
+New York State,2014,6.3
+New York State,2015,5.3
+New York State,2016,4.9
+New York State,2017,4.6
+New York State,2018,4.1
+New York State,2019,3.9
+New York State,2020,9.9
+New York State,2021,7.1
+New York State,2022,4.4
+New York State,2023,4.2
+New York State,2024,4.4
+Newburgh City,1990,9.1
+Newburgh City,1991,12.5
+Newburgh City,1992,13.4
+Newburgh City,1993,12.5
+Newburgh City,1994,11.2
+Newburgh City,1995,10.2
+Newburgh City,1996,9.0
+Newburgh City,1997,8.7
+Newburgh City,1998,7.3
+Newburgh City,1999,7.7
+Newburgh City,2000,4.4
+Newburgh City,2001,5.1
+Newburgh City,2002,5.9
+Newburgh City,2003,6.8
+Newburgh City,2004,6.7
+Newburgh City,2005,5.9
+Newburgh City,2006,5.7
+Newburgh City,2007,5.6
+Newburgh City,2008,7.5
+Newburgh City,2009,11.1
+Newburgh City,2010,10.1
+Newburgh City,2011,9.6
+Newburgh City,2012,10.3
+Newburgh City,2013,9.1
+Newburgh City,2014,7.0
+Newburgh City,2015,6.0
+Newburgh City,2016,5.7
+Newburgh City,2017,5.8
+Newburgh City,2018,5.1
+Newburgh City,2019,4.9
+Newburgh City,2020,10.9
+Newburgh City,2021,6.7
+Newburgh City,2022,4.8
+Newburgh City,2023,4.6
+Newburgh City,2024,5.1
+Newburgh Town,1997,4.0
+Newburgh Town,1998,3.3
+Newburgh Town,1999,3.5
+Newburgh Town,2000,3.1
+Newburgh Town,2001,3.6
+Newburgh Town,2002,4.4
+Newburgh Town,2003,4.6
+Newburgh Town,2004,4.6
+Newburgh Town,2005,4.1
+Newburgh Town,2006,4.1
+Newburgh Town,2007,4.0
+Newburgh Town,2008,5.2
+Newburgh Town,2009,8.4
+Newburgh Town,2010,8.4
+Newburgh Town,2011,7.7
+Newburgh Town,2012,8.2
+Newburgh Town,2013,7.4
+Newburgh Town,2014,5.7
+Newburgh Town,2015,4.8
+Newburgh Town,2016,4.4
+Newburgh Town,2017,4.2
+Newburgh Town,2018,3.8
+Newburgh Town,2019,3.5
+Newburgh Town,2020,7.8
+Newburgh Town,2021,4.8
+Newburgh Town,2022,3.2
+Newburgh Town,2023,3.4
+Newburgh Town,2024,3.9
+Niagara,1990,5.7
+Niagara,1991,7.6
+Niagara,1992,8.5
+Niagara,1993,7.6
+Niagara,1994,6.8
+Niagara,1995,6.0
+Niagara,1996,6.1
+Niagara,1997,6.5
+Niagara,1998,6.6
+Niagara,1999,6.0
+Niagara,2000,4.7
+Niagara,2001,5.5
+Niagara,2002,6.4
+Niagara,2003,6.7
+Niagara,2004,6.2
+Niagara,2005,5.6
+Niagara,2006,5.4
+Niagara,2007,5.2
+Niagara,2008,6.6
+Niagara,2009,9.4
+Niagara,2010,9.8
+Niagara,2011,9.2
+Niagara,2012,9.5
+Niagara,2013,8.7
+Niagara,2014,7.1
+Niagara,2015,6.2
+Niagara,2016,5.9
+Niagara,2017,6.1
+Niagara,2018,5.2
+Niagara,2019,4.8
+Niagara,2020,10.0
+Niagara,2021,5.7
+Niagara,2022,3.9
+Niagara,2023,4.1
+Niagara,2024,4.7
+Niagara County,1990,5.7
+Niagara County,1991,7.6
+Niagara County,1992,8.5
+Niagara County,1993,7.6
+Niagara County,1994,6.8
+Niagara County,1995,6.0
+Niagara County,1996,6.1
+Niagara County,1997,6.5
+Niagara County,1998,6.6
+Niagara County,1999,6.0
+Niagara County,2000,4.7
+Niagara County,2001,5.5
+Niagara County,2002,6.4
+Niagara County,2003,6.7
+Niagara County,2004,6.2
+Niagara County,2005,5.6
+Niagara County,2006,5.4
+Niagara County,2007,5.2
+Niagara County,2008,6.6
+Niagara County,2009,9.4
+Niagara County,2010,9.8
+Niagara County,2011,9.2
+Niagara County,2012,9.5
+Niagara County,2013,8.7
+Niagara County,2014,7.1
+Niagara County,2015,6.2
+Niagara County,2016,5.9
+Niagara County,2017,6.1
+Niagara County,2018,5.2
+Niagara County,2019,4.8
+Niagara County,2020,10.0
+Niagara County,2021,5.7
+Niagara County,2022,3.9
+Niagara County,2023,4.1
+Niagara County,2024,4.7
+Niagara Falls City,1990,8.9
+Niagara Falls City,1991,11.8
+Niagara Falls City,1992,13.1
+Niagara Falls City,1993,11.8
+Niagara Falls City,1994,10.6
+Niagara Falls City,1995,9.4
+Niagara Falls City,1996,9.5
+Niagara Falls City,1997,10.2
+Niagara Falls City,1998,10.2
+Niagara Falls City,1999,9.5
+Niagara Falls City,2000,5.6
+Niagara Falls City,2001,7.0
+Niagara Falls City,2002,8.2
+Niagara Falls City,2003,8.3
+Niagara Falls City,2004,7.7
+Niagara Falls City,2005,6.8
+Niagara Falls City,2006,6.7
+Niagara Falls City,2007,6.6
+Niagara Falls City,2008,8.4
+Niagara Falls City,2009,11.3
+Niagara Falls City,2010,12.2
+Niagara Falls City,2011,11.4
+Niagara Falls City,2012,11.8
+Niagara Falls City,2013,10.5
+Niagara Falls City,2014,8.6
+Niagara Falls City,2015,7.7
+Niagara Falls City,2016,7.3
+Niagara Falls City,2017,7.9
+Niagara Falls City,2018,6.6
+Niagara Falls City,2019,5.9
+Niagara Falls City,2020,13.2
+Niagara Falls City,2021,7.6
+Niagara Falls City,2022,4.9
+Niagara Falls City,2023,5.1
+Niagara Falls City,2024,5.8
+North Country,1990,7.8
+North Country,1991,10.0
+North Country,1992,10.8
+North Country,1993,9.5
+North Country,1994,9.2
+North Country,1995,8.3
+North Country,1996,8.0
+North Country,1997,8.2
+North Country,1998,8.0
+North Country,1999,8.1
+North Country,2000,5.4
+North Country,2001,5.6
+North Country,2002,6.2
+North Country,2003,6.6
+North Country,2004,6.6
+North Country,2005,5.8
+North Country,2006,5.5
+North Country,2007,5.5
+North Country,2008,6.8
+North Country,2009,9.3
+North Country,2010,9.8
+North Country,2011,9.8
+North Country,2012,9.9
+North Country,2013,9.1
+North Country,2014,7.4
+North Country,2015,6.6
+North Country,2016,6.1
+North Country,2017,6.1
+North Country,2018,5.2
+North Country,2019,4.9
+North Country,2020,8.0
+North Country,2021,5.0
+North Country,2022,3.9
+North Country,2023,4.1
+North Country,2024,4.7
+North Hempstead Town,1990,3.2
+North Hempstead Town,1991,5.0
+North Hempstead Town,1992,6.3
+North Hempstead Town,1993,5.2
+North Hempstead Town,1994,4.4
+North Hempstead Town,1995,3.9
+North Hempstead Town,1996,3.3
+North Hempstead Town,1997,3.0
+North Hempstead Town,1998,2.6
+North Hempstead Town,1999,2.6
+North Hempstead Town,2000,3.2
+North Hempstead Town,2001,3.5
+North Hempstead Town,2002,4.4
+North Hempstead Town,2003,4.3
+North Hempstead Town,2004,4.2
+North Hempstead Town,2005,3.7
+North Hempstead Town,2006,3.4
+North Hempstead Town,2007,3.3
+North Hempstead Town,2008,4.3
+North Hempstead Town,2009,6.4
+North Hempstead Town,2010,6.6
+North Hempstead Town,2011,6.3
+North Hempstead Town,2012,6.4
+North Hempstead Town,2013,5.5
+North Hempstead Town,2014,4.4
+North Hempstead Town,2015,3.9
+North Hempstead Town,2016,3.7
+North Hempstead Town,2017,3.7
+North Hempstead Town,2018,3.3
+North Hempstead Town,2019,3.1
+North Hempstead Town,2020,7.5
+North Hempstead Town,2021,4.2
+North Hempstead Town,2022,2.6
+North Hempstead Town,2023,2.9
+North Hempstead Town,2024,3.2
+North Tonawanda City,1990,4.6
+North Tonawanda City,1991,6.2
+North Tonawanda City,1992,6.9
+North Tonawanda City,1993,6.2
+North Tonawanda City,1994,5.6
+North Tonawanda City,1995,4.9
+North Tonawanda City,1996,5.0
+North Tonawanda City,1997,5.3
+North Tonawanda City,1998,5.3
+North Tonawanda City,1999,4.9
+North Tonawanda City,2000,4.0
+North Tonawanda City,2001,4.7
+North Tonawanda City,2002,5.4
+North Tonawanda City,2003,5.8
+North Tonawanda City,2004,5.7
+North Tonawanda City,2005,4.9
+North Tonawanda City,2006,4.8
+North Tonawanda City,2007,4.6
+North Tonawanda City,2008,5.7
+North Tonawanda City,2009,8.6
+North Tonawanda City,2010,8.7
+North Tonawanda City,2011,8.2
+North Tonawanda City,2012,8.3
+North Tonawanda City,2013,7.7
+North Tonawanda City,2014,6.3
+North Tonawanda City,2015,5.3
+North Tonawanda City,2016,5.1
+North Tonawanda City,2017,5.4
+North Tonawanda City,2018,4.4
+North Tonawanda City,2019,4.0
+North Tonawanda City,2020,9.2
+North Tonawanda City,2021,4.9
+North Tonawanda City,2022,3.4
+North Tonawanda City,2023,3.4
+North Tonawanda City,2024,4.1
+Oneida County,1990,4.4
+Oneida County,1991,6.6
+Oneida County,1992,7.1
+Oneida County,1993,6.2
+Oneida County,1994,5.3
+Oneida County,1995,5.1
+Oneida County,1996,4.9
+Oneida County,1997,4.9
+Oneida County,1998,4.2
+Oneida County,1999,4.0
+Oneida County,2000,3.9
+Oneida County,2001,4.6
+Oneida County,2002,5.3
+Oneida County,2003,5.5
+Oneida County,2004,5.2
+Oneida County,2005,4.8
+Oneida County,2006,4.3
+Oneida County,2007,4.2
+Oneida County,2008,5.3
+Oneida County,2009,7.5
+Oneida County,2010,7.8
+Oneida County,2011,8.0
+Oneida County,2012,8.4
+Oneida County,2013,7.6
+Oneida County,2014,6.1
+Oneida County,2015,5.4
+Oneida County,2016,5.0
+Oneida County,2017,5.0
+Oneida County,2018,4.4
+Oneida County,2019,4.1
+Oneida County,2020,7.8
+Oneida County,2021,5.1
+Oneida County,2022,3.6
+Oneida County,2023,3.7
+Oneida County,2024,4.1
+Onondaga,1990,3.8
+Onondaga,1991,5.9
+Onondaga,1992,6.6
+Onondaga,1993,5.9
+Onondaga,1994,5.1
+Onondaga,1995,4.6
+Onondaga,1996,4.1
+Onondaga,1997,3.9
+Onondaga,1998,3.5
+Onondaga,1999,3.5
+Onondaga,2000,3.5
+Onondaga,2001,4.0
+Onondaga,2002,5.0
+Onondaga,2003,5.1
+Onondaga,2004,5.1
+Onondaga,2005,4.5
+Onondaga,2006,4.3
+Onondaga,2007,4.0
+Onondaga,2008,5.1
+Onondaga,2009,7.8
+Onondaga,2010,8.2
+Onondaga,2011,7.8
+Onondaga,2012,8.0
+Onondaga,2013,7.0
+Onondaga,2014,5.6
+Onondaga,2015,5.0
+Onondaga,2016,4.6
+Onondaga,2017,4.6
+Onondaga,2018,4.0
+Onondaga,2019,3.8
+Onondaga,2020,8.0
+Onondaga,2021,5.0
+Onondaga,2022,3.4
+Onondaga,2023,3.5
+Onondaga,2024,3.8
+Onondaga County,1990,3.8
+Onondaga County,1991,5.9
+Onondaga County,1992,6.6
+Onondaga County,1993,5.9
+Onondaga County,1994,5.1
+Onondaga County,1995,4.6
+Onondaga County,1996,4.1
+Onondaga County,1997,3.9
+Onondaga County,1998,3.5
+Onondaga County,1999,3.5
+Onondaga County,2000,3.5
+Onondaga County,2001,4.0
+Onondaga County,2002,5.0
+Onondaga County,2003,5.1
+Onondaga County,2004,5.1
+Onondaga County,2005,4.5
+Onondaga County,2006,4.3
+Onondaga County,2007,4.0
+Onondaga County,2008,5.1
+Onondaga County,2009,7.8
+Onondaga County,2010,8.2
+Onondaga County,2011,7.8
+Onondaga County,2012,8.0
+Onondaga County,2013,7.0
+Onondaga County,2014,5.6
+Onondaga County,2015,5.0
+Onondaga County,2016,4.6
+Onondaga County,2017,4.6
+Onondaga County,2018,4.0
+Onondaga County,2019,3.8
+Onondaga County,2020,8.0
+Onondaga County,2021,5.0
+Onondaga County,2022,3.4
+Onondaga County,2023,3.5
+Onondaga County,2024,3.8
+Ontario County,1990,4.3
+Ontario County,1991,5.5
+Ontario County,1992,6.2
+Ontario County,1993,5.3
+Ontario County,1994,5.4
+Ontario County,1995,5.0
+Ontario County,1996,4.5
+Ontario County,1997,4.2
+Ontario County,1998,4.0
+Ontario County,1999,4.1
+Ontario County,2000,3.5
+Ontario County,2001,4.0
+Ontario County,2002,5.2
+Ontario County,2003,5.2
+Ontario County,2004,5.1
+Ontario County,2005,4.5
+Ontario County,2006,4.4
+Ontario County,2007,4.1
+Ontario County,2008,5.1
+Ontario County,2009,7.4
+Ontario County,2010,7.6
+Ontario County,2011,7.1
+Ontario County,2012,7.4
+Ontario County,2013,6.4
+Ontario County,2014,5.3
+Ontario County,2015,4.8
+Ontario County,2016,4.4
+Ontario County,2017,4.4
+Ontario County,2018,3.9
+Ontario County,2019,3.7
+Ontario County,2020,7.0
+Ontario County,2021,4.3
+Ontario County,2022,3.1
+Ontario County,2023,3.3
+Ontario County,2024,3.7
+Ontario-Seneca-Wayne-Yates,1990,4.6
+Ontario-Seneca-Wayne-Yates,1991,6.1
+Ontario-Seneca-Wayne-Yates,1992,6.8
+Ontario-Seneca-Wayne-Yates,1993,5.8
+Ontario-Seneca-Wayne-Yates,1994,5.7
+Ontario-Seneca-Wayne-Yates,1995,5.3
+Ontario-Seneca-Wayne-Yates,1996,4.7
+Ontario-Seneca-Wayne-Yates,1997,4.6
+Ontario-Seneca-Wayne-Yates,1998,4.4
+Ontario-Seneca-Wayne-Yates,1999,4.6
+Ontario-Seneca-Wayne-Yates,2000,3.7
+Ontario-Seneca-Wayne-Yates,2001,4.2
+Ontario-Seneca-Wayne-Yates,2002,5.6
+Ontario-Seneca-Wayne-Yates,2003,5.5
+Ontario-Seneca-Wayne-Yates,2004,5.2
+Ontario-Seneca-Wayne-Yates,2005,4.6
+Ontario-Seneca-Wayne-Yates,2006,4.5
+Ontario-Seneca-Wayne-Yates,2007,4.4
+Ontario-Seneca-Wayne-Yates,2008,5.4
+Ontario-Seneca-Wayne-Yates,2009,7.7
+Ontario-Seneca-Wayne-Yates,2010,8.2
+Ontario-Seneca-Wayne-Yates,2011,7.8
+Ontario-Seneca-Wayne-Yates,2012,8.0
+Ontario-Seneca-Wayne-Yates,2013,7.0
+Ontario-Seneca-Wayne-Yates,2014,5.7
+Ontario-Seneca-Wayne-Yates,2015,5.1
+Ontario-Seneca-Wayne-Yates,2016,4.7
+Ontario-Seneca-Wayne-Yates,2017,4.6
+Ontario-Seneca-Wayne-Yates,2018,3.9
+Ontario-Seneca-Wayne-Yates,2019,3.7
+Ontario-Seneca-Wayne-Yates,2020,7.1
+Ontario-Seneca-Wayne-Yates,2021,4.4
+Ontario-Seneca-Wayne-Yates,2022,3.2
+Ontario-Seneca-Wayne-Yates,2023,3.3
+Ontario-Seneca-Wayne-Yates,2024,3.8
+Orange,1990,4.4
+Orange,1991,6.1
+Orange,1992,6.6
+Orange,1993,6.0
+Orange,1994,5.4
+Orange,1995,4.9
+Orange,1996,4.3
+Orange,1997,4.1
+Orange,1998,3.4
+Orange,1999,3.6
+Orange,2000,3.3
+Orange,2001,3.7
+Orange,2002,4.4
+Orange,2003,4.8
+Orange,2004,4.8
+Orange,2005,4.2
+Orange,2006,4.2
+Orange,2007,4.2
+Orange,2008,5.3
+Orange,2009,8.0
+Orange,2010,8.1
+Orange,2011,7.8
+Orange,2012,8.0
+Orange,2013,7.0
+Orange,2014,5.5
+Orange,2015,4.7
+Orange,2016,4.4
+Orange,2017,4.5
+Orange,2018,3.9
+Orange,2019,3.6
+Orange,2020,8.0
+Orange,2021,4.8
+Orange,2022,3.3
+Orange,2023,3.4
+Orange,2024,3.8
+Orange County,1990,4.4
+Orange County,1991,6.1
+Orange County,1992,6.6
+Orange County,1993,6.0
+Orange County,1994,5.4
+Orange County,1995,4.9
+Orange County,1996,4.3
+Orange County,1997,4.1
+Orange County,1998,3.4
+Orange County,1999,3.6
+Orange County,2000,3.3
+Orange County,2001,3.7
+Orange County,2002,4.4
+Orange County,2003,4.8
+Orange County,2004,4.8
+Orange County,2005,4.2
+Orange County,2006,4.2
+Orange County,2007,4.2
+Orange County,2008,5.3
+Orange County,2009,8.0
+Orange County,2010,8.1
+Orange County,2011,7.8
+Orange County,2012,8.0
+Orange County,2013,7.0
+Orange County,2014,5.5
+Orange County,2015,4.7
+Orange County,2016,4.4
+Orange County,2017,4.5
+Orange County,2018,3.9
+Orange County,2019,3.6
+Orange County,2020,8.0
+Orange County,2021,4.8
+Orange County,2022,3.3
+Orange County,2023,3.4
+Orange County,2024,3.8
+Orange-Rockland-Westchester Metro Area,1990,3.7
+Orange-Rockland-Westchester Metro Area,1991,5.6
+Orange-Rockland-Westchester Metro Area,1992,6.4
+Orange-Rockland-Westchester Metro Area,1993,5.8
+Orange-Rockland-Westchester Metro Area,1994,5.1
+Orange-Rockland-Westchester Metro Area,1995,4.6
+Orange-Rockland-Westchester Metro Area,1996,4.2
+Orange-Rockland-Westchester Metro Area,1997,3.9
+Orange-Rockland-Westchester Metro Area,1998,3.4
+Orange-Rockland-Westchester Metro Area,1999,3.4
+Orange-Rockland-Westchester Metro Area,2000,3.4
+Orange-Rockland-Westchester Metro Area,2001,3.7
+Orange-Rockland-Westchester Metro Area,2002,4.5
+Orange-Rockland-Westchester Metro Area,2003,4.6
+Orange-Rockland-Westchester Metro Area,2004,4.6
+Orange-Rockland-Westchester Metro Area,2005,4.1
+Orange-Rockland-Westchester Metro Area,2006,3.9
+Orange-Rockland-Westchester Metro Area,2007,3.8
+Orange-Rockland-Westchester Metro Area,2008,4.9
+Orange-Rockland-Westchester Metro Area,2009,7.3
+Orange-Rockland-Westchester Metro Area,2010,7.7
+Orange-Rockland-Westchester Metro Area,2011,7.3
+Orange-Rockland-Westchester Metro Area,2012,7.5
+Orange-Rockland-Westchester Metro Area,2013,6.5
+Orange-Rockland-Westchester Metro Area,2014,5.3
+Orange-Rockland-Westchester Metro Area,2015,4.6
+Orange-Rockland-Westchester Metro Area,2016,4.3
+Orange-Rockland-Westchester Metro Area,2017,4.5
+Orange-Rockland-Westchester Metro Area,2018,3.8
+Orange-Rockland-Westchester Metro Area,2019,3.6
+Orange-Rockland-Westchester Metro Area,2020,8.0
+Orange-Rockland-Westchester Metro Area,2021,4.8
+Orange-Rockland-Westchester Metro Area,2022,3.2
+Orange-Rockland-Westchester Metro Area,2023,3.3
+Orange-Rockland-Westchester Metro Area,2024,3.7
+Orangetown Town,1990,3.3
+Orangetown Town,1991,5.6
+Orangetown Town,1992,6.4
+Orangetown Town,1993,6.1
+Orangetown Town,1994,5.2
+Orangetown Town,1995,4.8
+Orangetown Town,1996,4.3
+Orangetown Town,1997,4.0
+Orangetown Town,1998,3.3
+Orangetown Town,1999,3.3
+Orangetown Town,2000,3.1
+Orangetown Town,2001,3.4
+Orangetown Town,2002,4.2
+Orangetown Town,2003,4.4
+Orangetown Town,2004,4.1
+Orangetown Town,2005,3.7
+Orangetown Town,2006,3.4
+Orangetown Town,2007,3.5
+Orangetown Town,2008,4.3
+Orangetown Town,2009,6.4
+Orangetown Town,2010,7.4
+Orangetown Town,2011,7.0
+Orangetown Town,2012,7.2
+Orangetown Town,2013,6.4
+Orangetown Town,2014,5.0
+Orangetown Town,2015,4.5
+Orangetown Town,2016,4.2
+Orangetown Town,2017,4.4
+Orangetown Town,2018,3.8
+Orangetown Town,2019,3.4
+Orangetown Town,2020,7.4
+Orangetown Town,2021,4.3
+Orangetown Town,2022,3.0
+Orangetown Town,2023,3.3
+Orangetown Town,2024,3.5
+Orchard Park Town,1990,3.0
+Orchard Park Town,1991,4.0
+Orchard Park Town,1992,4.2
+Orchard Park Town,1993,3.8
+Orchard Park Town,1994,3.3
+Orchard Park Town,1995,2.9
+Orchard Park Town,1996,2.8
+Orchard Park Town,1997,2.9
+Orchard Park Town,1998,2.9
+Orchard Park Town,1999,2.9
+Orchard Park Town,2000,3.6
+Orchard Park Town,2001,3.9
+Orchard Park Town,2002,4.3
+Orchard Park Town,2003,4.6
+Orchard Park Town,2004,4.4
+Orchard Park Town,2005,4.2
+Orchard Park Town,2006,4.0
+Orchard Park Town,2007,3.6
+Orchard Park Town,2008,4.4
+Orchard Park Town,2009,6.3
+Orchard Park Town,2010,6.3
+Orchard Park Town,2011,6.1
+Orchard Park Town,2012,6.3
+Orchard Park Town,2013,5.8
+Orchard Park Town,2014,4.6
+Orchard Park Town,2015,4.2
+Orchard Park Town,2016,3.9
+Orchard Park Town,2017,4.1
+Orchard Park Town,2018,3.4
+Orchard Park Town,2019,3.2
+Orchard Park Town,2020,6.6
+Orchard Park Town,2021,4.0
+Orchard Park Town,2022,2.8
+Orchard Park Town,2023,2.9
+Orchard Park Town,2024,3.3
+Orleans County,1990,6.6
+Orleans County,1991,7.3
+Orleans County,1992,8.7
+Orleans County,1993,7.5
+Orleans County,1994,7.0
+Orleans County,1995,7.7
+Orleans County,1996,5.6
+Orleans County,1997,6.2
+Orleans County,1998,5.3
+Orleans County,1999,5.2
+Orleans County,2000,4.6
+Orleans County,2001,5.1
+Orleans County,2002,6.4
+Orleans County,2003,7.0
+Orleans County,2004,6.4
+Orleans County,2005,5.6
+Orleans County,2006,5.6
+Orleans County,2007,5.7
+Orleans County,2008,6.9
+Orleans County,2009,9.5
+Orleans County,2010,9.8
+Orleans County,2011,9.3
+Orleans County,2012,9.8
+Orleans County,2013,9.3
+Orleans County,2014,7.7
+Orleans County,2015,6.4
+Orleans County,2016,5.8
+Orleans County,2017,5.9
+Orleans County,2018,4.9
+Orleans County,2019,4.5
+Orleans County,2020,8.1
+Orleans County,2021,5.2
+Orleans County,2022,3.8
+Orleans County,2023,4.0
+Orleans County,2024,4.5
+Ossining Town,1990,3.4
+Ossining Town,1991,5.1
+Ossining Town,1992,6.0
+Ossining Town,1993,5.3
+Ossining Town,1994,4.6
+Ossining Town,1995,4.2
+Ossining Town,1996,3.9
+Ossining Town,1997,3.5
+Ossining Town,1998,3.2
+Ossining Town,1999,3.2
+Ossining Town,2000,3.1
+Ossining Town,2001,3.5
+Ossining Town,2002,4.2
+Ossining Town,2003,4.2
+Ossining Town,2004,4.2
+Ossining Town,2005,3.7
+Ossining Town,2006,3.5
+Ossining Town,2007,3.4
+Ossining Town,2008,4.4
+Ossining Town,2009,6.9
+Ossining Town,2010,6.7
+Ossining Town,2011,6.4
+Ossining Town,2012,7.1
+Ossining Town,2013,5.8
+Ossining Town,2014,4.7
+Ossining Town,2015,4.0
+Ossining Town,2016,3.9
+Ossining Town,2017,4.2
+Ossining Town,2018,3.6
+Ossining Town,2019,3.2
+Ossining Town,2020,6.9
+Ossining Town,2021,4.5
+Ossining Town,2022,2.9
+Ossining Town,2023,3.1
+Ossining Town,2024,3.4
+Ossining Village,2010,6.7
+Ossining Village,2011,6.3
+Ossining Village,2012,7.0
+Ossining Village,2013,5.7
+Ossining Village,2014,4.7
+Ossining Village,2015,3.9
+Ossining Village,2016,3.9
+Ossining Village,2017,4.2
+Ossining Village,2018,3.6
+Ossining Village,2019,3.2
+Ossining Village,2020,7.3
+Ossining Village,2021,4.5
+Ossining Village,2022,2.9
+Ossining Village,2023,3.0
+Ossining Village,2024,3.4
+Oswego,1990,6.9
+Oswego,1991,10.1
+Oswego,1992,10.5
+Oswego,1993,9.4
+Oswego,1994,8.7
+Oswego,1995,8.5
+Oswego,1996,7.0
+Oswego,1997,6.9
+Oswego,1998,5.7
+Oswego,1999,6.2
+Oswego,2000,4.7
+Oswego,2001,5.3
+Oswego,2002,6.5
+Oswego,2003,7.4
+Oswego,2004,7.0
+Oswego,2005,6.2
+Oswego,2006,5.8
+Oswego,2007,5.5
+Oswego,2008,6.9
+Oswego,2009,10.0
+Oswego,2010,10.9
+Oswego,2011,10.8
+Oswego,2012,11.1
+Oswego,2013,10.1
+Oswego,2014,8.1
+Oswego,2015,7.2
+Oswego,2016,6.6
+Oswego,2017,6.4
+Oswego,2018,5.4
+Oswego,2019,5.2
+Oswego,2020,8.6
+Oswego,2021,5.6
+Oswego,2022,4.2
+Oswego,2023,4.3
+Oswego,2024,4.8
+Oswego County,1990,6.9
+Oswego County,1991,10.1
+Oswego County,1992,10.5
+Oswego County,1993,9.4
+Oswego County,1994,8.7
+Oswego County,1995,8.5
+Oswego County,1996,7.0
+Oswego County,1997,6.9
+Oswego County,1998,5.7
+Oswego County,1999,6.2
+Oswego County,2000,4.7
+Oswego County,2001,5.3
+Oswego County,2002,6.5
+Oswego County,2003,7.4
+Oswego County,2004,7.0
+Oswego County,2005,6.2
+Oswego County,2006,5.8
+Oswego County,2007,5.5
+Oswego County,2008,6.9
+Oswego County,2009,10.0
+Oswego County,2010,10.9
+Oswego County,2011,10.8
+Oswego County,2012,11.1
+Oswego County,2013,10.1
+Oswego County,2014,8.1
+Oswego County,2015,7.2
+Oswego County,2016,6.6
+Oswego County,2017,6.4
+Oswego County,2018,5.4
+Oswego County,2019,5.2
+Oswego County,2020,8.6
+Oswego County,2021,5.6
+Oswego County,2022,4.2
+Oswego County,2023,4.3
+Oswego County,2024,4.8
+Otsego County,1990,5.1
+Otsego County,1991,5.9
+Otsego County,1992,7.1
+Otsego County,1993,6.2
+Otsego County,1994,6.1
+Otsego County,1995,5.4
+Otsego County,1996,5.2
+Otsego County,1997,5.4
+Otsego County,1998,5.0
+Otsego County,1999,5.1
+Otsego County,2000,4.2
+Otsego County,2001,4.2
+Otsego County,2002,4.7
+Otsego County,2003,4.9
+Otsego County,2004,4.9
+Otsego County,2005,4.5
+Otsego County,2006,4.4
+Otsego County,2007,4.4
+Otsego County,2008,5.6
+Otsego County,2009,7.7
+Otsego County,2010,7.7
+Otsego County,2011,7.8
+Otsego County,2012,8.0
+Otsego County,2013,7.0
+Otsego County,2014,5.8
+Otsego County,2015,5.4
+Otsego County,2016,5.0
+Otsego County,2017,5.0
+Otsego County,2018,4.3
+Otsego County,2019,4.1
+Otsego County,2020,7.0
+Otsego County,2021,4.6
+Otsego County,2022,3.5
+Otsego County,2023,3.8
+Otsego County,2024,4.4
+Oyster Bay Town,1990,3.5
+Oyster Bay Town,1991,5.4
+Oyster Bay Town,1992,6.8
+Oyster Bay Town,1993,5.6
+Oyster Bay Town,1994,4.8
+Oyster Bay Town,1995,4.2
+Oyster Bay Town,1996,3.5
+Oyster Bay Town,1997,3.3
+Oyster Bay Town,1998,2.8
+Oyster Bay Town,1999,2.8
+Oyster Bay Town,2000,3.1
+Oyster Bay Town,2001,3.5
+Oyster Bay Town,2002,4.3
+Oyster Bay Town,2003,4.4
+Oyster Bay Town,2004,4.2
+Oyster Bay Town,2005,3.8
+Oyster Bay Town,2006,3.5
+Oyster Bay Town,2007,3.4
+Oyster Bay Town,2008,4.4
+Oyster Bay Town,2009,6.5
+Oyster Bay Town,2010,7.0
+Oyster Bay Town,2011,6.6
+Oyster Bay Town,2012,6.7
+Oyster Bay Town,2013,5.6
+Oyster Bay Town,2014,4.5
+Oyster Bay Town,2015,4.0
+Oyster Bay Town,2016,3.7
+Oyster Bay Town,2017,3.8
+Oyster Bay Town,2018,3.3
+Oyster Bay Town,2019,3.1
+Oyster Bay Town,2020,7.5
+Oyster Bay Town,2021,4.2
+Oyster Bay Town,2022,2.7
+Oyster Bay Town,2023,2.9
+Oyster Bay Town,2024,3.1
+Oyster Bay-North Hempstead-Glen Cove,1998,2.7
+Oyster Bay-North Hempstead-Glen Cove,1999,2.7
+Oyster Bay-North Hempstead-Glen Cove,2000,3.1
+Oyster Bay-North Hempstead-Glen Cove,2001,3.5
+Oyster Bay-North Hempstead-Glen Cove,2002,4.4
+Oyster Bay-North Hempstead-Glen Cove,2003,4.4
+Oyster Bay-North Hempstead-Glen Cove,2004,4.2
+Oyster Bay-North Hempstead-Glen Cove,2005,3.8
+Oyster Bay-North Hempstead-Glen Cove,2006,3.5
+Oyster Bay-North Hempstead-Glen Cove,2007,3.4
+Oyster Bay-North Hempstead-Glen Cove,2008,4.4
+Oyster Bay-North Hempstead-Glen Cove,2009,6.5
+Oyster Bay-North Hempstead-Glen Cove,2010,6.9
+Oyster Bay-North Hempstead-Glen Cove,2011,6.5
+Oyster Bay-North Hempstead-Glen Cove,2012,6.6
+Oyster Bay-North Hempstead-Glen Cove,2013,5.6
+Oyster Bay-North Hempstead-Glen Cove,2014,4.5
+Oyster Bay-North Hempstead-Glen Cove,2015,4.0
+Oyster Bay-North Hempstead-Glen Cove,2016,3.7
+Oyster Bay-North Hempstead-Glen Cove,2017,3.8
+Oyster Bay-North Hempstead-Glen Cove,2018,3.3
+Oyster Bay-North Hempstead-Glen Cove,2019,3.1
+Oyster Bay-North Hempstead-Glen Cove,2020,7.5
+Oyster Bay-North Hempstead-Glen Cove,2021,4.2
+Oyster Bay-North Hempstead-Glen Cove,2022,2.7
+Oyster Bay-North Hempstead-Glen Cove,2023,2.9
+Oyster Bay-North Hempstead-Glen Cove,2024,3.2
+Penfield Town,1990,2.4
+Penfield Town,1991,3.1
+Penfield Town,1992,3.5
+Penfield Town,1993,3.3
+Penfield Town,1994,3.4
+Penfield Town,1995,2.8
+Penfield Town,1996,2.5
+Penfield Town,1997,2.5
+Penfield Town,1998,2.5
+Penfield Town,1999,2.7
+Penfield Town,2000,2.9
+Penfield Town,2001,3.3
+Penfield Town,2002,4.6
+Penfield Town,2003,4.5
+Penfield Town,2004,4.0
+Penfield Town,2005,3.6
+Penfield Town,2006,3.3
+Penfield Town,2007,3.4
+Penfield Town,2008,4.3
+Penfield Town,2009,6.2
+Penfield Town,2010,6.6
+Penfield Town,2011,6.2
+Penfield Town,2012,6.5
+Penfield Town,2013,5.6
+Penfield Town,2014,4.5
+Penfield Town,2015,4.1
+Penfield Town,2016,3.7
+Penfield Town,2017,3.8
+Penfield Town,2018,3.3
+Penfield Town,2019,3.1
+Penfield Town,2020,6.1
+Penfield Town,2021,3.9
+Penfield Town,2022,2.7
+Penfield Town,2023,3.0
+Penfield Town,2024,3.3
+Perinton Town,1990,2.0
+Perinton Town,1991,2.6
+Perinton Town,1992,2.9
+Perinton Town,1993,2.7
+Perinton Town,1994,2.8
+Perinton Town,1995,2.3
+Perinton Town,1996,2.0
+Perinton Town,1997,2.1
+Perinton Town,1998,2.1
+Perinton Town,1999,2.2
+Perinton Town,2000,2.8
+Perinton Town,2001,3.2
+Perinton Town,2002,4.3
+Perinton Town,2003,4.4
+Perinton Town,2004,4.0
+Perinton Town,2005,3.4
+Perinton Town,2006,3.3
+Perinton Town,2007,3.1
+Perinton Town,2008,3.9
+Perinton Town,2009,6.0
+Perinton Town,2010,6.3
+Perinton Town,2011,5.9
+Perinton Town,2012,6.0
+Perinton Town,2013,5.2
+Perinton Town,2014,4.3
+Perinton Town,2015,3.8
+Perinton Town,2016,3.5
+Perinton Town,2017,3.7
+Perinton Town,2018,3.2
+Perinton Town,2019,3.1
+Perinton Town,2020,5.8
+Perinton Town,2021,3.6
+Perinton Town,2022,2.4
+Perinton Town,2023,2.7
+Perinton Town,2024,3.1
+Pittsford Town,1990,1.5
+Pittsford Town,1991,1.9
+Pittsford Town,1992,2.1
+Pittsford Town,1993,2.0
+Pittsford Town,1994,2.1
+Pittsford Town,1995,1.7
+Pittsford Town,1996,1.5
+Pittsford Town,1997,1.5
+Pittsford Town,1998,1.5
+Pittsford Town,1999,1.6
+Pittsford Town,2000,2.8
+Pittsford Town,2001,3.2
+Pittsford Town,2002,4.0
+Pittsford Town,2003,4.0
+Pittsford Town,2004,3.8
+Pittsford Town,2005,3.3
+Pittsford Town,2006,3.1
+Pittsford Town,2007,3.1
+Pittsford Town,2008,3.8
+Pittsford Town,2009,5.8
+Pittsford Town,2010,6.0
+Pittsford Town,2011,5.6
+Pittsford Town,2012,6.0
+Pittsford Town,2013,5.2
+Pittsford Town,2014,4.2
+Pittsford Town,2015,3.7
+Pittsford Town,2016,3.6
+Pittsford Town,2017,3.8
+Pittsford Town,2018,3.2
+Pittsford Town,2019,3.1
+Pittsford Town,2020,4.9
+Pittsford Town,2021,3.4
+Pittsford Town,2022,2.5
+Pittsford Town,2023,2.7
+Pittsford Town,2024,3.0
+Port Chester Village Ny,1998,4.0
+Port Chester Village Ny,1999,4.1
+Port Chester Village Ny,2000,3.1
+Port Chester Village Ny,2001,3.3
+Port Chester Village Ny,2002,4.2
+Port Chester Village Ny,2003,4.2
+Port Chester Village Ny,2004,4.4
+Port Chester Village Ny,2005,3.9
+Port Chester Village Ny,2006,3.4
+Port Chester Village Ny,2007,3.4
+Port Chester Village Ny,2008,4.3
+Port Chester Village Ny,2009,6.5
+Port Chester Village Ny,2010,5.7
+Port Chester Village Ny,2011,5.8
+Port Chester Village Ny,2012,5.9
+Port Chester Village Ny,2013,5.1
+Port Chester Village Ny,2014,4.1
+Port Chester Village Ny,2015,3.8
+Port Chester Village Ny,2016,3.5
+Port Chester Village Ny,2017,3.6
+Port Chester Village Ny,2018,3.2
+Port Chester Village Ny,2019,2.9
+Port Chester Village Ny,2020,6.7
+Port Chester Village Ny,2021,3.7
+Port Chester Village Ny,2022,2.5
+Port Chester Village Ny,2023,2.6
+Port Chester Village Ny,2024,2.9
+Poughkeepsie City,1990,4.9
+Poughkeepsie City,1991,8.5
+Poughkeepsie City,1992,11.1
+Poughkeepsie City,1993,13.9
+Poughkeepsie City,1994,11.3
+Poughkeepsie City,1995,8.2
+Poughkeepsie City,1996,7.0
+Poughkeepsie City,1997,6.7
+Poughkeepsie City,1998,5.6
+Poughkeepsie City,1999,5.7
+Poughkeepsie City,2000,4.0
+Poughkeepsie City,2001,4.3
+Poughkeepsie City,2002,5.3
+Poughkeepsie City,2003,5.2
+Poughkeepsie City,2004,5.2
+Poughkeepsie City,2005,4.7
+Poughkeepsie City,2006,4.7
+Poughkeepsie City,2007,4.8
+Poughkeepsie City,2008,6.4
+Poughkeepsie City,2009,9.2
+Poughkeepsie City,2010,9.5
+Poughkeepsie City,2011,9.3
+Poughkeepsie City,2012,9.4
+Poughkeepsie City,2013,8.3
+Poughkeepsie City,2014,6.7
+Poughkeepsie City,2015,5.6
+Poughkeepsie City,2016,5.3
+Poughkeepsie City,2017,5.3
+Poughkeepsie City,2018,4.6
+Poughkeepsie City,2019,4.5
+Poughkeepsie City,2020,10.5
+Poughkeepsie City,2021,6.6
+Poughkeepsie City,2022,4.4
+Poughkeepsie City,2023,4.6
+Poughkeepsie City,2024,4.9
+Poughkeepsie Town,1990,1.8
+Poughkeepsie Town,1991,3.2
+Poughkeepsie Town,1992,4.3
+Poughkeepsie Town,1993,5.5
+Poughkeepsie Town,1994,4.4
+Poughkeepsie Town,1995,3.1
+Poughkeepsie Town,1996,2.6
+Poughkeepsie Town,1997,2.5
+Poughkeepsie Town,1998,2.1
+Poughkeepsie Town,1999,2.1
+Poughkeepsie Town,2000,3.3
+Poughkeepsie Town,2001,3.5
+Poughkeepsie Town,2002,4.2
+Poughkeepsie Town,2003,4.1
+Poughkeepsie Town,2004,4.3
+Poughkeepsie Town,2005,3.9
+Poughkeepsie Town,2006,3.8
+Poughkeepsie Town,2007,4.0
+Poughkeepsie Town,2008,5.1
+Poughkeepsie Town,2009,8.1
+Poughkeepsie Town,2010,7.6
+Poughkeepsie Town,2011,7.5
+Poughkeepsie Town,2012,7.8
+Poughkeepsie Town,2013,6.9
+Poughkeepsie Town,2014,5.6
+Poughkeepsie Town,2015,4.5
+Poughkeepsie Town,2016,4.3
+Poughkeepsie Town,2017,4.2
+Poughkeepsie Town,2018,3.6
+Poughkeepsie Town,2019,3.4
+Poughkeepsie Town,2020,7.2
+Poughkeepsie Town,2021,4.5
+Poughkeepsie Town,2022,3.1
+Poughkeepsie Town,2023,3.3
+Poughkeepsie Town,2024,3.6
+Putnam County,1990,3.3
+Putnam County,1991,5.3
+Putnam County,1992,6.1
+Putnam County,1993,5.4
+Putnam County,1994,4.7
+Putnam County,1995,3.9
+Putnam County,1996,3.6
+Putnam County,1997,3.1
+Putnam County,1998,2.7
+Putnam County,1999,2.8
+Putnam County,2000,2.9
+Putnam County,2001,3.2
+Putnam County,2002,4.0
+Putnam County,2003,4.1
+Putnam County,2004,4.0
+Putnam County,2005,3.7
+Putnam County,2006,3.5
+Putnam County,2007,3.3
+Putnam County,2008,4.4
+Putnam County,2009,6.8
+Putnam County,2010,7.3
+Putnam County,2011,7.1
+Putnam County,2012,7.3
+Putnam County,2013,6.2
+Putnam County,2014,5.0
+Putnam County,2015,4.3
+Putnam County,2016,4.0
+Putnam County,2017,4.2
+Putnam County,2018,3.7
+Putnam County,2019,3.5
+Putnam County,2020,7.2
+Putnam County,2021,4.2
+Putnam County,2022,3.0
+Putnam County,2023,3.1
+Putnam County,2024,3.5
+Putnam-Balance Of Westchester,1990,3.2
+Putnam-Balance Of Westchester,1991,5.0
+Putnam-Balance Of Westchester,1992,5.8
+Putnam-Balance Of Westchester,1993,5.1
+Putnam-Balance Of Westchester,1994,4.5
+Putnam-Balance Of Westchester,1995,4.0
+Putnam-Balance Of Westchester,1996,3.7
+Putnam-Balance Of Westchester,1997,3.4
+Putnam-Balance Of Westchester,1998,3.0
+Putnam-Balance Of Westchester,1999,3.0
+Putnam-Balance Of Westchester,2000,3.2
+Putnam-Balance Of Westchester,2001,3.5
+Putnam-Balance Of Westchester,2002,4.3
+Putnam-Balance Of Westchester,2003,4.2
+Putnam-Balance Of Westchester,2004,4.2
+Putnam-Balance Of Westchester,2005,3.8
+Putnam-Balance Of Westchester,2006,3.6
+Putnam-Balance Of Westchester,2007,3.4
+Putnam-Balance Of Westchester,2008,4.5
+Putnam-Balance Of Westchester,2009,6.8
+Putnam-Balance Of Westchester,2010,7.2
+Putnam-Balance Of Westchester,2011,6.8
+Putnam-Balance Of Westchester,2012,7.0
+Putnam-Balance Of Westchester,2013,6.1
+Putnam-Balance Of Westchester,2014,4.9
+Putnam-Balance Of Westchester,2015,4.3
+Putnam-Balance Of Westchester,2016,4.1
+Putnam-Balance Of Westchester,2017,4.3
+Putnam-Balance Of Westchester,2018,3.7
+Putnam-Balance Of Westchester,2019,3.4
+Putnam-Balance Of Westchester,2020,7.3
+Putnam-Balance Of Westchester,2021,4.4
+Putnam-Balance Of Westchester,2022,3.0
+Putnam-Balance Of Westchester,2023,3.2
+Putnam-Balance Of Westchester,2024,3.6
+Queens County,1990,6.0
+Queens County,1991,8.2
+Queens County,1992,10.6
+Queens County,1993,9.7
+Queens County,1994,8.2
+Queens County,1995,7.6
+Queens County,1996,8.1
+Queens County,1997,8.5
+Queens County,1998,6.9
+Queens County,1999,6.1
+Queens County,2000,5.3
+Queens County,2001,5.4
+Queens County,2002,7.1
+Queens County,2003,7.3
+Queens County,2004,6.2
+Queens County,2005,5.1
+Queens County,2006,4.4
+Queens County,2007,4.3
+Queens County,2008,5.0
+Queens County,2009,8.4
+Queens County,2010,8.7
+Queens County,2011,8.1
+Queens County,2012,8.3
+Queens County,2013,7.7
+Queens County,2014,6.2
+Queens County,2015,4.9
+Queens County,2016,4.5
+Queens County,2017,3.9
+Queens County,2018,3.6
+Queens County,2019,3.5
+Queens County,2020,12.6
+Queens County,2021,9.8
+Queens County,2022,5.3
+Queens County,2023,4.6
+Queens County,2024,4.4
+Queensbury Town,1990,4.2
+Queensbury Town,1991,6.4
+Queensbury Town,1992,7.1
+Queensbury Town,1993,6.2
+Queensbury Town,1994,5.7
+Queensbury Town,1995,5.2
+Queensbury Town,1996,5.0
+Queensbury Town,1997,5.0
+Queensbury Town,1998,4.6
+Queensbury Town,1999,4.3
+Queensbury Town,2000,3.6
+Queensbury Town,2001,3.8
+Queensbury Town,2002,4.4
+Queensbury Town,2003,4.3
+Queensbury Town,2004,4.2
+Queensbury Town,2005,4.0
+Queensbury Town,2006,3.8
+Queensbury Town,2007,3.7
+Queensbury Town,2008,4.7
+Queensbury Town,2009,6.8
+Queensbury Town,2010,7.9
+Queensbury Town,2011,7.5
+Queensbury Town,2012,8.0
+Queensbury Town,2013,7.2
+Queensbury Town,2014,5.7
+Queensbury Town,2015,4.8
+Queensbury Town,2016,4.6
+Queensbury Town,2017,4.6
+Queensbury Town,2018,3.9
+Queensbury Town,2019,3.8
+Queensbury Town,2020,7.3
+Queensbury Town,2021,4.2
+Queensbury Town,2022,3.0
+Queensbury Town,2023,3.1
+Queensbury Town,2024,3.6
+Ramapo Town,1990,3.7
+Ramapo Town,1991,6.3
+Ramapo Town,1992,7.3
+Ramapo Town,1993,7.0
+Ramapo Town,1994,5.9
+Ramapo Town,1995,5.5
+Ramapo Town,1996,4.8
+Ramapo Town,1997,4.5
+Ramapo Town,1998,3.8
+Ramapo Town,1999,3.8
+Ramapo Town,2000,3.3
+Ramapo Town,2001,3.5
+Ramapo Town,2002,4.3
+Ramapo Town,2003,4.7
+Ramapo Town,2004,4.4
+Ramapo Town,2005,3.9
+Ramapo Town,2006,3.6
+Ramapo Town,2007,3.7
+Ramapo Town,2008,4.6
+Ramapo Town,2009,6.6
+Ramapo Town,2010,7.0
+Ramapo Town,2011,6.8
+Ramapo Town,2012,7.1
+Ramapo Town,2013,6.0
+Ramapo Town,2014,4.8
+Ramapo Town,2015,4.2
+Ramapo Town,2016,3.9
+Ramapo Town,2017,3.9
+Ramapo Town,2018,3.3
+Ramapo Town,2019,3.1
+Ramapo Town,2020,7.2
+Ramapo Town,2021,4.2
+Ramapo Town,2022,2.6
+Ramapo Town,2023,2.8
+Ramapo Town,2024,3.1
+Rensselaer County,1990,4.1
+Rensselaer County,1991,6.2
+Rensselaer County,1992,6.5
+Rensselaer County,1993,5.3
+Rensselaer County,1994,5.3
+Rensselaer County,1995,5.4
+Rensselaer County,1996,4.9
+Rensselaer County,1997,4.6
+Rensselaer County,1998,4.0
+Rensselaer County,1999,3.9
+Rensselaer County,2000,3.6
+Rensselaer County,2001,3.8
+Rensselaer County,2002,4.6
+Rensselaer County,2003,4.7
+Rensselaer County,2004,4.7
+Rensselaer County,2005,4.2
+Rensselaer County,2006,4.1
+Rensselaer County,2007,4.2
+Rensselaer County,2008,5.1
+Rensselaer County,2009,7.5
+Rensselaer County,2010,7.9
+Rensselaer County,2011,7.6
+Rensselaer County,2012,7.8
+Rensselaer County,2013,6.8
+Rensselaer County,2014,5.4
+Rensselaer County,2015,4.7
+Rensselaer County,2016,4.3
+Rensselaer County,2017,4.4
+Rensselaer County,2018,3.9
+Rensselaer County,2019,3.6
+Rensselaer County,2020,6.8
+Rensselaer County,2021,4.4
+Rensselaer County,2022,3.1
+Rensselaer County,2023,3.3
+Rensselaer County,2024,3.7
+Richmond County,1990,6.1
+Richmond County,1991,8.1
+Richmond County,1992,9.9
+Richmond County,1993,9.3
+Richmond County,1994,7.8
+Richmond County,1995,7.5
+Richmond County,1996,7.8
+Richmond County,1997,8.3
+Richmond County,1998,6.8
+Richmond County,1999,5.8
+Richmond County,2000,5.1
+Richmond County,2001,5.2
+Richmond County,2002,6.9
+Richmond County,2003,7.4
+Richmond County,2004,6.3
+Richmond County,2005,5.1
+Richmond County,2006,4.4
+Richmond County,2007,4.4
+Richmond County,2008,5.1
+Richmond County,2009,8.2
+Richmond County,2010,9.5
+Richmond County,2011,9.2
+Richmond County,2012,9.5
+Richmond County,2013,9.0
+Richmond County,2014,7.2
+Richmond County,2015,5.7
+Richmond County,2016,5.2
+Richmond County,2017,4.6
+Richmond County,2018,4.1
+Richmond County,2019,3.9
+Richmond County,2020,10.7
+Richmond County,2021,9.0
+Richmond County,2022,5.6
+Richmond County,2023,4.9
+Richmond County,2024,4.5
+Riverhead Town Ny,1997,4.0
+Riverhead Town Ny,1998,3.3
+Riverhead Town Ny,1999,3.3
+Riverhead Town Ny,2000,3.8
+Riverhead Town Ny,2001,4.0
+Riverhead Town Ny,2002,4.6
+Riverhead Town Ny,2003,4.8
+Riverhead Town Ny,2004,4.8
+Riverhead Town Ny,2005,4.3
+Riverhead Town Ny,2006,4.0
+Riverhead Town Ny,2007,3.8
+Riverhead Town Ny,2008,4.8
+Riverhead Town Ny,2009,7.2
+Riverhead Town Ny,2010,8.4
+Riverhead Town Ny,2011,8.2
+Riverhead Town Ny,2012,8.5
+Riverhead Town Ny,2013,7.2
+Riverhead Town Ny,2014,6.0
+Riverhead Town Ny,2015,5.2
+Riverhead Town Ny,2016,4.8
+Riverhead Town Ny,2017,4.8
+Riverhead Town Ny,2018,4.5
+Riverhead Town Ny,2019,4.0
+Riverhead Town Ny,2020,8.2
+Riverhead Town Ny,2021,5.1
+Riverhead Town Ny,2022,3.7
+Riverhead Town Ny,2023,3.8
+Riverhead Town Ny,2024,4.5
+Rochester City,1990,6.0
+Rochester City,1991,7.8
+Rochester City,1992,8.8
+Rochester City,1993,8.2
+Rochester City,1994,8.6
+Rochester City,1995,7.0
+Rochester City,1996,6.2
+Rochester City,1997,6.4
+Rochester City,1998,6.4
+Rochester City,1999,6.8
+Rochester City,2000,4.5
+Rochester City,2001,5.4
+Rochester City,2002,7.0
+Rochester City,2003,7.2
+Rochester City,2004,6.9
+Rochester City,2005,5.9
+Rochester City,2006,5.8
+Rochester City,2007,5.7
+Rochester City,2008,7.3
+Rochester City,2009,10.4
+Rochester City,2010,11.0
+Rochester City,2011,10.7
+Rochester City,2012,11.0
+Rochester City,2013,9.8
+Rochester City,2014,8.1
+Rochester City,2015,7.0
+Rochester City,2016,6.6
+Rochester City,2017,6.8
+Rochester City,2018,6.0
+Rochester City,2019,5.6
+Rochester City,2020,12.2
+Rochester City,2021,8.0
+Rochester City,2022,5.2
+Rochester City,2023,5.3
+Rochester City,2024,5.7
+Rochester Metro Area,1990,3.8
+Rochester Metro Area,1991,5.0
+Rochester Metro Area,1992,5.6
+Rochester Metro Area,1993,5.0
+Rochester Metro Area,1994,5.1
+Rochester Metro Area,1995,4.4
+Rochester Metro Area,1996,3.9
+Rochester Metro Area,1997,4.0
+Rochester Metro Area,1998,3.9
+Rochester Metro Area,1999,4.1
+Rochester Metro Area,2000,3.6
+Rochester Metro Area,2001,4.2
+Rochester Metro Area,2002,5.5
+Rochester Metro Area,2003,5.6
+Rochester Metro Area,2004,5.4
+Rochester Metro Area,2005,4.6
+Rochester Metro Area,2006,4.4
+Rochester Metro Area,2007,4.4
+Rochester Metro Area,2008,5.5
+Rochester Metro Area,2009,8.0
+Rochester Metro Area,2010,8.2
+Rochester Metro Area,2011,7.8
+Rochester Metro Area,2012,8.0
+Rochester Metro Area,2013,7.2
+Rochester Metro Area,2014,5.9
+Rochester Metro Area,2015,5.1
+Rochester Metro Area,2016,4.8
+Rochester Metro Area,2017,4.9
+Rochester Metro Area,2018,4.2
+Rochester Metro Area,2019,4.0
+Rochester Metro Area,2020,7.9
+Rochester Metro Area,2021,5.0
+Rochester Metro Area,2022,3.5
+Rochester Metro Area,2023,3.6
+Rochester Metro Area,2024,4.0
+Rockland,1990,3.3
+Rockland,1991,5.6
+Rockland,1992,6.5
+Rockland,1993,6.2
+Rockland,1994,5.3
+Rockland,1995,4.9
+Rockland,1996,4.3
+Rockland,1997,4.0
+Rockland,1998,3.4
+Rockland,1999,3.4
+Rockland,2000,3.3
+Rockland,2001,3.5
+Rockland,2002,4.4
+Rockland,2003,4.7
+Rockland,2004,4.5
+Rockland,2005,4.0
+Rockland,2006,3.7
+Rockland,2007,3.8
+Rockland,2008,4.7
+Rockland,2009,7.0
+Rockland,2010,7.6
+Rockland,2011,7.2
+Rockland,2012,7.4
+Rockland,2013,6.4
+Rockland,2014,5.2
+Rockland,2015,4.6
+Rockland,2016,4.2
+Rockland,2017,4.3
+Rockland,2018,3.7
+Rockland,2019,3.4
+Rockland,2020,7.8
+Rockland,2021,4.5
+Rockland,2022,2.9
+Rockland,2023,3.1
+Rockland,2024,3.5
+Rockland County,1990,3.3
+Rockland County,1991,5.6
+Rockland County,1992,6.5
+Rockland County,1993,6.2
+Rockland County,1994,5.3
+Rockland County,1995,4.9
+Rockland County,1996,4.3
+Rockland County,1997,4.0
+Rockland County,1998,3.4
+Rockland County,1999,3.4
+Rockland County,2000,3.3
+Rockland County,2001,3.5
+Rockland County,2002,4.4
+Rockland County,2003,4.7
+Rockland County,2004,4.5
+Rockland County,2005,4.0
+Rockland County,2006,3.7
+Rockland County,2007,3.8
+Rockland County,2008,4.7
+Rockland County,2009,7.0
+Rockland County,2010,7.6
+Rockland County,2011,7.2
+Rockland County,2012,7.4
+Rockland County,2013,6.4
+Rockland County,2014,5.2
+Rockland County,2015,4.6
+Rockland County,2016,4.2
+Rockland County,2017,4.3
+Rockland County,2018,3.7
+Rockland County,2019,3.4
+Rockland County,2020,7.8
+Rockland County,2021,4.5
+Rockland County,2022,2.9
+Rockland County,2023,3.1
+Rockland County,2024,3.5
+Rockville Centre,1990,3.3
+Rockville Centre,1991,5.0
+Rockville Centre,1992,6.3
+Rockville Centre,1993,5.2
+Rockville Centre,1994,4.4
+Rockville Centre,1995,3.9
+Rockville Centre,1996,3.3
+Rockville Centre,1997,3.1
+Rockville Centre,1998,2.6
+Rockville Centre,1999,2.6
+Rockville Centre,2000,3.0
+Rockville Centre,2001,3.5
+Rockville Centre,2002,4.2
+Rockville Centre,2003,4.0
+Rockville Centre,2004,3.8
+Rockville Centre,2005,3.4
+Rockville Centre,2006,3.3
+Rockville Centre,2007,3.1
+Rockville Centre,2008,4.3
+Rockville Centre,2009,6.3
+Rockville Centre,2010,6.5
+Rockville Centre,2011,6.1
+Rockville Centre,2012,6.6
+Rockville Centre,2013,5.9
+Rockville Centre,2014,4.4
+Rockville Centre,2015,4.0
+Rockville Centre,2016,3.8
+Rockville Centre,2017,3.9
+Rockville Centre,2018,3.3
+Rockville Centre,2019,3.1
+Rockville Centre,2020,6.9
+Rockville Centre,2021,4.1
+Rockville Centre,2022,2.8
+Rockville Centre,2023,3.0
+Rockville Centre,2024,3.2
+Rome City,1990,4.6
+Rome City,1991,6.9
+Rome City,1992,7.4
+Rome City,1993,6.5
+Rome City,1994,5.5
+Rome City,1995,5.3
+Rome City,1996,5.1
+Rome City,1997,5.1
+Rome City,1998,4.4
+Rome City,1999,4.2
+Rome City,2000,4.0
+Rome City,2001,5.0
+Rome City,2002,5.6
+Rome City,2003,5.8
+Rome City,2004,5.6
+Rome City,2005,5.1
+Rome City,2006,4.5
+Rome City,2007,4.5
+Rome City,2008,5.8
+Rome City,2009,8.0
+Rome City,2010,8.1
+Rome City,2011,8.7
+Rome City,2012,8.8
+Rome City,2013,8.2
+Rome City,2014,6.3
+Rome City,2015,5.5
+Rome City,2016,5.1
+Rome City,2017,5.1
+Rome City,2018,4.7
+Rome City,2019,4.3
+Rome City,2020,8.5
+Rome City,2021,5.6
+Rome City,2022,3.7
+Rome City,2023,3.9
+Rome City,2024,4.3
+Rotterdam Town,1990,2.6
+Rotterdam Town,1991,4.1
+Rotterdam Town,1992,4.4
+Rotterdam Town,1993,3.6
+Rotterdam Town,1994,3.4
+Rotterdam Town,1995,3.6
+Rotterdam Town,1996,3.2
+Rotterdam Town,1997,3.0
+Rotterdam Town,1998,2.8
+Rotterdam Town,1999,2.4
+Rotterdam Town,2000,3.4
+Rotterdam Town,2001,3.4
+Rotterdam Town,2002,4.0
+Rotterdam Town,2003,4.5
+Rotterdam Town,2004,4.3
+Rotterdam Town,2005,3.9
+Rotterdam Town,2006,3.9
+Rotterdam Town,2007,3.8
+Rotterdam Town,2008,4.7
+Rotterdam Town,2009,6.7
+Rotterdam Town,2010,7.2
+Rotterdam Town,2011,7.1
+Rotterdam Town,2012,7.1
+Rotterdam Town,2013,6.4
+Rotterdam Town,2014,5.2
+Rotterdam Town,2015,4.4
+Rotterdam Town,2016,4.0
+Rotterdam Town,2017,4.1
+Rotterdam Town,2018,3.8
+Rotterdam Town,2019,3.5
+Rotterdam Town,2020,6.9
+Rotterdam Town,2021,4.2
+Rotterdam Town,2022,3.1
+Rotterdam Town,2023,3.2
+Rotterdam Town,2024,3.6
+Rye Town,1990,3.8
+Rye Town,1991,5.8
+Rye Town,1992,6.7
+Rye Town,1993,6.0
+Rye Town,1994,5.2
+Rye Town,1995,4.7
+Rye Town,1996,4.3
+Rye Town,1997,4.0
+Rye Town,1998,3.6
+Rye Town,1999,3.6
+Rye Town,2000,3.1
+Rye Town,2001,3.3
+Rye Town,2002,4.2
+Rye Town,2003,4.0
+Rye Town,2004,4.3
+Rye Town,2005,3.7
+Rye Town,2006,3.4
+Rye Town,2007,3.3
+Rye Town,2008,4.2
+Rye Town,2009,6.3
+Rye Town,2010,5.9
+Rye Town,2011,5.9
+Rye Town,2012,5.9
+Rye Town,2013,5.2
+Rye Town,2014,4.2
+Rye Town,2015,3.8
+Rye Town,2016,3.6
+Rye Town,2017,3.6
+Rye Town,2018,3.2
+Rye Town,2019,3.0
+Rye Town,2020,6.5
+Rye Town,2021,3.7
+Rye Town,2022,2.5
+Rye Town,2023,2.7
+Rye Town,2024,3.0
+Salina Town,1990,2.9
+Salina Town,1991,4.5
+Salina Town,1992,5.0
+Salina Town,1993,4.4
+Salina Town,1994,3.8
+Salina Town,1995,3.4
+Salina Town,1996,3.1
+Salina Town,1997,2.9
+Salina Town,1998,2.6
+Salina Town,1999,2.6
+Salina Town,2000,3.4
+Salina Town,2001,4.0
+Salina Town,2002,5.0
+Salina Town,2003,5.3
+Salina Town,2004,5.1
+Salina Town,2005,4.4
+Salina Town,2006,4.2
+Salina Town,2007,3.9
+Salina Town,2008,5.3
+Salina Town,2009,7.9
+Salina Town,2010,8.1
+Salina Town,2011,7.7
+Salina Town,2012,7.7
+Salina Town,2013,6.9
+Salina Town,2014,5.6
+Salina Town,2015,4.7
+Salina Town,2016,4.4
+Salina Town,2017,4.5
+Salina Town,2018,3.8
+Salina Town,2019,3.6
+Salina Town,2020,8.3
+Salina Town,2021,4.8
+Salina Town,2022,3.1
+Salina Town,2023,3.2
+Salina Town,2024,3.7
+Saratoga County,1990,3.6
+Saratoga County,1991,5.5
+Saratoga County,1992,6.0
+Saratoga County,1993,5.0
+Saratoga County,1994,4.8
+Saratoga County,1995,4.7
+Saratoga County,1996,4.3
+Saratoga County,1997,3.9
+Saratoga County,1998,3.5
+Saratoga County,1999,3.3
+Saratoga County,2000,3.3
+Saratoga County,2001,3.3
+Saratoga County,2002,3.9
+Saratoga County,2003,4.0
+Saratoga County,2004,3.9
+Saratoga County,2005,3.6
+Saratoga County,2006,3.5
+Saratoga County,2007,3.6
+Saratoga County,2008,4.5
+Saratoga County,2009,6.4
+Saratoga County,2010,7.0
+Saratoga County,2011,6.7
+Saratoga County,2012,6.9
+Saratoga County,2013,6.0
+Saratoga County,2014,4.7
+Saratoga County,2015,4.2
+Saratoga County,2016,3.9
+Saratoga County,2017,3.9
+Saratoga County,2018,3.5
+Saratoga County,2019,3.2
+Saratoga County,2020,6.4
+Saratoga County,2021,3.8
+Saratoga County,2022,2.7
+Saratoga County,2023,2.9
+Saratoga County,2024,3.3
+Saratoga Springs City,1990,4.3
+Saratoga Springs City,1991,6.4
+Saratoga Springs City,1992,7.0
+Saratoga Springs City,1993,5.9
+Saratoga Springs City,1994,5.6
+Saratoga Springs City,1995,5.5
+Saratoga Springs City,1996,5.1
+Saratoga Springs City,1997,4.6
+Saratoga Springs City,1998,4.1
+Saratoga Springs City,1999,3.9
+Saratoga Springs City,2000,3.4
+Saratoga Springs City,2001,3.3
+Saratoga Springs City,2002,3.9
+Saratoga Springs City,2003,3.9
+Saratoga Springs City,2004,3.9
+Saratoga Springs City,2005,3.5
+Saratoga Springs City,2006,3.3
+Saratoga Springs City,2007,3.5
+Saratoga Springs City,2008,4.2
+Saratoga Springs City,2009,5.9
+Saratoga Springs City,2010,7.1
+Saratoga Springs City,2011,7.1
+Saratoga Springs City,2012,7.1
+Saratoga Springs City,2013,5.8
+Saratoga Springs City,2014,4.6
+Saratoga Springs City,2015,4.2
+Saratoga Springs City,2016,4.0
+Saratoga Springs City,2017,4.1
+Saratoga Springs City,2018,3.6
+Saratoga Springs City,2019,3.3
+Saratoga Springs City,2020,7.2
+Saratoga Springs City,2021,4.0
+Saratoga Springs City,2022,2.8
+Saratoga Springs City,2023,3.0
+Saratoga Springs City,2024,3.4
+Saratoga-Warren-Washington,1990,4.4
+Saratoga-Warren-Washington,1991,6.5
+Saratoga-Warren-Washington,1992,7.1
+Saratoga-Warren-Washington,1993,6.0
+Saratoga-Warren-Washington,1994,5.7
+Saratoga-Warren-Washington,1995,5.4
+Saratoga-Warren-Washington,1996,5.1
+Saratoga-Warren-Washington,1997,4.8
+Saratoga-Warren-Washington,1998,4.2
+Saratoga-Warren-Washington,1999,4.0
+Saratoga-Warren-Washington,2000,3.5
+Saratoga-Warren-Washington,2001,3.7
+Saratoga-Warren-Washington,2002,4.2
+Saratoga-Warren-Washington,2003,4.3
+Saratoga-Warren-Washington,2004,4.3
+Saratoga-Warren-Washington,2005,4.0
+Saratoga-Warren-Washington,2006,3.8
+Saratoga-Warren-Washington,2007,3.9
+Saratoga-Warren-Washington,2008,4.8
+Saratoga-Warren-Washington,2009,7.0
+Saratoga-Warren-Washington,2010,7.7
+Saratoga-Warren-Washington,2011,7.4
+Saratoga-Warren-Washington,2012,7.6
+Saratoga-Warren-Washington,2013,6.7
+Saratoga-Warren-Washington,2014,5.3
+Saratoga-Warren-Washington,2015,4.6
+Saratoga-Warren-Washington,2016,4.3
+Saratoga-Warren-Washington,2017,4.3
+Saratoga-Warren-Washington,2018,3.8
+Saratoga-Warren-Washington,2019,3.5
+Saratoga-Warren-Washington,2020,6.8
+Saratoga-Warren-Washington,2021,4.2
+Saratoga-Warren-Washington,2022,3.0
+Saratoga-Warren-Washington,2023,3.1
+Saratoga-Warren-Washington,2024,3.6
+Schenectady City,1990,5.6
+Schenectady City,1991,8.5
+Schenectady City,1992,9.1
+Schenectady City,1993,7.5
+Schenectady City,1994,7.1
+Schenectady City,1995,7.5
+Schenectady City,1996,6.8
+Schenectady City,1997,6.4
+Schenectady City,1998,5.8
+Schenectady City,1999,5.0
+Schenectady City,2000,3.9
+Schenectady City,2001,3.9
+Schenectady City,2002,4.9
+Schenectady City,2003,5.3
+Schenectady City,2004,5.6
+Schenectady City,2005,5.1
+Schenectady City,2006,4.9
+Schenectady City,2007,5.0
+Schenectady City,2008,6.2
+Schenectady City,2009,9.2
+Schenectady City,2010,9.6
+Schenectady City,2011,9.2
+Schenectady City,2012,9.7
+Schenectady City,2013,8.4
+Schenectady City,2014,6.6
+Schenectady City,2015,5.8
+Schenectady City,2016,5.4
+Schenectady City,2017,5.4
+Schenectady City,2018,4.7
+Schenectady City,2019,4.4
+Schenectady City,2020,10.2
+Schenectady City,2021,6.6
+Schenectady City,2022,4.3
+Schenectady City,2023,4.5
+Schenectady City,2024,5.0
+Schenectady County,1990,3.9
+Schenectady County,1991,5.9
+Schenectady County,1992,6.4
+Schenectady County,1993,5.2
+Schenectady County,1994,4.9
+Schenectady County,1995,5.2
+Schenectady County,1996,4.7
+Schenectady County,1997,4.5
+Schenectady County,1998,4.0
+Schenectady County,1999,3.5
+Schenectady County,2000,3.5
+Schenectady County,2001,3.4
+Schenectady County,2002,4.2
+Schenectady County,2003,4.6
+Schenectady County,2004,4.5
+Schenectady County,2005,4.2
+Schenectady County,2006,4.1
+Schenectady County,2007,4.1
+Schenectady County,2008,5.0
+Schenectady County,2009,7.4
+Schenectady County,2010,7.8
+Schenectady County,2011,7.6
+Schenectady County,2012,7.8
+Schenectady County,2013,6.9
+Schenectady County,2014,5.4
+Schenectady County,2015,4.8
+Schenectady County,2016,4.4
+Schenectady County,2017,4.5
+Schenectady County,2018,4.0
+Schenectady County,2019,3.7
+Schenectady County,2020,7.7
+Schenectady County,2021,5.0
+Schenectady County,2022,3.4
+Schenectady County,2023,3.5
+Schenectady County,2024,3.9
+Schoharie County,1990,5.1
+Schoharie County,1991,7.2
+Schoharie County,1992,8.5
+Schoharie County,1993,6.9
+Schoharie County,1994,6.2
+Schoharie County,1995,6.1
+Schoharie County,1996,6.0
+Schoharie County,1997,5.9
+Schoharie County,1998,4.9
+Schoharie County,1999,5.2
+Schoharie County,2000,4.2
+Schoharie County,2001,4.2
+Schoharie County,2002,5.7
+Schoharie County,2003,5.4
+Schoharie County,2004,5.5
+Schoharie County,2005,5.1
+Schoharie County,2006,5.1
+Schoharie County,2007,5.7
+Schoharie County,2008,6.8
+Schoharie County,2009,9.0
+Schoharie County,2010,9.1
+Schoharie County,2011,9.0
+Schoharie County,2012,9.3
+Schoharie County,2013,8.3
+Schoharie County,2014,6.8
+Schoharie County,2015,5.8
+Schoharie County,2016,5.5
+Schoharie County,2017,5.4
+Schoharie County,2018,4.8
+Schoharie County,2019,4.4
+Schoharie County,2020,6.9
+Schoharie County,2021,4.6
+Schoharie County,2022,3.7
+Schoharie County,2023,4.1
+Schoharie County,2024,4.5
+Schuyler County,1990,5.6
+Schuyler County,1991,7.7
+Schuyler County,1992,8.7
+Schuyler County,1993,7.6
+Schuyler County,1994,6.9
+Schuyler County,1995,6.1
+Schuyler County,1996,5.7
+Schuyler County,1997,6.0
+Schuyler County,1998,6.0
+Schuyler County,1999,5.8
+Schuyler County,2000,4.5
+Schuyler County,2001,5.4
+Schuyler County,2002,7.0
+Schuyler County,2003,6.6
+Schuyler County,2004,6.0
+Schuyler County,2005,5.5
+Schuyler County,2006,5.1
+Schuyler County,2007,4.9
+Schuyler County,2008,5.8
+Schuyler County,2009,8.5
+Schuyler County,2010,9.3
+Schuyler County,2011,8.9
+Schuyler County,2012,9.5
+Schuyler County,2013,9.0
+Schuyler County,2014,7.1
+Schuyler County,2015,6.7
+Schuyler County,2016,6.1
+Schuyler County,2017,5.8
+Schuyler County,2018,5.1
+Schuyler County,2019,4.4
+Schuyler County,2020,8.3
+Schuyler County,2021,5.0
+Schuyler County,2022,3.8
+Schuyler County,2023,3.9
+Schuyler County,2024,4.7
+Seneca County,1990,4.7
+Seneca County,1991,6.2
+Seneca County,1992,6.6
+Seneca County,1993,6.4
+Seneca County,1994,6.1
+Seneca County,1995,6.0
+Seneca County,1996,5.3
+Seneca County,1997,5.5
+Seneca County,1998,4.9
+Seneca County,1999,5.4
+Seneca County,2000,4.1
+Seneca County,2001,4.3
+Seneca County,2002,5.5
+Seneca County,2003,5.5
+Seneca County,2004,5.3
+Seneca County,2005,4.7
+Seneca County,2006,4.5
+Seneca County,2007,4.4
+Seneca County,2008,5.5
+Seneca County,2009,7.7
+Seneca County,2010,8.4
+Seneca County,2011,8.0
+Seneca County,2012,8.1
+Seneca County,2013,7.1
+Seneca County,2014,5.7
+Seneca County,2015,5.2
+Seneca County,2016,4.8
+Seneca County,2017,4.5
+Seneca County,2018,3.8
+Seneca County,2019,3.7
+Seneca County,2020,7.8
+Seneca County,2021,4.8
+Seneca County,2022,3.3
+Seneca County,2023,3.5
+Seneca County,2024,4.0
+Smithtown Town,1990,3.7
+Smithtown Town,1991,5.8
+Smithtown Town,1992,6.9
+Smithtown Town,1993,6.1
+Smithtown Town,1994,5.1
+Smithtown Town,1995,4.5
+Smithtown Town,1996,3.8
+Smithtown Town,1997,3.5
+Smithtown Town,1998,3.0
+Smithtown Town,1999,2.9
+Smithtown Town,2000,3.2
+Smithtown Town,2001,3.4
+Smithtown Town,2002,4.4
+Smithtown Town,2003,4.3
+Smithtown Town,2004,4.2
+Smithtown Town,2005,3.7
+Smithtown Town,2006,3.4
+Smithtown Town,2007,3.3
+Smithtown Town,2008,4.3
+Smithtown Town,2009,6.4
+Smithtown Town,2010,6.9
+Smithtown Town,2011,6.6
+Smithtown Town,2012,6.7
+Smithtown Town,2013,5.8
+Smithtown Town,2014,4.5
+Smithtown Town,2015,4.0
+Smithtown Town,2016,3.8
+Smithtown Town,2017,3.8
+Smithtown Town,2018,3.3
+Smithtown Town,2019,3.1
+Smithtown Town,2020,7.3
+Smithtown Town,2021,4.0
+Smithtown Town,2022,2.6
+Smithtown Town,2023,2.9
+Smithtown Town,2024,3.1
+Southampton,1990,3.3
+Southampton,1991,5.2
+Southampton,1992,6.2
+Southampton,1993,5.5
+Southampton,1994,4.6
+Southampton,1995,4.0
+Southampton,1996,3.4
+Southampton,1997,3.1
+Southampton,1998,2.6
+Southampton,1999,2.6
+Southampton,2000,3.8
+Southampton,2001,4.0
+Southampton,2002,4.5
+Southampton,2003,4.7
+Southampton,2004,4.7
+Southampton,2005,4.2
+Southampton,2006,4.1
+Southampton,2007,3.9
+Southampton,2008,5.0
+Southampton,2009,7.5
+Southampton,2010,8.4
+Southampton,2011,8.2
+Southampton,2012,8.1
+Southampton,2013,7.1
+Southampton,2014,5.9
+Southampton,2015,5.1
+Southampton,2016,4.8
+Southampton,2017,4.8
+Southampton,2018,4.3
+Southampton,2019,3.9
+Southampton,2020,7.6
+Southampton,2021,4.7
+Southampton,2022,3.5
+Southampton,2023,3.7
+Southampton,2024,4.2
+Southern Tier,1990,4.6
+Southern Tier,1991,6.1
+Southern Tier,1992,6.9
+Southern Tier,1993,6.4
+Southern Tier,1994,6.1
+Southern Tier,1995,5.4
+Southern Tier,1996,4.7
+Southern Tier,1997,4.7
+Southern Tier,1998,4.4
+Southern Tier,1999,4.4
+Southern Tier,2000,3.8
+Southern Tier,2001,4.3
+Southern Tier,2002,5.8
+Southern Tier,2003,5.8
+Southern Tier,2004,5.4
+Southern Tier,2005,4.8
+Southern Tier,2006,4.5
+Southern Tier,2007,4.4
+Southern Tier,2008,5.4
+Southern Tier,2009,8.3
+Southern Tier,2010,8.5
+Southern Tier,2011,8.1
+Southern Tier,2012,8.4
+Southern Tier,2013,7.6
+Southern Tier,2014,6.2
+Southern Tier,2015,5.7
+Southern Tier,2016,5.4
+Southern Tier,2017,5.3
+Southern Tier,2018,4.5
+Southern Tier,2019,4.2
+Southern Tier,2020,7.6
+Southern Tier,2021,4.8
+Southern Tier,2022,3.5
+Southern Tier,2023,3.7
+Southern Tier,2024,4.1
+Spring Valley Village,2000,3.7
+Spring Valley Village,2001,3.7
+Spring Valley Village,2002,4.7
+Spring Valley Village,2003,5.3
+Spring Valley Village,2004,4.7
+Spring Valley Village,2005,4.3
+Spring Valley Village,2006,3.8
+Spring Valley Village,2007,3.8
+Spring Valley Village,2008,4.9
+Spring Valley Village,2009,7.7
+Spring Valley Village,2010,7.2
+Spring Valley Village,2011,6.9
+Spring Valley Village,2012,7.2
+Spring Valley Village,2013,6.1
+Spring Valley Village,2014,4.8
+Spring Valley Village,2015,4.3
+Spring Valley Village,2016,4.0
+Spring Valley Village,2017,4.0
+Spring Valley Village,2018,3.4
+Spring Valley Village,2019,3.2
+Spring Valley Village,2020,7.6
+Spring Valley Village,2021,4.5
+Spring Valley Village,2022,2.7
+Spring Valley Village,2023,2.9
+Spring Valley Village,2024,3.2
+St. Lawrence,1990,7.9
+St. Lawrence,1991,9.8
+St. Lawrence,1992,10.0
+St. Lawrence,1993,9.0
+St. Lawrence,1994,9.4
+St. Lawrence,1995,8.4
+St. Lawrence,1996,8.1
+St. Lawrence,1997,8.0
+St. Lawrence,1998,7.9
+St. Lawrence,1999,8.2
+St. Lawrence,2000,5.7
+St. Lawrence,2001,6.1
+St. Lawrence,2002,6.7
+St. Lawrence,2003,7.1
+St. Lawrence,2004,7.1
+St. Lawrence,2005,6.1
+St. Lawrence,2006,5.7
+St. Lawrence,2007,5.7
+St. Lawrence,2008,7.0
+St. Lawrence,2009,10.0
+St. Lawrence,2010,10.5
+St. Lawrence,2011,10.5
+St. Lawrence,2012,10.4
+St. Lawrence,2013,9.4
+St. Lawrence,2014,7.8
+St. Lawrence,2015,7.4
+St. Lawrence,2016,6.7
+St. Lawrence,2017,6.6
+St. Lawrence,2018,5.5
+St. Lawrence,2019,5.3
+St. Lawrence,2020,7.9
+St. Lawrence,2021,5.2
+St. Lawrence,2022,4.2
+St. Lawrence,2023,4.4
+St. Lawrence,2024,5.0
+St. Lawrence County,1990,7.9
+St. Lawrence County,1991,9.8
+St. Lawrence County,1992,10.0
+St. Lawrence County,1993,9.0
+St. Lawrence County,1994,9.4
+St. Lawrence County,1995,8.4
+St. Lawrence County,1996,8.1
+St. Lawrence County,1997,8.0
+St. Lawrence County,1998,7.9
+St. Lawrence County,1999,8.2
+St. Lawrence County,2000,5.7
+St. Lawrence County,2001,6.1
+St. Lawrence County,2002,6.7
+St. Lawrence County,2003,7.1
+St. Lawrence County,2004,7.1
+St. Lawrence County,2005,6.1
+St. Lawrence County,2006,5.7
+St. Lawrence County,2007,5.7
+St. Lawrence County,2008,7.0
+St. Lawrence County,2009,10.0
+St. Lawrence County,2010,10.5
+St. Lawrence County,2011,10.5
+St. Lawrence County,2012,10.4
+St. Lawrence County,2013,9.4
+St. Lawrence County,2014,7.8
+St. Lawrence County,2015,7.4
+St. Lawrence County,2016,6.7
+St. Lawrence County,2017,6.6
+St. Lawrence County,2018,5.5
+St. Lawrence County,2019,5.3
+St. Lawrence County,2020,7.9
+St. Lawrence County,2021,5.2
+St. Lawrence County,2022,4.2
+St. Lawrence County,2023,4.4
+St. Lawrence County,2024,5.0
+Steuben County,1990,5.2
+Steuben County,1991,7.3
+Steuben County,1992,8.2
+Steuben County,1993,6.7
+Steuben County,1994,6.5
+Steuben County,1995,6.7
+Steuben County,1996,6.0
+Steuben County,1997,6.6
+Steuben County,1998,6.0
+Steuben County,1999,5.6
+Steuben County,2000,4.1
+Steuben County,2001,4.9
+Steuben County,2002,7.2
+Steuben County,2003,7.4
+Steuben County,2004,6.5
+Steuben County,2005,5.7
+Steuben County,2006,5.2
+Steuben County,2007,5.2
+Steuben County,2008,6.0
+Steuben County,2009,9.8
+Steuben County,2010,9.8
+Steuben County,2011,9.2
+Steuben County,2012,9.5
+Steuben County,2013,8.7
+Steuben County,2014,7.0
+Steuben County,2015,6.4
+Steuben County,2016,5.9
+Steuben County,2017,5.7
+Steuben County,2018,4.9
+Steuben County,2019,4.4
+Steuben County,2020,7.9
+Steuben County,2021,5.0
+Steuben County,2022,3.7
+Steuben County,2023,4.0
+Steuben County,2024,4.4
+Suffolk,1990,4.4
+Suffolk,1991,6.9
+Suffolk,1992,8.3
+Suffolk,1993,7.3
+Suffolk,1994,6.2
+Suffolk,1995,5.4
+Suffolk,1996,4.6
+Suffolk,1997,4.2
+Suffolk,1998,3.6
+Suffolk,1999,3.6
+Suffolk,2000,3.4
+Suffolk,2001,3.8
+Suffolk,2002,4.7
+Suffolk,2003,4.9
+Suffolk,2004,4.7
+Suffolk,2005,4.2
+Suffolk,2006,3.9
+Suffolk,2007,3.8
+Suffolk,2008,5.0
+Suffolk,2009,7.4
+Suffolk,2010,7.9
+Suffolk,2011,7.7
+Suffolk,2012,7.9
+Suffolk,2013,6.8
+Suffolk,2014,5.4
+Suffolk,2015,4.8
+Suffolk,2016,4.4
+Suffolk,2017,4.4
+Suffolk,2018,3.8
+Suffolk,2019,3.5
+Suffolk,2020,8.2
+Suffolk,2021,4.6
+Suffolk,2022,3.2
+Suffolk,2023,3.4
+Suffolk,2024,3.7
+Suffolk County,1990,4.4
+Suffolk County,1991,6.9
+Suffolk County,1992,8.3
+Suffolk County,1993,7.3
+Suffolk County,1994,6.2
+Suffolk County,1995,5.4
+Suffolk County,1996,4.6
+Suffolk County,1997,4.2
+Suffolk County,1998,3.6
+Suffolk County,1999,3.6
+Suffolk County,2000,3.4
+Suffolk County,2001,3.8
+Suffolk County,2002,4.7
+Suffolk County,2003,4.9
+Suffolk County,2004,4.7
+Suffolk County,2005,4.2
+Suffolk County,2006,3.9
+Suffolk County,2007,3.8
+Suffolk County,2008,5.0
+Suffolk County,2009,7.4
+Suffolk County,2010,7.9
+Suffolk County,2011,7.7
+Suffolk County,2012,7.9
+Suffolk County,2013,6.8
+Suffolk County,2014,5.4
+Suffolk County,2015,4.8
+Suffolk County,2016,4.4
+Suffolk County,2017,4.4
+Suffolk County,2018,3.8
+Suffolk County,2019,3.5
+Suffolk County,2020,8.2
+Suffolk County,2021,4.6
+Suffolk County,2022,3.2
+Suffolk County,2023,3.4
+Suffolk County,2024,3.7
+Sullivan,1990,5.2
+Sullivan,1991,8.2
+Sullivan,1992,9.3
+Sullivan,1993,8.3
+Sullivan,1994,7.5
+Sullivan,1995,6.4
+Sullivan,1996,6.5
+Sullivan,1997,6.6
+Sullivan,1998,6.2
+Sullivan,1999,5.8
+Sullivan,2000,4.4
+Sullivan,2001,4.6
+Sullivan,2002,5.1
+Sullivan,2003,5.3
+Sullivan,2004,5.4
+Sullivan,2005,4.9
+Sullivan,2006,5.0
+Sullivan,2007,5.1
+Sullivan,2008,6.4
+Sullivan,2009,8.8
+Sullivan,2010,9.1
+Sullivan,2011,8.9
+Sullivan,2012,9.3
+Sullivan,2013,8.4
+Sullivan,2014,6.6
+Sullivan,2015,5.5
+Sullivan,2016,4.9
+Sullivan,2017,4.9
+Sullivan,2018,4.1
+Sullivan,2019,3.8
+Sullivan,2020,8.4
+Sullivan,2021,4.9
+Sullivan,2022,3.3
+Sullivan,2023,3.3
+Sullivan,2024,3.7
+Sullivan County,1990,5.2
+Sullivan County,1991,8.2
+Sullivan County,1992,9.3
+Sullivan County,1993,8.3
+Sullivan County,1994,7.5
+Sullivan County,1995,6.4
+Sullivan County,1996,6.5
+Sullivan County,1997,6.6
+Sullivan County,1998,6.2
+Sullivan County,1999,5.8
+Sullivan County,2000,4.4
+Sullivan County,2001,4.6
+Sullivan County,2002,5.1
+Sullivan County,2003,5.3
+Sullivan County,2004,5.4
+Sullivan County,2005,4.9
+Sullivan County,2006,5.0
+Sullivan County,2007,5.1
+Sullivan County,2008,6.4
+Sullivan County,2009,8.8
+Sullivan County,2010,9.1
+Sullivan County,2011,8.9
+Sullivan County,2012,9.3
+Sullivan County,2013,8.4
+Sullivan County,2014,6.6
+Sullivan County,2015,5.5
+Sullivan County,2016,4.9
+Sullivan County,2017,4.9
+Sullivan County,2018,4.1
+Sullivan County,2019,3.8
+Sullivan County,2020,8.4
+Sullivan County,2021,4.9
+Sullivan County,2022,3.3
+Sullivan County,2023,3.3
+Sullivan County,2024,3.7
+Syracuse City,1990,6.1
+Syracuse City,1991,9.4
+Syracuse City,1992,10.4
+Syracuse City,1993,9.4
+Syracuse City,1994,8.1
+Syracuse City,1995,7.3
+Syracuse City,1996,6.6
+Syracuse City,1997,6.2
+Syracuse City,1998,5.6
+Syracuse City,1999,5.6
+Syracuse City,2000,4.2
+Syracuse City,2001,4.9
+Syracuse City,2002,6.0
+Syracuse City,2003,6.2
+Syracuse City,2004,6.3
+Syracuse City,2005,5.6
+Syracuse City,2006,5.3
+Syracuse City,2007,5.0
+Syracuse City,2008,6.4
+Syracuse City,2009,9.6
+Syracuse City,2010,10.3
+Syracuse City,2011,10.0
+Syracuse City,2012,10.3
+Syracuse City,2013,9.0
+Syracuse City,2014,7.3
+Syracuse City,2015,6.6
+Syracuse City,2016,6.0
+Syracuse City,2017,6.1
+Syracuse City,2018,5.2
+Syracuse City,2019,5.0
+Syracuse City,2020,11.0
+Syracuse City,2021,7.0
+Syracuse City,2022,4.7
+Syracuse City,2023,4.8
+Syracuse City,2024,5.2
+Syracuse Metro Area,1990,4.5
+Syracuse Metro Area,1991,6.8
+Syracuse Metro Area,1992,7.4
+Syracuse Metro Area,1993,6.6
+Syracuse Metro Area,1994,5.8
+Syracuse Metro Area,1995,5.4
+Syracuse Metro Area,1996,4.7
+Syracuse Metro Area,1997,4.5
+Syracuse Metro Area,1998,4.0
+Syracuse Metro Area,1999,4.1
+Syracuse Metro Area,2000,3.8
+Syracuse Metro Area,2001,4.3
+Syracuse Metro Area,2002,5.2
+Syracuse Metro Area,2003,5.6
+Syracuse Metro Area,2004,5.5
+Syracuse Metro Area,2005,4.9
+Syracuse Metro Area,2006,4.6
+Syracuse Metro Area,2007,4.3
+Syracuse Metro Area,2008,5.5
+Syracuse Metro Area,2009,8.2
+Syracuse Metro Area,2010,8.7
+Syracuse Metro Area,2011,8.4
+Syracuse Metro Area,2012,8.6
+Syracuse Metro Area,2013,7.7
+Syracuse Metro Area,2014,6.1
+Syracuse Metro Area,2015,5.4
+Syracuse Metro Area,2016,5.0
+Syracuse Metro Area,2017,5.0
+Syracuse Metro Area,2018,4.3
+Syracuse Metro Area,2019,4.1
+Syracuse Metro Area,2020,8.1
+Syracuse Metro Area,2021,5.0
+Syracuse Metro Area,2022,3.5
+Syracuse Metro Area,2023,3.7
+Syracuse Metro Area,2024,4.1
+Tioga County,1990,4.4
+Tioga County,1991,5.9
+Tioga County,1992,6.7
+Tioga County,1993,6.5
+Tioga County,1994,6.8
+Tioga County,1995,5.6
+Tioga County,1996,4.6
+Tioga County,1997,4.0
+Tioga County,1998,3.7
+Tioga County,1999,3.7
+Tioga County,2000,3.4
+Tioga County,2001,4.1
+Tioga County,2002,5.6
+Tioga County,2003,5.7
+Tioga County,2004,5.3
+Tioga County,2005,4.7
+Tioga County,2006,4.3
+Tioga County,2007,4.6
+Tioga County,2008,5.2
+Tioga County,2009,8.2
+Tioga County,2010,8.1
+Tioga County,2011,7.8
+Tioga County,2012,8.0
+Tioga County,2013,7.3
+Tioga County,2014,6.1
+Tioga County,2015,5.6
+Tioga County,2016,5.2
+Tioga County,2017,5.1
+Tioga County,2018,4.3
+Tioga County,2019,4.0
+Tioga County,2020,7.5
+Tioga County,2021,4.5
+Tioga County,2022,3.3
+Tioga County,2023,3.4
+Tioga County,2024,3.8
+Tompkins,1990,3.7
+Tompkins,1991,4.3
+Tompkins,1992,4.8
+Tompkins,1993,4.1
+Tompkins,1994,3.8
+Tompkins,1995,3.5
+Tompkins,1996,3.0
+Tompkins,1997,3.1
+Tompkins,1998,2.9
+Tompkins,1999,2.8
+Tompkins,2000,3.3
+Tompkins,2001,3.4
+Tompkins,2002,4.1
+Tompkins,2003,4.0
+Tompkins,2004,4.1
+Tompkins,2005,3.6
+Tompkins,2006,3.4
+Tompkins,2007,3.3
+Tompkins,2008,4.1
+Tompkins,2009,6.0
+Tompkins,2010,6.3
+Tompkins,2011,6.1
+Tompkins,2012,6.2
+Tompkins,2013,5.4
+Tompkins,2014,4.4
+Tompkins,2015,4.4
+Tompkins,2016,4.2
+Tompkins,2017,4.3
+Tompkins,2018,3.6
+Tompkins,2019,3.5
+Tompkins,2020,5.9
+Tompkins,2021,3.8
+Tompkins,2022,2.9
+Tompkins,2023,3.1
+Tompkins,2024,3.5
+Tompkins County,1990,3.7
+Tompkins County,1991,4.3
+Tompkins County,1992,4.8
+Tompkins County,1993,4.1
+Tompkins County,1994,3.8
+Tompkins County,1995,3.5
+Tompkins County,1996,3.0
+Tompkins County,1997,3.1
+Tompkins County,1998,2.9
+Tompkins County,1999,2.8
+Tompkins County,2000,3.3
+Tompkins County,2001,3.4
+Tompkins County,2002,4.1
+Tompkins County,2003,4.0
+Tompkins County,2004,4.1
+Tompkins County,2005,3.6
+Tompkins County,2006,3.4
+Tompkins County,2007,3.3
+Tompkins County,2008,4.1
+Tompkins County,2009,6.0
+Tompkins County,2010,6.3
+Tompkins County,2011,6.1
+Tompkins County,2012,6.2
+Tompkins County,2013,5.4
+Tompkins County,2014,4.4
+Tompkins County,2015,4.4
+Tompkins County,2016,4.2
+Tompkins County,2017,4.3
+Tompkins County,2018,3.6
+Tompkins County,2019,3.5
+Tompkins County,2020,5.9
+Tompkins County,2021,3.8
+Tompkins County,2022,2.9
+Tompkins County,2023,3.1
+Tompkins County,2024,3.5
+Tonawanda Town,1990,3.3
+Tonawanda Town,1991,4.4
+Tonawanda Town,1992,4.7
+Tonawanda Town,1993,4.2
+Tonawanda Town,1994,3.7
+Tonawanda Town,1995,3.3
+Tonawanda Town,1996,3.1
+Tonawanda Town,1997,3.2
+Tonawanda Town,1998,3.2
+Tonawanda Town,1999,3.2
+Tonawanda Town,2000,3.7
+Tonawanda Town,2001,4.0
+Tonawanda Town,2002,4.8
+Tonawanda Town,2003,5.2
+Tonawanda Town,2004,5.3
+Tonawanda Town,2005,4.8
+Tonawanda Town,2006,4.5
+Tonawanda Town,2007,4.2
+Tonawanda Town,2008,5.2
+Tonawanda Town,2009,7.7
+Tonawanda Town,2010,7.5
+Tonawanda Town,2011,7.0
+Tonawanda Town,2012,7.4
+Tonawanda Town,2013,6.7
+Tonawanda Town,2014,5.4
+Tonawanda Town,2015,4.7
+Tonawanda Town,2016,4.3
+Tonawanda Town,2017,4.5
+Tonawanda Town,2018,3.9
+Tonawanda Town,2019,3.6
+Tonawanda Town,2020,8.5
+Tonawanda Town,2021,4.7
+Tonawanda Town,2022,3.2
+Tonawanda Town,2023,3.4
+Tonawanda Town,2024,3.8
+Troy City,1990,5.8
+Troy City,1991,8.8
+Troy City,1992,9.2
+Troy City,1993,7.6
+Troy City,1994,7.6
+Troy City,1995,7.7
+Troy City,1996,7.0
+Troy City,1997,6.6
+Troy City,1998,5.8
+Troy City,1999,5.6
+Troy City,2000,4.3
+Troy City,2001,4.4
+Troy City,2002,5.6
+Troy City,2003,5.7
+Troy City,2004,5.7
+Troy City,2005,5.1
+Troy City,2006,5.1
+Troy City,2007,5.3
+Troy City,2008,6.4
+Troy City,2009,9.1
+Troy City,2010,9.6
+Troy City,2011,9.6
+Troy City,2012,9.8
+Troy City,2013,8.6
+Troy City,2014,6.8
+Troy City,2015,5.9
+Troy City,2016,5.6
+Troy City,2017,5.6
+Troy City,2018,4.8
+Troy City,2019,4.6
+Troy City,2020,9.1
+Troy City,2021,5.9
+Troy City,2022,4.1
+Troy City,2023,4.3
+Troy City,2024,4.8
+Ulster,1990,3.7
+Ulster,1991,6.0
+Ulster,1992,6.8
+Ulster,1993,7.4
+Ulster,1994,6.6
+Ulster,1995,5.4
+Ulster,1996,4.5
+Ulster,1997,4.1
+Ulster,1998,3.5
+Ulster,1999,3.5
+Ulster,2000,3.6
+Ulster,2001,3.8
+Ulster,2002,4.4
+Ulster,2003,4.6
+Ulster,2004,4.9
+Ulster,2005,4.4
+Ulster,2006,4.1
+Ulster,2007,4.3
+Ulster,2008,5.4
+Ulster,2009,7.8
+Ulster,2010,8.0
+Ulster,2011,7.9
+Ulster,2012,8.4
+Ulster,2013,7.3
+Ulster,2014,5.8
+Ulster,2015,4.9
+Ulster,2016,4.5
+Ulster,2017,4.5
+Ulster,2018,3.9
+Ulster,2019,3.6
+Ulster,2020,7.7
+Ulster,2021,4.7
+Ulster,2022,3.2
+Ulster,2023,3.4
+Ulster,2024,3.8
+Ulster County,1990,3.7
+Ulster County,1991,6.0
+Ulster County,1992,6.8
+Ulster County,1993,7.4
+Ulster County,1994,6.6
+Ulster County,1995,5.4
+Ulster County,1996,4.5
+Ulster County,1997,4.1
+Ulster County,1998,3.5
+Ulster County,1999,3.5
+Ulster County,2000,3.6
+Ulster County,2001,3.8
+Ulster County,2002,4.4
+Ulster County,2003,4.6
+Ulster County,2004,4.9
+Ulster County,2005,4.4
+Ulster County,2006,4.1
+Ulster County,2007,4.3
+Ulster County,2008,5.4
+Ulster County,2009,7.8
+Ulster County,2010,8.0
+Ulster County,2011,7.9
+Ulster County,2012,8.4
+Ulster County,2013,7.3
+Ulster County,2014,5.8
+Ulster County,2015,4.9
+Ulster County,2016,4.5
+Ulster County,2017,4.5
+Ulster County,2018,3.9
+Ulster County,2019,3.6
+Ulster County,2020,7.7
+Ulster County,2021,4.7
+Ulster County,2022,3.2
+Ulster County,2023,3.4
+Ulster County,2024,3.8
+Union Town,1990,3.3
+Union Town,1991,4.7
+Union Town,1992,5.4
+Union Town,1993,5.6
+Union Town,1994,5.3
+Union Town,1995,4.2
+Union Town,1996,3.5
+Union Town,1997,3.4
+Union Town,1998,3.2
+Union Town,1999,3.2
+Union Town,2000,3.4
+Union Town,2001,4.2
+Union Town,2002,5.8
+Union Town,2003,5.6
+Union Town,2004,5.1
+Union Town,2005,4.6
+Union Town,2006,4.4
+Union Town,2007,4.2
+Union Town,2008,5.1
+Union Town,2009,8.0
+Union Town,2010,8.3
+Union Town,2011,8.2
+Union Town,2012,8.6
+Union Town,2013,7.7
+Union Town,2014,6.2
+Union Town,2015,5.6
+Union Town,2016,5.1
+Union Town,2017,5.2
+Union Town,2018,4.6
+Union Town,2019,4.2
+Union Town,2020,8.5
+Union Town,2021,5.2
+Union Town,2022,3.6
+Union Town,2023,3.7
+Union Town,2024,4.2
+Utica City,1990,6.3
+Utica City,1991,9.3
+Utica City,1992,9.9
+Utica City,1993,8.8
+Utica City,1994,7.4
+Utica City,1995,7.2
+Utica City,1996,7.0
+Utica City,1997,6.9
+Utica City,1998,6.0
+Utica City,1999,5.7
+Utica City,2000,4.2
+Utica City,2001,4.8
+Utica City,2002,6.4
+Utica City,2003,6.2
+Utica City,2004,5.8
+Utica City,2005,5.3
+Utica City,2006,5.1
+Utica City,2007,4.7
+Utica City,2008,5.9
+Utica City,2009,8.6
+Utica City,2010,9.3
+Utica City,2011,9.6
+Utica City,2012,10.1
+Utica City,2013,9.0
+Utica City,2014,7.6
+Utica City,2015,6.4
+Utica City,2016,5.8
+Utica City,2017,6.0
+Utica City,2018,5.2
+Utica City,2019,4.9
+Utica City,2020,10.3
+Utica City,2021,6.9
+Utica City,2022,4.8
+Utica City,2023,4.8
+Utica City,2024,5.0
+Utica-Rome Metro Area,1990,4.8
+Utica-Rome Metro Area,1991,7.1
+Utica-Rome Metro Area,1992,7.5
+Utica-Rome Metro Area,1993,6.6
+Utica-Rome Metro Area,1994,5.6
+Utica-Rome Metro Area,1995,5.5
+Utica-Rome Metro Area,1996,5.3
+Utica-Rome Metro Area,1997,5.3
+Utica-Rome Metro Area,1998,4.6
+Utica-Rome Metro Area,1999,4.2
+Utica-Rome Metro Area,2000,4.0
+Utica-Rome Metro Area,2001,4.5
+Utica-Rome Metro Area,2002,5.4
+Utica-Rome Metro Area,2003,5.6
+Utica-Rome Metro Area,2004,5.3
+Utica-Rome Metro Area,2005,4.9
+Utica-Rome Metro Area,2006,4.5
+Utica-Rome Metro Area,2007,4.3
+Utica-Rome Metro Area,2008,5.5
+Utica-Rome Metro Area,2009,7.6
+Utica-Rome Metro Area,2010,8.0
+Utica-Rome Metro Area,2011,8.2
+Utica-Rome Metro Area,2012,8.5
+Utica-Rome Metro Area,2013,7.7
+Utica-Rome Metro Area,2014,6.3
+Utica-Rome Metro Area,2015,5.6
+Utica-Rome Metro Area,2016,5.1
+Utica-Rome Metro Area,2017,5.1
+Utica-Rome Metro Area,2018,4.5
+Utica-Rome Metro Area,2019,4.2
+Utica-Rome Metro Area,2020,7.8
+Utica-Rome Metro Area,2021,5.3
+Utica-Rome Metro Area,2022,3.7
+Utica-Rome Metro Area,2023,3.8
+Utica-Rome Metro Area,2024,4.3
+Valley Stream,1990,4.2
+Valley Stream,1991,6.4
+Valley Stream,1992,8.0
+Valley Stream,1993,6.7
+Valley Stream,1994,5.7
+Valley Stream,1995,5.1
+Valley Stream,1996,4.2
+Valley Stream,1997,4.0
+Valley Stream,1998,3.3
+Valley Stream,1999,3.3
+Valley Stream,2000,3.3
+Valley Stream,2001,3.8
+Valley Stream,2002,4.7
+Valley Stream,2003,4.8
+Valley Stream,2004,4.8
+Valley Stream,2005,4.2
+Valley Stream,2006,4.0
+Valley Stream,2007,3.8
+Valley Stream,2008,4.8
+Valley Stream,2009,7.6
+Valley Stream,2010,7.7
+Valley Stream,2011,7.6
+Valley Stream,2012,7.7
+Valley Stream,2013,6.6
+Valley Stream,2014,5.4
+Valley Stream,2015,4.7
+Valley Stream,2016,4.3
+Valley Stream,2017,4.4
+Valley Stream,2018,3.7
+Valley Stream,2019,3.7
+Valley Stream,2020,9.6
+Valley Stream,2021,5.1
+Valley Stream,2022,3.2
+Valley Stream,2023,3.5
+Valley Stream,2024,3.8
+Vestal Town,1990,2.9
+Vestal Town,1991,4.0
+Vestal Town,1992,4.7
+Vestal Town,1993,4.8
+Vestal Town,1994,4.6
+Vestal Town,1995,3.6
+Vestal Town,1996,3.0
+Vestal Town,1997,2.9
+Vestal Town,1998,2.8
+Vestal Town,1999,2.8
+Vestal Town,2000,3.8
+Vestal Town,2001,4.0
+Vestal Town,2002,5.2
+Vestal Town,2003,5.3
+Vestal Town,2004,5.0
+Vestal Town,2005,4.5
+Vestal Town,2006,4.3
+Vestal Town,2007,4.1
+Vestal Town,2008,5.1
+Vestal Town,2009,7.5
+Vestal Town,2010,8.5
+Vestal Town,2011,8.5
+Vestal Town,2012,8.6
+Vestal Town,2013,7.8
+Vestal Town,2014,6.6
+Vestal Town,2015,5.9
+Vestal Town,2016,5.6
+Vestal Town,2017,5.8
+Vestal Town,2018,4.8
+Vestal Town,2019,4.6
+Vestal Town,2020,6.5
+Vestal Town,2021,4.5
+Vestal Town,2022,3.7
+Vestal Town,2023,3.9
+Vestal Town,2024,4.4
+Wallkill Town Ny,1997,3.8
+Wallkill Town Ny,1998,3.1
+Wallkill Town Ny,1999,3.3
+Wallkill Town Ny,2000,3.1
+Wallkill Town Ny,2001,3.2
+Wallkill Town Ny,2002,4.1
+Wallkill Town Ny,2003,4.5
+Wallkill Town Ny,2004,4.6
+Wallkill Town Ny,2005,4.0
+Wallkill Town Ny,2006,4.0
+Wallkill Town Ny,2007,4.1
+Wallkill Town Ny,2008,5.1
+Wallkill Town Ny,2009,7.5
+Wallkill Town Ny,2010,7.9
+Wallkill Town Ny,2011,7.7
+Wallkill Town Ny,2012,7.9
+Wallkill Town Ny,2013,6.9
+Wallkill Town Ny,2014,5.6
+Wallkill Town Ny,2015,4.6
+Wallkill Town Ny,2016,4.1
+Wallkill Town Ny,2017,4.4
+Wallkill Town Ny,2018,3.7
+Wallkill Town Ny,2019,3.5
+Wallkill Town Ny,2020,8.3
+Wallkill Town Ny,2021,4.7
+Wallkill Town Ny,2022,3.3
+Wallkill Town Ny,2023,3.5
+Wallkill Town Ny,2024,4.1
+Wappinger Town,1990,2.7
+Wappinger Town,1991,4.8
+Wappinger Town,1992,6.3
+Wappinger Town,1993,8.0
+Wappinger Town,1994,6.4
+Wappinger Town,1995,4.6
+Wappinger Town,1996,3.9
+Wappinger Town,1997,3.8
+Wappinger Town,1998,3.1
+Wappinger Town,1999,3.2
+Wappinger Town,2000,2.9
+Wappinger Town,2001,3.4
+Wappinger Town,2002,4.2
+Wappinger Town,2003,4.1
+Wappinger Town,2004,4.2
+Wappinger Town,2005,4.0
+Wappinger Town,2006,3.8
+Wappinger Town,2007,3.8
+Wappinger Town,2008,5.0
+Wappinger Town,2009,8.1
+Wappinger Town,2010,7.8
+Wappinger Town,2011,7.3
+Wappinger Town,2012,7.9
+Wappinger Town,2013,6.6
+Wappinger Town,2014,5.1
+Wappinger Town,2015,4.2
+Wappinger Town,2016,4.1
+Wappinger Town,2017,4.1
+Wappinger Town,2018,3.6
+Wappinger Town,2019,3.3
+Wappinger Town,2020,7.6
+Wappinger Town,2021,4.5
+Wappinger Town,2022,2.9
+Wappinger Town,2023,3.2
+Wappinger Town,2024,3.5
+Warren County,1990,5.9
+Warren County,1991,8.8
+Warren County,1992,9.7
+Warren County,1993,8.5
+Warren County,1994,7.7
+Warren County,1995,7.1
+Warren County,1996,6.9
+Warren County,1997,6.9
+Warren County,1998,6.3
+Warren County,1999,5.9
+Warren County,2000,4.2
+Warren County,2001,4.5
+Warren County,2002,5.1
+Warren County,2003,5.2
+Warren County,2004,5.0
+Warren County,2005,4.6
+Warren County,2006,4.5
+Warren County,2007,4.4
+Warren County,2008,5.6
+Warren County,2009,8.1
+Warren County,2010,9.2
+Warren County,2011,9.0
+Warren County,2012,9.3
+Warren County,2013,8.4
+Warren County,2014,6.7
+Warren County,2015,5.6
+Warren County,2016,5.4
+Warren County,2017,5.3
+Warren County,2018,4.6
+Warren County,2019,4.4
+Warren County,2020,8.2
+Warren County,2021,5.0
+Warren County,2022,3.6
+Warren County,2023,3.7
+Warren County,2024,4.3
+Warwick Town,1990,3.3
+Warwick Town,1991,4.7
+Warwick Town,1992,5.0
+Warwick Town,1993,4.6
+Warwick Town,1994,4.1
+Warwick Town,1995,3.8
+Warwick Town,1996,3.3
+Warwick Town,1997,3.2
+Warwick Town,1998,2.6
+Warwick Town,1999,2.7
+Warwick Town,2000,3.0
+Warwick Town,2001,3.2
+Warwick Town,2002,3.8
+Warwick Town,2003,4.3
+Warwick Town,2004,4.4
+Warwick Town,2005,3.9
+Warwick Town,2006,3.7
+Warwick Town,2007,3.8
+Warwick Town,2008,4.5
+Warwick Town,2009,6.8
+Warwick Town,2010,7.2
+Warwick Town,2011,7.0
+Warwick Town,2012,7.1
+Warwick Town,2013,6.1
+Warwick Town,2014,5.0
+Warwick Town,2015,4.2
+Warwick Town,2016,4.1
+Warwick Town,2017,4.3
+Warwick Town,2018,3.6
+Warwick Town,2019,3.4
+Warwick Town,2020,7.1
+Warwick Town,2021,4.2
+Warwick Town,2022,2.9
+Warwick Town,2023,3.2
+Warwick Town,2024,3.6
+Washington County,1990,5.4
+Washington County,1991,7.4
+Washington County,1992,8.2
+Washington County,1993,6.8
+Washington County,1994,6.3
+Washington County,1995,5.9
+Washington County,1996,5.6
+Washington County,1997,5.9
+Washington County,1998,4.9
+Washington County,1999,4.6
+Washington County,2000,3.7
+Washington County,2001,4.0
+Washington County,2002,4.7
+Washington County,2003,4.6
+Washington County,2004,4.8
+Washington County,2005,4.5
+Washington County,2006,4.1
+Washington County,2007,4.1
+Washington County,2008,5.3
+Washington County,2009,7.6
+Washington County,2010,8.4
+Washington County,2011,8.2
+Washington County,2012,8.4
+Washington County,2013,7.7
+Washington County,2014,6.1
+Washington County,2015,5.1
+Washington County,2016,4.7
+Washington County,2017,4.6
+Washington County,2018,4.1
+Washington County,2019,3.9
+Washington County,2020,7.0
+Washington County,2021,4.7
+Washington County,2022,3.3
+Washington County,2023,3.4
+Washington County,2024,4.0
+Watertown City,1990,9.1
+Watertown City,1991,11.5
+Watertown City,1992,12.8
+Watertown City,1993,11.8
+Watertown City,1994,10.6
+Watertown City,1995,9.4
+Watertown City,1996,8.9
+Watertown City,1997,9.4
+Watertown City,1998,9.8
+Watertown City,1999,9.5
+Watertown City,2000,5.1
+Watertown City,2001,5.5
+Watertown City,2002,6.0
+Watertown City,2003,6.2
+Watertown City,2004,6.3
+Watertown City,2005,5.2
+Watertown City,2006,4.8
+Watertown City,2007,4.8
+Watertown City,2008,6.0
+Watertown City,2009,8.5
+Watertown City,2010,8.8
+Watertown City,2011,9.3
+Watertown City,2012,9.1
+Watertown City,2013,8.6
+Watertown City,2014,6.5
+Watertown City,2015,5.8
+Watertown City,2016,5.5
+Watertown City,2017,5.9
+Watertown City,2018,5.1
+Watertown City,2019,5.2
+Watertown City,2020,9.6
+Watertown City,2021,5.6
+Watertown City,2022,4.0
+Watertown City,2023,4.2
+Watertown City,2024,4.6
+Watertown-Fort Drum Metro Area,1990,8.8
+Watertown-Fort Drum Metro Area,1991,11.0
+Watertown-Fort Drum Metro Area,1992,12.3
+Watertown-Fort Drum Metro Area,1993,11.3
+Watertown-Fort Drum Metro Area,1994,10.2
+Watertown-Fort Drum Metro Area,1995,9.0
+Watertown-Fort Drum Metro Area,1996,8.5
+Watertown-Fort Drum Metro Area,1997,8.9
+Watertown-Fort Drum Metro Area,1998,9.4
+Watertown-Fort Drum Metro Area,1999,9.1
+Watertown-Fort Drum Metro Area,2000,5.9
+Watertown-Fort Drum Metro Area,2001,6.3
+Watertown-Fort Drum Metro Area,2002,6.8
+Watertown-Fort Drum Metro Area,2003,6.9
+Watertown-Fort Drum Metro Area,2004,7.0
+Watertown-Fort Drum Metro Area,2005,6.2
+Watertown-Fort Drum Metro Area,2006,5.5
+Watertown-Fort Drum Metro Area,2007,5.4
+Watertown-Fort Drum Metro Area,2008,6.8
+Watertown-Fort Drum Metro Area,2009,9.0
+Watertown-Fort Drum Metro Area,2010,9.4
+Watertown-Fort Drum Metro Area,2011,9.8
+Watertown-Fort Drum Metro Area,2012,10.0
+Watertown-Fort Drum Metro Area,2013,9.5
+Watertown-Fort Drum Metro Area,2014,7.7
+Watertown-Fort Drum Metro Area,2015,6.6
+Watertown-Fort Drum Metro Area,2016,6.4
+Watertown-Fort Drum Metro Area,2017,6.5
+Watertown-Fort Drum Metro Area,2018,5.5
+Watertown-Fort Drum Metro Area,2019,5.3
+Watertown-Fort Drum Metro Area,2020,8.4
+Watertown-Fort Drum Metro Area,2021,5.1
+Watertown-Fort Drum Metro Area,2022,4.1
+Watertown-Fort Drum Metro Area,2023,4.4
+Watertown-Fort Drum Metro Area,2024,5.0
+Wayne County,1990,4.8
+Wayne County,1991,6.5
+Wayne County,1992,7.4
+Wayne County,1993,6.2
+Wayne County,1994,6.0
+Wayne County,1995,5.6
+Wayne County,1996,5.0
+Wayne County,1997,4.8
+Wayne County,1998,4.7
+Wayne County,1999,4.9
+Wayne County,2000,3.8
+Wayne County,2001,4.6
+Wayne County,2002,6.3
+Wayne County,2003,6.0
+Wayne County,2004,5.6
+Wayne County,2005,4.9
+Wayne County,2006,4.7
+Wayne County,2007,4.6
+Wayne County,2008,5.8
+Wayne County,2009,8.4
+Wayne County,2010,9.0
+Wayne County,2011,8.5
+Wayne County,2012,8.7
+Wayne County,2013,7.8
+Wayne County,2014,6.2
+Wayne County,2015,5.4
+Wayne County,2016,5.1
+Wayne County,2017,4.9
+Wayne County,2018,4.1
+Wayne County,2019,3.8
+Wayne County,2020,7.2
+Wayne County,2021,4.5
+Wayne County,2022,3.2
+Wayne County,2023,3.4
+Wayne County,2024,4.0
+Webster Town,1990,1.9
+Webster Town,1991,2.5
+Webster Town,1992,2.8
+Webster Town,1993,2.6
+Webster Town,1994,2.8
+Webster Town,1995,2.2
+Webster Town,1996,2.0
+Webster Town,1997,2.1
+Webster Town,1998,2.1
+Webster Town,1999,2.2
+Webster Town,2000,2.9
+Webster Town,2001,3.5
+Webster Town,2002,4.7
+Webster Town,2003,4.7
+Webster Town,2004,4.2
+Webster Town,2005,3.7
+Webster Town,2006,3.5
+Webster Town,2007,3.5
+Webster Town,2008,4.3
+Webster Town,2009,6.5
+Webster Town,2010,6.7
+Webster Town,2011,6.4
+Webster Town,2012,6.4
+Webster Town,2013,5.8
+Webster Town,2014,4.6
+Webster Town,2015,4.3
+Webster Town,2016,4.0
+Webster Town,2017,3.9
+Webster Town,2018,3.4
+Webster Town,2019,3.2
+Webster Town,2020,6.3
+Webster Town,2021,3.8
+Webster Town,2022,2.7
+Webster Town,2023,2.9
+Webster Town,2024,3.4
+West Seneca Town,1990,3.7
+West Seneca Town,1991,4.9
+West Seneca Town,1992,5.2
+West Seneca Town,1993,4.7
+West Seneca Town,1994,4.1
+West Seneca Town,1995,3.6
+West Seneca Town,1996,3.4
+West Seneca Town,1997,3.5
+West Seneca Town,1998,3.6
+West Seneca Town,1999,3.6
+West Seneca Town,2000,3.9
+West Seneca Town,2001,4.4
+West Seneca Town,2002,5.1
+West Seneca Town,2003,5.2
+West Seneca Town,2004,5.2
+West Seneca Town,2005,4.6
+West Seneca Town,2006,4.3
+West Seneca Town,2007,4.2
+West Seneca Town,2008,5.2
+West Seneca Town,2009,7.6
+West Seneca Town,2010,7.5
+West Seneca Town,2011,7.2
+West Seneca Town,2012,7.5
+West Seneca Town,2013,7.0
+West Seneca Town,2014,5.7
+West Seneca Town,2015,5.0
+West Seneca Town,2016,4.5
+West Seneca Town,2017,4.6
+West Seneca Town,2018,4.1
+West Seneca Town,2019,3.8
+West Seneca Town,2020,8.3
+West Seneca Town,2021,5.0
+West Seneca Town,2022,3.3
+West Seneca Town,2023,3.3
+West Seneca Town,2024,3.8
+Westchester County,1990,3.5
+Westchester County,1991,5.4
+Westchester County,1992,6.3
+Westchester County,1993,5.6
+Westchester County,1994,4.9
+Westchester County,1995,4.4
+Westchester County,1996,4.1
+Westchester County,1997,3.7
+Westchester County,1998,3.3
+Westchester County,1999,3.4
+Westchester County,2000,3.4
+Westchester County,2001,3.8
+Westchester County,2002,4.6
+Westchester County,2003,4.6
+Westchester County,2004,4.5
+Westchester County,2005,4.0
+Westchester County,2006,3.8
+Westchester County,2007,3.6
+Westchester County,2008,4.8
+Westchester County,2009,7.2
+Westchester County,2010,7.5
+Westchester County,2011,7.1
+Westchester County,2012,7.4
+Westchester County,2013,6.4
+Westchester County,2014,5.2
+Westchester County,2015,4.6
+Westchester County,2016,4.4
+Westchester County,2017,4.5
+Westchester County,2018,3.9
+Westchester County,2019,3.6
+Westchester County,2020,8.1
+Westchester County,2021,4.9
+Westchester County,2022,3.2
+Westchester County,2023,3.4
+Westchester County,2024,3.8
+Western New York,1990,5.4
+Western New York,1991,7.3
+Western New York,1992,7.9
+Western New York,1993,7.0
+Western New York,1994,6.3
+Western New York,1995,5.6
+Western New York,1996,5.3
+Western New York,1997,5.6
+Western New York,1998,5.6
+Western New York,1999,5.4
+Western New York,2000,4.3
+Western New York,2001,4.8
+Western New York,2002,5.6
+Western New York,2003,6.0
+Western New York,2004,5.9
+Western New York,2005,5.2
+Western New York,2006,5.0
+Western New York,2007,4.7
+Western New York,2008,5.8
+Western New York,2009,8.5
+Western New York,2010,8.8
+Western New York,2011,8.4
+Western New York,2012,8.7
+Western New York,2013,7.9
+Western New York,2014,6.4
+Western New York,2015,5.6
+Western New York,2016,5.3
+Western New York,2017,5.5
+Western New York,2018,4.6
+Western New York,2019,4.3
+Western New York,2020,9.2
+Western New York,2021,5.5
+Western New York,2022,3.8
+Western New York,2023,3.9
+Western New York,2024,4.4
+White Plains City,1990,3.7
+White Plains City,1991,5.6
+White Plains City,1992,6.6
+White Plains City,1993,5.8
+White Plains City,1994,5.1
+White Plains City,1995,4.6
+White Plains City,1996,4.3
+White Plains City,1997,3.9
+White Plains City,1998,3.5
+White Plains City,1999,3.5
+White Plains City,2000,3.1
+White Plains City,2001,3.5
+White Plains City,2002,4.2
+White Plains City,2003,4.1
+White Plains City,2004,4.2
+White Plains City,2005,3.6
+White Plains City,2006,3.4
+White Plains City,2007,3.3
+White Plains City,2008,4.4
+White Plains City,2009,6.7
+White Plains City,2010,6.6
+White Plains City,2011,6.2
+White Plains City,2012,6.4
+White Plains City,2013,5.6
+White Plains City,2014,4.4
+White Plains City,2015,3.8
+White Plains City,2016,3.6
+White Plains City,2017,3.8
+White Plains City,2018,3.3
+White Plains City,2019,3.1
+White Plains City,2020,7.1
+White Plains City,2021,4.0
+White Plains City,2022,2.7
+White Plains City,2023,2.9
+White Plains City,2024,3.4
+Wyoming County,1990,5.9
+Wyoming County,1991,8.3
+Wyoming County,1992,8.9
+Wyoming County,1993,8.2
+Wyoming County,1994,7.9
+Wyoming County,1995,6.8
+Wyoming County,1996,6.6
+Wyoming County,1997,6.9
+Wyoming County,1998,7.7
+Wyoming County,1999,7.1
+Wyoming County,2000,4.7
+Wyoming County,2001,4.9
+Wyoming County,2002,5.8
+Wyoming County,2003,6.1
+Wyoming County,2004,6.3
+Wyoming County,2005,5.3
+Wyoming County,2006,4.9
+Wyoming County,2007,4.8
+Wyoming County,2008,6.2
+Wyoming County,2009,9.1
+Wyoming County,2010,9.6
+Wyoming County,2011,8.8
+Wyoming County,2012,9.0
+Wyoming County,2013,8.1
+Wyoming County,2014,6.6
+Wyoming County,2015,5.7
+Wyoming County,2016,5.4
+Wyoming County,2017,5.6
+Wyoming County,2018,4.6
+Wyoming County,2019,4.2
+Wyoming County,2020,7.3
+Wyoming County,2021,4.6
+Wyoming County,2022,3.6
+Wyoming County,2023,3.9
+Wyoming County,2024,4.5
+Yates County,1990,5.2
+Yates County,1991,6.8
+Yates County,1992,7.4
+Yates County,1993,5.7
+Yates County,1994,5.2
+Yates County,1995,4.7
+Yates County,1996,4.1
+Yates County,1997,4.2
+Yates County,1998,3.9
+Yates County,1999,4.0
+Yates County,2000,3.7
+Yates County,2001,3.8
+Yates County,2002,4.9
+Yates County,2003,4.9
+Yates County,2004,4.6
+Yates County,2005,4.3
+Yates County,2006,4.2
+Yates County,2007,4.1
+Yates County,2008,4.8
+Yates County,2009,6.9
+Yates County,2010,7.6
+Yates County,2011,7.5
+Yates County,2012,7.9
+Yates County,2013,7.0
+Yates County,2014,5.7
+Yates County,2015,5.0
+Yates County,2016,4.5
+Yates County,2017,4.4
+Yates County,2018,3.7
+Yates County,2019,3.6
+Yates County,2020,6.3
+Yates County,2021,3.9
+Yates County,2022,3.0
+Yates County,2023,3.2
+Yates County,2024,3.6
+Yonkers,1990,4.8
+Yonkers,1991,7.3
+Yonkers,1992,8.5
+Yonkers,1993,7.5
+Yonkers,1994,6.6
+Yonkers,1995,6.0
+Yonkers,1996,5.5
+Yonkers,1997,5.1
+Yonkers,1998,4.5
+Yonkers,1999,4.6
+Yonkers,2000,4.1
+Yonkers,2001,4.7
+Yonkers,2002,5.6
+Yonkers,2003,5.6
+Yonkers,2004,5.6
+Yonkers,2005,5.1
+Yonkers,2006,4.8
+Yonkers,2007,4.5
+Yonkers,2008,5.8
+Yonkers,2009,8.7
+Yonkers,2010,9.0
+Yonkers,2011,8.6
+Yonkers,2012,8.7
+Yonkers,2013,7.6
+Yonkers,2014,6.2
+Yonkers,2015,5.5
+Yonkers,2016,5.2
+Yonkers,2017,5.3
+Yonkers,2018,4.5
+Yonkers,2019,4.3
+Yonkers,2020,11.0
+Yonkers,2021,6.3
+Yonkers,2022,4.0
+Yonkers,2023,4.0
+Yonkers,2024,4.4
+Yonkers City,1990,4.8
+Yonkers City,1991,7.3
+Yonkers City,1992,8.5
+Yonkers City,1993,7.5
+Yonkers City,1994,6.6
+Yonkers City,1995,6.0
+Yonkers City,1996,5.5
+Yonkers City,1997,5.1
+Yonkers City,1998,4.5
+Yonkers City,1999,4.6
+Yonkers City,2000,4.1
+Yonkers City,2001,4.7
+Yonkers City,2002,5.6
+Yonkers City,2003,5.6
+Yonkers City,2004,5.6
+Yonkers City,2005,5.1
+Yonkers City,2006,4.8
+Yonkers City,2007,4.5
+Yonkers City,2008,5.8
+Yonkers City,2009,8.7
+Yonkers City,2010,9.0
+Yonkers City,2011,8.6
+Yonkers City,2012,8.7
+Yonkers City,2013,7.6
+Yonkers City,2014,6.2
+Yonkers City,2015,5.5
+Yonkers City,2016,5.2
+Yonkers City,2017,5.3
+Yonkers City,2018,4.5
+Yonkers City,2019,4.3
+Yonkers City,2020,11.0
+Yonkers City,2021,6.3
+Yonkers City,2022,4.0
+Yonkers City,2023,4.0
+Yonkers City,2024,4.4
+Yorktown Town,1990,2.5
+Yorktown Town,1991,3.8
+Yorktown Town,1992,4.5
+Yorktown Town,1993,4.0
+Yorktown Town,1994,3.5
+Yorktown Town,1995,3.1
+Yorktown Town,1996,2.9
+Yorktown Town,1997,2.6
+Yorktown Town,1998,2.4
+Yorktown Town,1999,2.4
+Yorktown Town,2000,2.9
+Yorktown Town,2001,3.2
+Yorktown Town,2002,4.0
+Yorktown Town,2003,4.0
+Yorktown Town,2004,3.9
+Yorktown Town,2005,3.6
+Yorktown Town,2006,3.5
+Yorktown Town,2007,3.2
+Yorktown Town,2008,4.2
+Yorktown Town,2009,6.5
+Yorktown Town,2010,7.4
+Yorktown Town,2011,6.9
+Yorktown Town,2012,7.3
+Yorktown Town,2013,6.1
+Yorktown Town,2014,5.0
+Yorktown Town,2015,4.4
+Yorktown Town,2016,4.3
+Yorktown Town,2017,4.3
+Yorktown Town,2018,3.5
+Yorktown Town,2019,3.4
+Yorktown Town,2020,7.4
+Yorktown Town,2021,4.4
+Yorktown Town,2022,2.9
+Yorktown Town,2023,3.1
+Yorktown Town,2024,3.4
